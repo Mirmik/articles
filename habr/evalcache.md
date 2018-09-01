@@ -174,7 +174,7 @@ evalcache - часть проекта zencad. Это маленький скри
 Задача evalcache состояла в том, чтобы сгладить эту проблему. В zencad все операции объявлены как ленивые.
 
 Пример:
-<spoiler>
+<spoiler text=Пример>
 ```python
 #!/usr/bin/python3
 #coding: utf-8
