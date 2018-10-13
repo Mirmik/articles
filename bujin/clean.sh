@@ -1,1 +1,1 @@
-rm -f *.gif *.png *.4ct *.4tc *.css *.dvi *.haux *.pdf *.idv *.htoc *.log *.xref *.html auto_* *.aux *.out *.lg
+rm -f *.gif *.png *.4ct *.4tc *.css *.dvi *.haux *.pdf *.idv *.htoc *.log *.xref *.html auto_* *.aux *.out *.lg *.tmp
