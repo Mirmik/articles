@@ -10,17 +10,17 @@ C 10 кю по 7-ой кю.
 1. Shizen noKamae. (Естественная позиция).
 2. Fudoza (Непоколебимая позиция сидя). 
 3. Seiza (Позиция сидя на коленях).
-4. Ichimonji no Kamae. (Позиция единых врат).
-    • Bobi
-    • Seigan
-    • Dokko (Позиция Тигра).
+4. Ichimonji no Kamae. (Позиция единых врат).  
+    * Bobi  
+    * Seigan  
+    * Dokko (Позиция Тигра).  
 5. Ihen (Migi, Hidari) noKamae.
 6. Hicho no Kamae. (Позиция парящей птицы).
 7. Hira no Kamae.
 8. Jumonji no Kamae. (Позиция “кандзи (знака) десяти”).
 9. Hiraichimonji no Kamae. (“Плоская” позиция).
 10. Hoko no Kamae. (Позиция медведя).
-    • Kosei no Kamae. (Наблюдательная позиция). 
+    * Kosei no Kamae. (Наблюдательная позиция). 
 11. Ryuhyo no Kamae. (Положение дракона-леопарда)
 12. Ryuhyo Fusetsu no Kamae. (Положение дракона-леопарда-оленя)
 
