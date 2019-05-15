@@ -64,3 +64,32 @@ C 10 кю по 7-ой кю.
 8. Suzu – Пах
 9. Gorin – Область живота
 10. Amado – Область шеи, по линии плеча (парная)
+
+## 8 Кю
+
+### Методы дыхания
+1. Ритмическое дыхание.
+
+### Принципы
+1. Shizen Gyo Un Ryu Sui
+2. Ken Tai Ichi Jo
+
+### Ukemi
+1. Otoshi.
+2. Kuten.
+3. Kuhi.
+
+### Mu To Dori
+1. Hira no Kamae
+2. Ichimonji no Kamae
+3. Jumonji no Kamae
+
+### Aruki Waza
+1. Soku Shin So Soku Ho
+2. Hyo Jo Ho Ko
+3. Mu on no Ho
+
+### Tai Sabaki
+1. Shiho Ten Chi Tobi
+
+### Ashirau Ippo Yonho
