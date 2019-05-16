@@ -1,55 +1,71 @@
-# Ten Ryaku No Maki 
-C 10 кю по 7-ой кю.
+Ten Ryaku No Maki 
+=================
+C 10-го по 7-ой кю.
 
 10 Кю. 
 ======
 
+### О системе Будзинкан.
+1. Будзинкан, 9 школ.
+2. М. Хацуми и Т. Такамацу.
+3. Традиции и правила поведения в додзе.
+
 ### Методы дыхания.
-....
+Дыхательные упражнения в положении Seiza:
+1. Shomen kokyu ho. (Фронтальное дыхние)
+2. Seiza sayu shin kokyu. (Боковое дыхание)
+3. Shinten shin kokyu. (Дыхание с прогибом в спине)
 
 ### Камаэ.
-1. Shizen no Kamae. (Естественная позиция).
-2. Fudoza no Kamae (Непоколебимая позиция сидя). 
-3. Seiza no Kamae (Позиция сидя на коленях).
-4. Ichimonji no Kamae. (Позиция единых врат).  
+1. Shizen no Kamae. (Естественная позиция)
+2. Fudoza no Kamae (Непоколебимая позиция сидя)
+3. Seiza no Kamae (Позиция сидя на коленях)
+4. Ichimonji no Kamae. (Позиция единых врат)
     * Bobi  
     * Seigan  
-    * Dokko (Позиция Тигра).  
-5. Ihen (Migi, Hidari) no Kamae.
-6. Hicho no Kamae. (Позиция парящей птицы).
-7. Hira no Kamae.
-8. Jumonji no Kamae. (Позиция “кандзи (знака) десяти”).
-9. Hiraichimonji no Kamae. (“Плоская” позиция).
-10. Hoko no Kamae. (Позиция медведя).
-    * Kosei no Kamae. (Наблюдательная позиция). 
+    * Dokko (Позиция Тигра)
+5. Ihen (Migi, Hidari) no Kamae
+6. Hicho no Kamae. (Позиция парящей птицы)
+7. Hira no Kamae
+8. Jumonji no Kamae. (Позиция “кандзи (знака) десяти”)
+9. Hiraichimonji no Kamae. (“Плоская” позиция)
+10. Hoko no Kamae. (Позиция медведя)
+    * Kosei no Kamae. (Наблюдательная позиция)
 11. Ryuhyo no Kamae. (Положение дракона-леопарда)
 12. Ryuhyo Fusetsu no Kamae. (Положение дракона-леопарда-оленя)
 
-### Уходы с линии атаки.
-1. Mae.
-2. Ushiro.
-3. Sayu.
-4. Naname.
+### Taihenjutsu. Taisabaki Kata. 
+1. Ushiro
+2. Migi, Hidari
+3. Naname
 
-### Taihenjutsu.
-1. Zenpo Kaiten
-2. Koho Kaiten 
-3. Koho Ukemi
+### Taihenjutsu. Ukemi
+1. Zenpo Kaiten (Перекат вперёд)
+2. Koho Kaiten (Перекат назад)
+3. Koho Ukemi (Страховка при падении назад)
 
 9 Кю.
 =====
 
-### Методы дыхания.
-* Оживляющее дыхание. 
+### Методы дыхания
+1. Нижнее дыхание
 
-### Принципы.
-1. Дистанция.
-2. Уход с линии атаки.
+### Принципы
+1. Дистанция
+2. Уход с линии атаки
 
-### Taihenjutsu
-1. Sokuho Kaiten
-2. Zenpo Ukemi
-3. Yoko Ukemi
+### Taihenjutsu. Taisabaki Kata.
+1. Ushiro
+2. Migi, Hidari
+3. Mae
+4. Naname
+5. Sayu
+
+### Taihenjutsu. Ukemi
+1. Sokuho Kaiten (Боковой кувырок)
+2. Zenpo Ukemi (Страховка при падении вперед)
+3. Yoko Ukemi (Страховка при падении вбок)
+4. Yoko Nagare / Sokuho Nagare
 
 ### Tsuki Kihon Kata
 1. Fudoken (Kongoken)  
@@ -67,20 +83,25 @@ C 10 кю по 7-ой кю.
 9. Gorin – Область живота
 10. Amado – Область шеи, по линии плеча (парная)
 
-8 Кю
+8 Кю.
 =====
 
-### Методы дыхания
-1. Ритмическое дыхание.
+### Методы дыхания.
+1. Среднее дыхание.
+2. Верхнее дыхание.
+3. Полное дыхание.
 
 ### Принципы
 1. Shizen Gyo Un Ryu Sui
-2. Ken Tai Ichi Jo
+2. Ken Tai Ichi Jo. (Тело и оружие едины).
 
 ### Ukemi
-1. Otoshi.
-2. Kuten.
-3. Kuhi.
+1. Koho Nagare.
+2. Tachi Nagare.
+3. Gyaku Nagare.
+4. Jun Nagare.
+5. Naname Nagare.
+6. Oten.
 
 ### Mu To Dori
 1. Hira no Kamae
@@ -134,19 +155,26 @@ C 10 кю по 7-ой кю.
 * Ryote
 
 
-7 Кю
+7 Кю.
 =====
 
-### Kokyuho
-????????????????
+### Методы дыхания
+1. Нижнее обратное дыхание.
+2. Очищающее дыхание.
+3. Скрытое (боевое) дыхание. 
 
 ### Принципы
-1. Shingitai 
-2. Seishi teki kyoyo
+1. Shingitai (Тело, разум, дух едины).
+2. Seishi teki kyoyo.
 3. Kokoro no shinobu (Терпеливое сердце)
 
 ### Ukemi
-Kaiten. Ryote, Katate, Mute.
+1. Kaiten Mute.
+2. Kuten.
+3. Hicho Kaiten.
+4. Sui Rui.
+5. Shizen. 
+6. Hanbo Nagare.
 
 ### Hikken Ju Roppo
 1. Koppo Ken - второй сустав большого пальца
@@ -214,13 +242,15 @@ Torite Kihon Gata Goho
 4. Fu
 5. Ku
 
-# Chi Ryaku No Maki
-C 6 кю по 4-ый кю.
+Chi Ryaku No Maki
+=================
+C 6-го по 4-ый кю.
 
-6 Кю
-====
+6 Кю.
+=====
 
 ### Методы дыхания.
+1. Полное дыхание. (Контроль дыхания выполнении техник.)
 
 ### Принципы
 1. Fu Tan Ren
@@ -288,8 +318,8 @@ Tachi Waza:
 5 Кю.
 =====
 
-### Методы дыхание
-???????????????
+### Методы дыхания.
+1. Ритмическое дыхание.
 
 ### Принципы
 1. Kamae wa shoshinsha ni ato wa shizentai
@@ -423,7 +453,49 @@ Tachi Waza:
 3. Ichimonji
 4. Ten no Kamae
 
+Jin Ryaku No Maki
+=================
+С 3-го по 1-й кю.
 
 3 Кю.
 =====
 
+### Методы дыхания
+1. Подавление боли.
+
+### Принципы
+Budo no Kiso 
+
+### История и стратегия Gyokko Ryu Kosshijutsu
+
+### Kamae Gyokko Ryu
+????????????
+
+### Bujinkan Budo Densho Gyokko Ryu
+???????????
+
+### Принципы работы с ката
+???????????
+
+### Joryaku no Maki Gyokko Ryu
+1. Koku                   
+2. Renyo                  
+3. Danshu                 
+4. Danshi                 
+5. Gyaku Nagare           
+6. Keto                   
+7. Ketsumyaku
+8. Teiken
+9. Sakketsu
+10. Keo
+11. Hanebi
+12. Yubi Kudaki
+
+### Roppou Kuji no Biken
+1. Ni Jigen no Sekai (после атаки). Omote (внутренняя форма)
+2. Ten. Tsuki Komi, Tsuki Komi Sayu Gyaku
+3. Chi. Tsuki Kake, Tsuki Kake Sayu Gyaku
+4. Jin. Kiri Age, Kiri Age Sayu Gyaku
+
+### Kihon Happo 
+1. Kossi Kihon Sanpo и Torite Kihon Gata Goho
