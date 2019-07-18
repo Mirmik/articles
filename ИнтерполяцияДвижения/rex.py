@@ -9,6 +9,7 @@ import random
 
 import numpy
 
+#pycrow.diagnostic(live=True)
 pycrow.create_udpgate(12, 10012)
 pycrow.start_spin()
 
