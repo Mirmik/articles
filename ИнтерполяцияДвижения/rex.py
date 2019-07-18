@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import pycrow
 import time
 from zencad import *
 from zencad.controllers import *
@@ -7,6 +8,18 @@ from zencad.controllers import *
 import random
 
 import numpy
+
+pycrow.create_udpgate(12, 10012)
+pycrow.start_spin()
+
+x = [0,0,0,0,0]
+def incomming(pack):
+	global x
+	arr = numpy.frombuffer(pack.rawdata(), dtype=numpy.float32)
+	if len(arr) == 5:
+		x = arr 
+
+pycrow.incoming_handler(incomming)
 
 class zveno1(zencad.controllers.Unit):
 	def __init__(self, l):
@@ -51,20 +64,19 @@ o.location_update(deep=True)
 scn = zencad.Scene()
 a.bind_scene_deep(scn)
 
-x = [0,0,0,0,0]
-v = [1,1,1,1,1]
+#v = [1,1,1,1,1]
 lasttime = time.time()
 def update(wdg):
-	global lasttime
-	curtime = time.time()
-	deltatime = curtime - lasttime
-	lasttime = curtime
+#	global lasttime
+#	curtime = time.time()
+#	deltatime = curtime - lasttime
+#	lasttime = curtime
 
-	deltatime = deltatime * 3 / 4
+#	deltatime = deltatime * 3 / 4
 
-	for i in range(len(x)):
-		v[i] += random.uniform(-deltatime*3, deltatime*3)
-		x[i] += v[i] * deltatime
+#	for i in range(len(x)):
+#		v[i] += random.uniform(-deltatime*3, deltatime*3)
+#		x[i] += v[i] * deltatime
 
 	o.set_coord(x[0])
 	a.outrot.set_coord(x[1])
