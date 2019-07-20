@@ -5,6 +5,7 @@ import time
 from zencad import *
 import zencad.assemble
 import zencad.cynematic
+import zencad.malgo
 
 import random
 
@@ -14,7 +15,6 @@ import numpy
 #pycrow.create_udpgate(12, 10012)
 #pycrow.start_spin()
 
-x = [0,0,0,0,0]
 def incomming(pack):
 	global x
 	arr = numpy.frombuffer(pack.rawdata(), dtype=numpy.float32)
@@ -69,36 +69,61 @@ o.location_update(deep=True, view=True)
 
 chain = zencad.cynematic.cynematic_chain(d.outrot, o)
 
-senses = chain.sensivity(basis=o)
-
-for s in senses:
-	print(s)
-
 scn = zencad.Scene()
 o.bind_scene_deep(scn)
-#
-##v = [1,1,1,1,1]
-#lasttime = time.time()
-#def update(wdg):
-##	global lasttime
-##	curtime = time.time()
-##	deltatime = curtime - lasttime
-##	lasttime = curtime
-#
-##	deltatime = deltatime * 3 / 4
-#
-##	for i in range(len(x)):
-##		v[i] += random.uniform(-deltatime*3, deltatime*3)
-##		x[i] += v[i] * deltatime
-#
-#	o.set_coord(x[0])
+
+zcur = d.outrot.global_location.translation().z
+
+x = [0,deg(45),deg(45),0]
+v = [0,0,0,0]
+state = 0
+lasttime = time.time()
+def update(wdg):
+	global state
+	global lasttime
+	curtime = time.time()
+	deltatime = curtime - lasttime
+	lasttime = curtime
+
+	#print("eval:")
+	senses = chain.sensivity(basis=o)
+
+	cur = d.outrot.global_location.translation()
+	print(cur)
+
+	#print("senses", senses)
+	
+	if state == 0:
+		vcoords, iters = zencad.malgo.naive_backpack((0,0,0,-10,0,0), [(*w, *v) for w, v in senses])
+		if cur.x < -20: state = 1
+	if state == 1:
+		vcoords, iters = zencad.malgo.naive_backpack((0,0,0,0,0,-10), [(*w, *v) for w, v in senses])
+		if cur.z < 15: state = 2
+	if state == 2:
+		vcoords, iters = zencad.malgo.naive_backpack((0,0,0,10,0,0), [(*w, *v) for w, v in senses])
+		if cur.x > 20: state = 3
+	if state == 3:
+		vcoords, iters = zencad.malgo.naive_backpack((0,0,0,0,0,10), [(*w, *v) for w, v in senses])
+		if cur.z > zcur: state = 0
+
+	#print("vcoords", vcoords)
+	
+	#time.sleep(10000)
+
+	for i in range(len(x)):
+		v[i] = vcoords[i]
+		x[i] += v[i] * deltatime * 2
+
+
+
+	o.set_coord(x[0])
 #	a.outrot.set_coord(x[1])
-#	b.outrot.set_coord(x[2])
-#	c.outrot.set_coord(x[3])
-#	d.outrot.set_coord(x[4])
-#	
-#	o.location_update(deep=True, view=True)
-#
-#	#wdg.set_eye(zencad.rotateZ(zencad.deg(deltatime*7))(wdg.eye()), orthogonal=True)
-#
-show(scn)
+	b.outrot.set_coord(x[1])
+	c.outrot.set_coord(x[2])
+	#d.outrot.set_coord(x[4])
+	
+	o.location_update(deep=True, view=True)
+
+	#wdg.set_eye(zencad.rotateZ(zencad.deg(deltatime*7))(wdg.eye()), orthogonal=True)
+
+show(scn, animate=update)
