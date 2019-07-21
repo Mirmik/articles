@@ -133,7 +133,7 @@ def update(wdg):
 
 	TSPD = 10
 	DELTATIME= deltatime
-#	print(deltatime)
+	print(deltatime)
 	K = 10
 
 	tmdel_position = tmodel.translation()
