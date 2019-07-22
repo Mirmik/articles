@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.6.25)  22 JUL 2019 16:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.6.25)  22 JUL 2019 19:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -603,56 +603,63 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 41.
+(Font)              <7> on input line 43.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 41.
+(Font)              <5> on input line 43.
 
 [3]
-Overfull \hbox (9.85779pt too wide) in paragraph at lines 86--90
+Overfull \hbox (1.724pt too wide) in paragraph at lines 75--76
+[]\T2A/cmr/m/n/10 Такое пред-став-ле-ние не яв-ля-ясь яв-но обу-слов-лен-ным ан
+а-ли-ти-че-ски, удоб-
+ []
+
+[4] [5] [6]
+Overfull \hbox (9.85779pt too wide) in paragraph at lines 127--131
 \T2A/cmr/m/n/10 R_s_n(n) * W_n * q_n' ) (v_s, w_s)(s) = sum( H_s_n(s) * R_s_n(q
 n+1..s)(n)
  []
 
-[4]
-Overfull \hbox (0.97418pt too wide) in paragraph at lines 106--108
+
+Overfull \hbox (0.97418pt too wide) in paragraph at lines 147--149
 []\T2A/cmr/m/n/10 Выражение (* ) мож-но пе-ре-пи-сать в ви-де: (v_s, w_s)(s) = 
 sum( W_n(q_n
  []
 
-
-Overfull \hbox (2.97058pt too wide) in paragraph at lines 114--115
+[7]
+Overfull \hbox (2.97058pt too wide) in paragraph at lines 155--156
 \T2A/cmr/m/n/10 за-да-ча име-ет мно-же-ство ре-ше-ний, оп-ти-ми-зи-ру-е-мый фун
 к-ци-о-нал мо-жет быть
  []
 
-[5]
-Overfull \hbox (10.443pt too wide) in paragraph at lines 127--129
+
+Overfull \hbox (10.443pt too wide) in paragraph at lines 168--170
 []\T2A/cmr/m/n/10 Пусть D - тен-зор пе-ре-хо-да меж-ду дву-мя со-сед-ни-ми по-л
 о-же-ни-я-ми. D_s_s+1
  []
 
-[6] (./refer.aux) ) 
+[8] [9] (./refer.aux) ) 
 Here is how much of TeX's memory you used:
- 1960 strings out of 494324
- 21077 string characters out of 6170706
- 178755 words of memory out of 5000000
- 5314 multiletter control sequences out of 15000+600000
+ 1965 strings out of 494324
+ 21119 string characters out of 6170706
+ 179755 words of memory out of 5000000
+ 5319 multiletter control sequences out of 15000+600000
  10404 words of font info for 28 fonts, out of 8000000 for 9000
  475 hyphenation exceptions out of 8191
- 23i,6n,23p,1076b,187s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/mirmik/.texlive2017/texmf-var/fonts/pk/ljfour/lh/lh-
-t2a/labx1440.600pk> </home/mirmik/.texlive2017/texmf-var/fonts/pk/ljfour/lh/lh-
-t2a/larm1000.600pk> </home/mirmik/.texlive2017/texmf-var/fonts/pk/ljfour/lh/lh-
-t2a/larm1200.600pk> </home/mirmik/.texlive2017/texmf-var/fonts/pk/ljfour/lh/lh-
-t2a/larm1728.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi
-7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
-/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on refer.pdf (6 pages, 95365 bytes).
+ 23i,6n,23p,1127b,187s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/mirmik/.texlive2017/texmf-var/fonts/pk/ljfour/lh
+/lh-t2a/labx1440.600pk> </home/mirmik/.texlive2017/texmf-var/fonts/pk/ljfour/lh
+/lh-t2a/larm1000.600pk> </home/mirmik/.texlive2017/texmf-var/fonts/pk/ljfour/lh
+/lh-t2a/larm1200.600pk> </home/mirmik/.texlive2017/texmf-var/fonts/pk/ljfour/lh
+/lh-t2a/larm1728.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on refer.pdf (9 pages, 111925 bytes).
 PDF statistics:
- 219 PDF objects out of 1000 (max. 8388607)
- 45 compressed objects within 1 object stream
+ 241 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
