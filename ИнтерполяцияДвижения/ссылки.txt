@@ -9,3 +9,6 @@ https://studbooks.net/2410886/informatika/pryamaya_zadacha_kinematiki
 Про лагранжа:
 https://moluch.ru/archive/103/23785/
 https://moluch.ru/archive/103/23785/
+
+Тензоры:
+https://habr.com/ru/post/262129/
