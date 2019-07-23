@@ -6,6 +6,10 @@
 \usepackage[utf8]{inputenc}
 \usepackage[T2A]{fontenc}
 \usepackage[english, russian]{babel}
+\usepackage{caption}
+
+\usepackage{graphicx} 
+\graphicspath{ {./images/} }
 
 %\usepackage{indentfirst}
 
@@ -75,6 +79,21 @@ V_j(t) = (v_j(t),\omega_j(t))
 Такое представление не являясь явно обусловленным аналитически, удобно, в рамках метода, с вычислительной точки зрения. Использование такой системы компонентного представления приводит к тому, что уравнение (\ref{speed_eq}) не может быть в общем случае записано в компонентной форме.
 
 Одной из возможных форм компонентного представления тензора положения является пара радиус-вектора и вектора поворота $(r,\rho)$ (порядок преобразований - сначала поворот, затем трансляция). Отметим, что, если на 6-вектор производной положения $(v,\omega)$ наложить условие колинеарности 6-вектору положения $(r,\rho)$, задача может быть сведена к одномерной, дифференциальные уравнения становятся линейными, а композиции преобразований по этой 6-оси образуют группу. 
+
+
+%\begin{figure}
+%\centering
+%\includegraphics[width=0.8\textwidth,height=0.8\textheight,keepaspectratio]{oneaxis.png}
+%\caption{Зависимость сигнала от шума для данных.}
+%\label{ris:image}
+%\end{figure}
+
+\begin{center}
+  \includegraphics[width=0.8\textwidth,height=0.8\textheight,keepaspectratio]{oneaxis.png}
+  \captionof{figure}{Сведение задачи к одномерному случаю.}
+  \label{fig:nonfloat}
+\end{center}
+
 
 \begin{equation}
 (\bar{v_l},\bar{\omega_l}) = (\dot{\bar{r_l}},\dot{\bar{\rho_l}})
