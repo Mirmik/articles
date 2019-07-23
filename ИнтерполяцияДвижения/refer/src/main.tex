@@ -2,6 +2,7 @@
 \usepackage[left=30mm, top=25mm, right=20mm, bottom=25mm, nohead]{geometry}
 
 \usepackage{amssymb}
+\usepackage{amsmath}
 \usepackage{lipsum}
 \setlength{\parindent}{3ex}
 \setlength{\parskip}{1em}
@@ -115,45 +116,123 @@ V_j(t) = P_j'(t) = (v_j(t),\omega_j(t))
 \newpage
 \section{Нахождение частных производных.}
 
-Рассмотрим производную тензора положения $n$-ой СК, зависящего от кинематических параметров цепи предшествующих звеньев.
-
+Рассмотрим производную тензора положения $j$-ой СК в цепочке, состоящей из $n$ звеньев.
 \begin{equation}\label{eq1}
-V_n = \frac{dP_n(q_0, ..., q_n)}{dt} = \sum_{i=1}^{n} \frac{\partial{P_n(q_0, ..., q_n)}}{\partial{q_i}}\dot{q_i} 
+V^j = \frac{dP_j}{dt} = \sum_{i=1}^{n}\frac{\partial{P_j}}{\partial{q_i}}\dot{q_i} 
 \end{equation}
 
-В силу независимости частных производных:
-\begin{equation}\label{eq1.5}
-\frac{\partial{P_n}(q_0, ..., q_n)}{\partial{q_i}} = \frac{\partial{\dot{P_n}(q_0, ..., q_n)}}{\partial{\dot{q_i}}}
+Поскольку от $q_i$ напрямую зависит только $P_i$, а вариации остальных $P_j, j \neq i$ являются производными,
+\begin{equation}\label{}
+\frac{\partial{P_j}}{\partial{q_i}} = \frac{\partial{P_j}}{\partial{P_i}}\frac{\partial{P_i}}{\partial{q_i}}
 \end{equation}
 
-Тогда (\ref{eq1}) можно записать как:
+Причем, очевидно, что 
+\begin{equation}\label{}
+\frac{\partial{P_j}}{\partial{P_i}} = 0, \ \ \forall i: i > j
+\end{equation}
+, поскольку эволюции последующих звеньев не могут влиять на положение предшествующих.
+\begin{equation}\label{}
+\frac{\partial{P_j}}{\partial{P_i}} = \frac{\partial{P_j}\partial{t}}{\partial{P_i}\partial{t}} = \frac{\partial{\dot{P}_j}}{\partial{\dot{P}_i}}
+\end{equation}
+\begin{equation}\label{}
+\frac{\partial{P_i}}{\partial{q_i}} = \frac{\partial{P_i}\partial{t}}{\partial{q_i}\partial{t}} = \frac{\partial{\dot{P}_i}}{\partial{\dot{q}_i}}
+\end{equation}
+
+Тогда (\ref{eq1}) можно записать в тензорном виде как:
 \begin{equation}\label{eq2}
-V_n = \sum_{i=1}^{n} \frac{\partial{\dot{P_n}}}{\partial{\dot{P_i}}}\frac{\partial{\dot{P_i}}}{\partial{\dot{q_i}}}\dot{q_i} 
+V^j = \frac{\partial{\dot{P^j}}}{\partial{\dot{P}^i}}\frac{\partial{\dot{P}^i}}{\partial{\dot{q}^i}}\dot{q}^i 
 \end{equation}
 
-Выражение (\ref{eq2}) является решением прямой скоростной задачи кинематики в тензорном виде.
+Переходя к записи в интересующих нас компонентах скоростей имеем:
+\begin{equation}\label{matrix_spd_eq}
+\begin{vmatrix}
+\omega^j\\
+v^j
+\end{vmatrix}
+=
+\begin{vmatrix}
+\frac{\partial{\omega^j}}{\partial{\omega^i}} & \frac{\partial{\omega^j}}{\partial{v^i}} \\
+\frac{\partial{v^j}}{\partial{\omega^i}} & \frac{\partial{v^j}}{\partial{v^i}}
+\end{vmatrix}
+\begin{vmatrix}
+\frac{\partial{\omega^i}}{\partial{\dot{q}^i}}\\
+\frac{\partial{v^i}}{\partial{\dot{q}^i}}
+\end{vmatrix}
+\dot{q}^i
+\end{equation}
 
-Введём операторы:
+В этом выражении $\omega^i$ и $v^i$ - скоростные параметры $i$-ой ЛСК. Выражение (\ref{matrix_spd_eq}) позволяет зная обобщенные скорости определить скорости всех звеньев цепи. 
+
+До этих пор все вычисления велись в тензорном виде. Разложим вектора по базисам и проанализируем уравнения.
 \begin{equation}\label{}
-R_i^j = \frac{\partial{\dot{P_j}}}{\partial{\dot{P_i}}}*, \ W_i = \frac{\partial{\dot{P_i}}}{\partial{\dot{q_i}}}*
+V^{(s)}j = H^s_i\frac{\partial{\dot{P^j}}}{\partial{\dot{P}^i}}^{(i)}\frac{\partial{\dot{P}^i}}{\partial{\dot{q}^i}}^{(i)}\dot{q}^i=H^s_jH^j_i\frac{\partial{\dot{P^j}}}{\partial{\dot{P}^i}}^{(i)}\frac{\partial{\dot{P}^i}}{\partial{\dot{q}^i}}^{(i)}\dot{q}^i
 \end{equation}
 
-\begin{equation}\label{eq2_op}
-V_n = \sum_{i=1}^{n} R_i^n(W_i(\dot{q_i})) 
-\end{equation}
-
-Перейдём к компонентной записи в интересующих нас базисах, используя ранее введенную компонентную форму записи тензора скорости (\ref{speed_eq_comp}). В базисе собственной i-ой СК оператор $W_i$ имеет тривиальное представление, обусловленное исключительно геометрией кинематического звена. Для большого количества реальных кинематических звеньев этот оператор не зависит от кинематических параметров (хотя в общем случае это не так). Так, например, для поворотного звена этот оператор равен 
+Выражение 
 \begin{equation}\label{}
-W_{rot,i}^{(i)} = (s[a_x a_y a_z], [0, 0, 0])^{(i)}*
+\frac{\partial{\dot{P}^i}}{\partial{\dot{q}^i}}^{(i)}
+=
+\begin{vmatrix}
+\frac{\partial{\omega^i}}{\partial{\dot{q}^i}}\\
+\frac{\partial{v^i}}{\partial{\dot{q}^i}}
+\end{vmatrix}^{(i)}
+\end{equation},
+разложенное по собственному базису для большого количества реальных кинематических звеньев не зависит от кинематических параметров (хотя в общем случае это не так). Так, например, для поворотного звена этот оператор равен 
+\begin{equation}\label{}
+W_{rot,i}^{(i)} = |s[a_x a_y a_z], [0, 0, 0]|^{T(i)}
 \end{equation}, где $\bar{a}$ - орт оси вращения в связанной системе координат, а $s$ - маштабный коэффициент. Для линейного кинематического звена оператор имеет вид 
 \begin{equation}\label{}
-W_{act,i}^{(i)} = ([0, 0, 0], s[a_x a_y a_z])^{(i)}*
+W_{act,i}^{(i)} = |[0, 0, 0], s[a_x a_y a_z]|^{T(i)}
 \end{equation}, где $\bar{a}$ - орт оси трансляции в связанной системе координат, а $s$ - маштабный коэффициент. 
+В этих двух наиболее часто встречающихся случаях $W_i$ является константой и может быть определён один раз, на первой итерации алгоритма.
 
-В свою очередь оператор $R_{ij}$ в базисе $i$ принимает вид преобразования переноса пары векторов линейной и угловой скорости к новой точке приложения:
+В свою очередь выражение
 \begin{equation}\label{}
-(\omega_j, v_j)^{(i)} = R_{ji}^{(i)}((\omega_i, v_i)) = (\omega_i,\ \bar{r} \times \omega_i + v_i)^{(i)}
+\frac{\partial{\dot{P^j}}}{\partial{\dot{P}^i}}^{(i)}
+=
+\begin{vmatrix}
+\frac{\partial{\omega^j}}{\partial{\omega^i}} & \frac{\partial{\omega^j}}{\partial{v^i}} \\
+\frac{\partial{v^j}}{\partial{\omega^i}} & \frac{\partial{v^j}}{\partial{v^i}}
+\end{vmatrix}^{(i)}
+\end{equation}
+в базисе $i$ принимает вид преобразования переноса пары векторов линейной и угловой скорости к новой точке приложения:
+\begin{equation}\label{}
+|\omega_j, v_j|^{T(i)} = |\omega_i,\ \omega_i \times \bar{r} + v_i|^{T(i)} = R^{(i)j}_{i}|\omega_i, v_i|^T=
+\begin{vmatrix}
+E & 0\\
+\begin{vmatrix}
+0 & r_3 & -r_2\\
+-r_3 & 0 & r_1\\
+r_2 & -r_1 & 0
+\end{vmatrix}
+^{(i)} & E
+\end{vmatrix}
+\begin{vmatrix}
+\omega^i\\
+v^i
+\end{vmatrix}^{(i)}
 \end{equation}, где $\bar{r}$ - вектор трансляции, связывающий центры $P_i$ и $P_j$.
+
+
+%Выражение (\ref{eq2}) является решением прямой скоростной задачи кинематики в тензорном виде.
+%
+%Введём операторы:
+%\begin{equation}\label{}
+%R_i^j = \frac{\partial{\dot{P_j}}}{\partial{\dot{P_i}}}*, \ W_i = \frac{\partial{\dot{P_i}}}{\partial{\dot{q_i%}}}*
+%\end{equation}
+%
+%\begin{equation}\label{eq2_op}
+%V_n = \sum_{i=1}^{n} R_i^n(W_i(\dot{q_i})) 
+%\end{equation}
+
+%Перейдём к компонентной записи в интересующих нас базисах, используя ранее введенную компонентную форму %записи тензора скорости (\ref{speed_eq_comp}). В базисе собственной i-ой СК оператор $W_i$ имеет тривиальное %представление, обусловленное исключительно геометрией кинематического звена. Для большого количества реальных %кинематических звеньев этот оператор не зависит от кинематических параметров и записывается тривиально (хотя %в общем случае это не так). Так, например, для поворотного звена этот оператор равен 
+%\begin{equation}\label{}
+%W_{rot,i}^{(i)} = (s[a_x a_y a_z], [0, 0, 0])^{(i)}*
+%\end{equation}, где $\bar{a}$ - орт оси вращения в связанной системе координат, а $s$ - маштабный %коэффициент. Для линейного кинематического звена оператор имеет вид 
+%\begin{equation}\label{}
+%W_{act,i}^{(i)} = ([0, 0, 0], s[a_x a_y a_z])^{(i)}*
+%\end{equation}, где $\bar{a}$ - орт оси трансляции в связанной системе координат, а $s$ - маштабный коэффициент. 
+
 
 Тогда (\ref{eq2_op}) в компонентной форме примет вид:
 \begin{equation}\label{compspd1}
