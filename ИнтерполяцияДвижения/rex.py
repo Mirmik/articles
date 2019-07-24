@@ -131,7 +131,7 @@ def update(wdg):
 	#	target = (0,0,0,0,0,10)
 	#	if cur.z > zcur: state = 0
 
-	TSPD = 10
+	TSPD = 100
 	DELTATIME= deltatime
 	
 	K = 10
@@ -168,7 +168,7 @@ def update(wdg):
 	#exit(0)
 	#print("ttrans", ttrans)
 
-	target = (*rtrans,*ttrans)
+	target = (*rtrans,*ttrans + current.inverse()(pyservoce.vector3(*tspd)))
 
 	#vcoords, iters = zencad.malgo.naive_backpack(target, koeffs=[1,1,1,1], maxiters=100, alpha=0.5, 
 	#	penalty=penalty, 
