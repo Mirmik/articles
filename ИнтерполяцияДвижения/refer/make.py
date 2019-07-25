@@ -29,6 +29,8 @@ latex(src="src/main.tex", tgt="refer.pdf", tgtname="refer",
 	deps = fls
 )
 
-licant.fileset("all", targets=["refer.pdf"])
+@licant.routine
+def re():
+	licant.do(["refer.pdf", "build"])
 
-licant.ex("all")
+licant.ex("refer.pdf")
