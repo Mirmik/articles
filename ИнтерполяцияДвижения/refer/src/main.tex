@@ -27,47 +27,24 @@
 
 \maketitle
 
-%\newpage
-\input{src/introduction.tex}
+\newcommand{\cinput}[1]{
+	\newpage 
+	\input{#1}
+}
 
-%\newpage
-\input{src/ctrobj.tex}
-
-%\newpage
-\input{src/htrans.tex}
-
-%\newpage
-\input{src/straight.tex}
-
-%\newpage
-\input{src/common.tex}
-
-%\newpage
-\input{src/inverse.tex}
-
-%\newpage
-\input{src/track.tex}
-
-%\newpage
-\input{src/lerp.tex}
-
-%\newpage
-\input{src/restr_coord.tex}
-
-%\newpage
-\input{src/restr_traj.tex}
-
-%\newpage
-\input{src/localbase.tex}
-
-%\newpage 
-\input{src/tree.tex}
-
-%\newpage
-%\input{delta.tex}
-
-%\newpage
-\input{src/findings.tex}
+\cinput{src/introduction.tex}
+\cinput{src/ctrobj.tex}
+\cinput{src/htrans.tex}
+\cinput{src/straight.tex}
+\cinput{src/common.tex}
+\cinput{src/inverse.tex}
+\cinput{src/track.tex}
+\cinput{src/lerp.tex}
+\cinput{src/restr_coord.tex}
+\cinput{src/restr_traj.tex}
+\cinput{src/localbase.tex}
+\cinput{src/tree.tex}
+\cinput{src/findings.tex}
 
 \end{document}
 
