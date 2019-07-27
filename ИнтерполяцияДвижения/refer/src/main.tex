@@ -1,4 +1,4 @@
-\documentclass[12pt,a4paper,titlepage]{article}
+\documentclass[a4paper,12pt,titlepage]{article}
 \usepackage[left=30mm, top=25mm, right=20mm, bottom=25mm, nohead]{geometry}
 
 \usepackage{xcolor}
@@ -28,7 +28,7 @@
 \maketitle
 
 \newcommand{\cinput}[1]{
-	\newpage 
+	%\newpage 
 	\input{#1}
 }
 
@@ -45,6 +45,7 @@
 \cinput{src/localbase.tex}
 \cinput{src/tree.tex}
 \cinput{src/findings.tex}
+\cinput{src/litres.tex}
 
 \end{document}
 
