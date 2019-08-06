@@ -71,7 +71,7 @@ o.location_update(deep=True, view=True)
 chain = zencad.cynematic.cynematic_chain(e, o)
 
 scn = zencad.Scene()
-o.bind_scene_deep(scn)
+o.bind_scene(scn,deep=True)
 
 zcur = d.outrot.global_location.translation().z
 
@@ -86,7 +86,7 @@ minmaxs = (None, (deg(0), deg(150)), (-deg(120), deg(120)), (-deg(90), deg(90)))
 tmodel = d.outrot.global_location
 
 ccc = zencad.assemble.unit(shape = sphere(r=1))
-ccc.bind_scene_deep(scn)
+ccc.bind_scene(scn, deep=True)
 
 iteration = 0
 def update(wdg):
@@ -131,7 +131,7 @@ def update(wdg):
 	#	target = (0,0,0,0,0,10)
 	#	if cur.z > zcur: state = 0
 
-	TSPD = 100
+	TSPD = 10
 	DELTATIME= deltatime
 	
 	K = 10
@@ -174,11 +174,16 @@ def update(wdg):
 	#	penalty=penalty, 
 	#	vectors=[(*w, *v) for w, v in senses])
 	
-	vcoords, iters = zencad.malgo.svd_backpack(target, 
+#	vcoords, iters = zencad.malgo.svd_backpack(target, 
+#		penalty=penalty, 
+#		koeffs=[10,1,1,1],
+#		vectors=[(*w, *v) for w, v in senses])
+	
+	vcoords, iters = zencad.malgo.grad_backpack(target, 
 		penalty=penalty, 
 		koeffs=[10,1,1,1],
 		vectors=[(*w, *v) for w, v in senses])
-	
+
 
 	for i in range(len(x)):
 		v[i] = vcoords[i]
