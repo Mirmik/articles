@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.6.25)  8 AUG 2019 11:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.6.25)  8 AUG 2019 18:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,8 +8,8 @@ LaTeX2e <2017-04-15>
 Babel <3.18> and hyphenation patterns for 16 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -23,6 +23,16 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
+(/usr/share/texlive/texmf-dist/tex/latex/extsizes/extsizes.sty
+Package: extsizes 1996/10/08 v1.0 Non Standard LaTeX Package
+
+
+Package ExtSizes Warning: It is better to use one of the extsizes classes,
+ if you can.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+))
 (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
@@ -761,28 +771,28 @@ LaTeX Warning: Label `' multiply defined.
 LaTeX Warning: Label `' multiply defined.
 
 
-LaTeX Warning: Label `' multiply defined.
-
-
 LaTeX Warning: Label `inverse_1' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
 
 )
 \openout1 = `refer.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -885,76 +895,104 @@ e
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Try loading font information for U+msa on input line 28.
+LaTeX Font Info:    Try loading font information for U+msa on input line 55.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 28.
+LaTeX Font Info:    Try loading font information for U+msb on input line 55.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
+)
+Underfull \hbox (badness 10000) in paragraph at lines 55--64
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./src/introduction.tex [1
-])
-(./src/ctrobj.tex
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--64
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--64
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--64
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--64
+
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./refer.toc)
+\tf@toc=\write3
+\openout3 = `refer.toc'.
+
+
+(./src/introduction.tex [2] [3]) (./src/ctrobj.tex
 Overfull \hbox (0.77003pt too wide) in paragraph at lines 23--1
 []\T2A/cmr/m/n/12 В по-след-них ча-стях ра-бо-ты об-суж-да-ет-ся воз-мож-ность 
 при-ме-не-ния ме-то-да к управ-
  []
 
-<./images/manip1.jpg, id=13, 645.41125pt x 359.3425pt>
+<./images/manip1.jpg, id=16, 645.41125pt x 359.3425pt>
 File: ./images/manip1.jpg Graphic file (type jpg)
 <use ./images/manip1.jpg>
 Package pdftex.def Info: ./images/manip1.jpg  used on input line 8.
 (pdftex.def)             Requested size: 273.14883pt x 152.07974pt.
-[2]
-<./images/manip2.jpg, id=17, 301.125pt x 376.40625pt>
+[4]
+<./images/manip2.jpg, id=20, 301.125pt x 376.40625pt>
 File: ./images/manip2.jpg Graphic file (type jpg)
 <use ./images/manip2.jpg>
 Package pdftex.def Info: ./images/manip2.jpg  used on input line 14.
 (pdftex.def)             Requested size: 273.17413pt x 341.46767pt.
-<./images/actexample.jpg, id=18, 468.7695pt x 263.7855pt>
+<./images/actexample.jpg, id=21, 468.7695pt x 263.7855pt>
 File: ./images/actexample.jpg Graphic file (type jpg)
 <use ./images/actexample.jpg>
 Package pdftex.def Info: ./images/actexample.jpg  used on input line 24.
 (pdftex.def)             Requested size: 273.1597pt x 153.71214pt.
- [3 <./images/manip1.jpg> <./images/manip2.jpg>]
-<./images/mobile.jpg, id=22, 455.301pt x 457.4691pt>
+ [5 <./images/manip1.jpg> <./images/manip2.jpg>]
+<./images/mobile.jpg, id=25, 455.301pt x 457.4691pt>
 File: ./images/mobile.jpg Graphic file (type jpg)
 <use ./images/mobile.jpg>
 Package pdftex.def Info: ./images/mobile.jpg  used on input line 34.
 (pdftex.def)             Requested size: 273.1549pt x 274.45566pt.
-<./images/fly.jpg, id=23, 1027.84pt x 685.56125pt>
+<./images/fly.jpg, id=26, 1027.84pt x 685.56125pt>
 File: ./images/fly.jpg Graphic file (type jpg)
 <use ./images/fly.jpg>
 Package pdftex.def Info: ./images/fly.jpg  used on input line 40.
 (pdftex.def)             Requested size: 273.14479pt x 182.18544pt.
- [4 <./images/actexample.jpg> <./images/mobile.jpg>]
-<./images/centaurus.jpg, id=27, 1284.8pt x 722.7pt>
+ [6 <./images/actexample.jpg> <./images/mobile.jpg>]
+<./images/centaurus.jpg, id=30, 1284.8pt x 722.7pt>
 File: ./images/centaurus.jpg Graphic file (type jpg)
 <use ./images/centaurus.jpg>
 Package pdftex.def Info: ./images/centaurus.jpg  used on input line 46.
 (pdftex.def)             Requested size: 273.14871pt x 153.64615pt.
-<./images/arm.jpg, id=28, 312.9291pt x 185.9748pt>
+<./images/arm.jpg, id=31, 312.9291pt x 185.9748pt>
 File: ./images/arm.jpg Graphic file (type jpg)
 <use ./images/arm.jpg>
 Package pdftex.def Info: ./images/arm.jpg  used on input line 54.
 (pdftex.def)             Requested size: 273.16765pt x 162.34444pt.
-) (./src/htrans.tex [5 <./images/fly.jpg> <./images/centaurus.jpg> <./images/ar
+) (./src/htrans.tex [7 <./images/fly.jpg> <./images/centaurus.jpg> <./images/ar
 m.jpg>]
 Overfull \hbox (7.87328pt too wide) in paragraph at lines 1--1
 []\T2A/cmr/bx/n/17.28 Гомогенное пре-об-ра-зо-ва-ние. По-ло-же-ние и ско-рость.
  
  []
 
-[6]
+[8]
 
-LaTeX Warning: Reference `spdform' on page 7 undefined on input line 41.
+LaTeX Warning: Reference `spdform' on page 9 undefined on input line 41.
 
 
-LaTeX Warning: Reference `spdform' on page 7 undefined on input line 41.
+LaTeX Warning: Reference `spdform' on page 9 undefined on input line 41.
 
 
 Overfull \hbox (2.43932pt too wide) in paragraph at lines 43--44
@@ -963,68 +1001,68 @@ r/m/n/12 (\OML/cmm/m/it/12 !; v\OT1/cmr/m/n/12 )$ \T2A/cmr/m/n/12 да-лее на-зы-
 ва-ет-ся 6-вектором
  []
 
-[7]
-<./images/oneaxis.png, id=46, 451.6875pt x 422.32782pt>
+[9]
+<./images/oneaxis.png, id=48, 451.6875pt x 422.32782pt>
 File: ./images/oneaxis.png Graphic file (type png)
 <use ./images/oneaxis.png>
 Package pdftex.def Info: ./images/oneaxis.png  used on input line 47.
 (pdftex.def)             Requested size: 364.21764pt x 340.54349pt.
-) (./src/frames.tex [8 <./images/oneaxis.png>]
-<./images/ax3view.jpg, id=53, 550.055pt x 553.06625pt>
+) (./src/frames.tex [10 <./images/oneaxis.png>]
+<./images/ax3view.jpg, id=55, 550.055pt x 553.06625pt>
 File: ./images/ax3view.jpg Graphic file (type jpg)
 <use ./images/ax3view.jpg>
 Package pdftex.def Info: ./images/ax3view.jpg  used on input line 8.
 (pdftex.def)             Requested size: 273.15515pt x 274.65053pt.
- [9 <./images/ax3view.jpg>]
+ [11 <./images/ax3view.jpg>]
 File: ./images/actexample.jpg Graphic file (type jpg)
 <use ./images/actexample.jpg>
 Package pdftex.def Info: ./images/actexample.jpg  used on input line 32.
 (pdftex.def)             Requested size: 273.1597pt x 153.71214pt.
-<./images/actsyst.jpg, id=57, 803.0pt x 563.10374pt>
+<./images/actsyst.jpg, id=59, 803.0pt x 563.10374pt>
 File: ./images/actsyst.jpg Graphic file (type jpg)
 <use ./images/actsyst.jpg>
 Package pdftex.def Info: ./images/actsyst.jpg  used on input line 38.
 (pdftex.def)             Requested size: 273.15117pt x 191.54726pt.
 
-[10]) (./src/straight.tex [11 <./images/actsyst.jpg>] [12]) (./src/common.tex
-[13]
-<./images/ctrsyst.png, id=75, 349.42545pt x 87.26602pt>
-File: ./images/ctrsyst.png Graphic file (type png)
-<use ./images/ctrsyst.png>
-Package pdftex.def Info: ./images/ctrsyst.png  used on input line 12.
-(pdftex.def)             Requested size: 455.26605pt x 113.69879pt.
- [14]) (./src/inverse.tex [15 <./images/ctrsyst.png>]
+[12]) (./src/straight.tex [13 <./images/actsyst.jpg>] [14]) (./src/inverse.tex
+[15]
 
 LaTeX Warning: Reference `restr_traj_sect' on page 16 undefined on input line 2
 3.
 
-) (./src/track.tex
-Overfull \hbox (6.31657pt too wide) in paragraph at lines 5--6
+[16]) (./src/track.tex [17]
+<./images/ctrsyst.png, id=84, 349.42545pt x 87.26602pt>
+File: ./images/ctrsyst.png Graphic file (type png)
+<use ./images/ctrsyst.png>
+Package pdftex.def Info: ./images/ctrsyst.png  used on input line 12.
+(pdftex.def)             Requested size: 455.26605pt x 113.69879pt.
+
+Overfull \hbox (6.31657pt too wide) in paragraph at lines 19--20
 []\T2A/cmr/m/n/12 Прямое ре-ше-ние за-да-чи управ-ле-ния по-ло-же-ни-ем че-рез 
 ин-те-грал ско-рост-но-го управ-
  []
 
-[16]) (./src/lerp.tex [17]) (./src/restr_coord.tex [18]
+[18 <./images/ctrsyst.png>]) (./src/lerp.tex [19]) (./src/restr_coord.tex
+[20]
 Overfull \hbox (1.90767pt too wide) in paragraph at lines 23--24
 \T2A/cmr/m/n/12 является ме-тод ис-клю-че-ния ко-ор-ди-на-ты. При его ис-поль-з
 о-ва-нии, ес-ли ре-ше-ние СЛАУ
  []
 
-) (./src/restr_traj.tex [19] [20]) (./src/localbase.tex
+) (./src/restr_traj.tex [21]) (./src/localbase.tex
 Overfull \hbox (0.93784pt too wide) in paragraph at lines 21--1
 []\T2A/cmr/m/n/12 Существует мно-же-ство дру-гих ва-ри-ан-тов вне-се-ния тра-ек
 -тор-ных огра-ни-че-ний, рас-
  []
 
-[21]) (./src/tree.tex
+[22]) (./src/tree.tex [23]
 
-LaTeX Warning: Reference `other' on page 22 undefined on input line 3.
+LaTeX Warning: Reference `other' on page 24 undefined on input line 3.
 
-[22]
 
-LaTeX Warning: Reference `inverse_sect' on page 23 undefined on input line 11.
+LaTeX Warning: Reference `inverse_sect' on page 24 undefined on input line 11.
 
-) (./src/findings.tex [23]) (./src/litres.tex
+[24]) (./src/findings.tex) (./src/litres.tex
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 5.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
@@ -1032,19 +1070,25 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 5.
-
-Overfull \hbox (12.01013pt too wide) in paragraph at lines 6--7
+ [25]
+Overfull \hbox (7.63547pt too wide) in paragraph at lines 6--7
 []\T2A/cmr/m/n/12 Каратаев Е.А., <<Пре-об-ра-зо-ва-ния ги-пер-ком-плекс-ных чи-
 сел>>, Москва, СОЛОМОН-
  []
 
 
-Overfull \hbox (1.41223pt too wide) in paragraph at lines 9--10
-[]\T2A/cmr/m/n/12 Е.И. Ло-мов-це-ва, Ю.Н. Чел-но-ков, <<Ре-ше-ние об-рат-ной за
--да-чи ки-не-ма-ти-ки Стэнд-
+Overfull \hbox (11.71992pt too wide) in paragraph at lines 7--8
+[]\T2A/cmr/m/n/12 Н.Н. Го-ло-ва-нов, <<Гео-мет-ри-че-ское мо-де-ли-ро-ва-ние>>,
+ Москва, Физ-мат-лит, 2002 (ISBN
  []
 
-) [24] (./refer.aux)
+
+Overfull \hbox (2.40553pt too wide) in paragraph at lines 11--12
+\T2A/cmr/m/n/12 лом сте-пе-ней сво-бо-ды бо-лее ше-сти >> НИИ ИСУ МГ-ТУ им. Н.Э
+. Ба-у-ма-на, Москва,
+ []
+
+) [26] (./refer.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -1053,19 +1097,18 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 6232 strings out of 494324
- 83367 string characters out of 6170706
- 262417 words of memory out of 5000000
- 9393 multiletter control sequences out of 15000+600000
- 19812 words of font info for 54 fonts, out of 8000000 for 9000
+ 6252 strings out of 494324
+ 85526 string characters out of 6170706
+ 261807 words of memory out of 5000000
+ 9408 multiletter control sequences out of 15000+600000
+ 16405 words of font info for 42 fonts, out of 8000000 for 9000
  475 hyphenation exceptions out of 8191
  41i,13n,40p,1922b,309s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/mirmik/.texlive2017/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1440.600p
 k> </home/mirmik/.texlive2017/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1200.600p
-k> </home/mirmik/.texlive2017/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1200.600p
 k> </home/mirmik/.texlive2017/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1728.600p
+k> </home/mirmik/.texlive2017/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1200.600p
 k> </home/mirmik/.texlive2017/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1440.600p
-k> </home/mirmik/.texlive2017/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm2074.600p
 k></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texli
@@ -1077,10 +1120,10 @@ ic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
 fonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/
 msam10.pfb>
-Output written on refer.pdf (25 pages, 898494 bytes).
+Output written on refer.pdf (26 pages, 910268 bytes).
 PDF statistics:
- 405 PDF objects out of 1000 (max. 8388607)
- 115 compressed objects within 2 object streams
+ 444 PDF objects out of 1000 (max. 8388607)
+ 113 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  56 words of extra memory for PDF output out of 10000 (max. 10000000)
 

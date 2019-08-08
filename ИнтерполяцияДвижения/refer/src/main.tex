@@ -1,4 +1,6 @@
-\documentclass[a4paper,12pt,titlepage]{article}
+\documentclass[a4paper]{article}
+
+\usepackage[12pt]{extsizes}
 \usepackage[left=30mm, top=25mm, right=20mm, bottom=25mm, nohead]{geometry}
 
 \usepackage{xcolor}
@@ -22,10 +24,58 @@
 \begin{document}
 \date{27 ноября 2017}
 
-\title{Построение следящих систем управления многозвенными кинематическими цепями.}
-\author{Сорокин Н.Ф.}
 
-\maketitle
+
+
+
+% НАЧАЛО ТИТУЛЬНОГО ЛИСТА
+\begin{center}
+\hfill \break
+\hfill\break
+\hfill \break
+\hfill \break
+\hfill \break
+\hfill \break
+\hfill \break
+\hfill \break
+\hfill \break
+\large{Реферат.}\\
+\large{<<Построение следящих систем управления многозвенными кинематическими цепями.>>}\\
+\hfill \break
+\hfill \break
+\hfill \break
+\hfill \break
+\hfill \break
+\hfill \break
+\hfill \break
+\hfill \break
+\end{center}
+ 
+\normalsize{ 
+\begin{tabular}{lccl}
+Автор  & \underline{\hspace{3cm}} & &Н.Ф. Сорокин\\\\
+Научный руководитель & \underline{\hspace{3cm}}& д.т.н., проф. & С.С. Гаврюшин \\\\
+\end{tabular}
+}\\
+\hfill \break
+\hfill \break
+\hfill \break
+\hfill \break
+\begin{center} Москва 2019 \end{center}
+\thispagestyle{empty} % выключаем отображение номера для этой страницы
+\newpage
+% КОНЕЦ ТИТУЛЬНОГО ЛИСТА
+
+
+
+
+
+
+\tableofcontents
+
+
+
+
 
 \newcommand{\cinput}[1]{
 	%\newpage 
@@ -37,7 +87,6 @@
 \cinput{src/htrans.tex}
 \cinput{src/frames.tex}
 \cinput{src/straight.tex}
-\cinput{src/common.tex}
 \cinput{src/inverse.tex}
 \cinput{src/track.tex}
 \cinput{src/lerp.tex}
