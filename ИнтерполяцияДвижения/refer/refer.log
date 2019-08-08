@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.6.25)  6 AUG 2019 14:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.14)  8 AUG 2019 05:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **src/main.tex
 (./src/main.tex
 LaTeX2e <2017-04-15>
-Babel <3.18> and hyphenation patterns for 16 language(s) loaded.
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
@@ -685,8 +685,6 @@ File: babel.def 2018/02/14 3.18 Babel common definitions
 (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@dirlevel=\count104
 )
-\l@british = a dialect from \language\l@english 
-\l@UKenglish = a dialect from \language\l@english 
 \l@canadian = a dialect from \language\l@american 
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
@@ -730,6 +728,27 @@ Package graphics Info: Driver file: pdftex.def on input line 99.
 \Gin@req@width=\dimen129
 )
 (./refer.aux
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
 
 LaTeX Warning: Label `' multiply defined.
 
@@ -880,18 +899,57 @@ Overfull \hbox (0.77003pt too wide) in paragraph at lines 23--1
 при-ме-не-ния ме-то-да к управ-
  []
 
-) (./src/htrans.tex
+<./images/manip1.jpg, id=13, 645.41125pt x 359.3425pt>
+File: ./images/manip1.jpg Graphic file (type jpg)
+<use ./images/manip1.jpg>
+Package pdftex.def Info: ./images/manip1.jpg  used on input line 8.
+(pdftex.def)             Requested size: 273.14883pt x 152.07974pt.
+[2]
+<./images/manip2.jpg, id=17, 301.125pt x 376.40625pt>
+File: ./images/manip2.jpg Graphic file (type jpg)
+<use ./images/manip2.jpg>
+Package pdftex.def Info: ./images/manip2.jpg  used on input line 14.
+(pdftex.def)             Requested size: 273.17413pt x 341.46767pt.
+<./images/actexample.jpg, id=18, 468.7695pt x 263.7855pt>
+File: ./images/actexample.jpg Graphic file (type jpg)
+<use ./images/actexample.jpg>
+Package pdftex.def Info: ./images/actexample.jpg  used on input line 24.
+(pdftex.def)             Requested size: 273.1597pt x 153.71214pt.
+ [3 <./images/manip1.jpg> <./images/manip2.jpg>]
+<./images/mobile.jpg, id=22, 455.301pt x 457.4691pt>
+File: ./images/mobile.jpg Graphic file (type jpg)
+<use ./images/mobile.jpg>
+Package pdftex.def Info: ./images/mobile.jpg  used on input line 34.
+(pdftex.def)             Requested size: 273.1549pt x 274.45566pt.
+<./images/fly.jpg, id=23, 1027.84pt x 685.56125pt>
+File: ./images/fly.jpg Graphic file (type jpg)
+<use ./images/fly.jpg>
+Package pdftex.def Info: ./images/fly.jpg  used on input line 40.
+(pdftex.def)             Requested size: 273.14479pt x 182.18544pt.
+ [4 <./images/actexample.jpg> <./images/mobile.jpg>]
+<./images/centaurus.jpg, id=27, 1284.8pt x 722.7pt>
+File: ./images/centaurus.jpg Graphic file (type jpg)
+<use ./images/centaurus.jpg>
+Package pdftex.def Info: ./images/centaurus.jpg  used on input line 46.
+(pdftex.def)             Requested size: 273.14871pt x 153.64615pt.
+<./images/arm.jpg, id=28, 312.9291pt x 185.9748pt>
+File: ./images/arm.jpg Graphic file (type jpg)
+<use ./images/arm.jpg>
+Package pdftex.def Info: ./images/arm.jpg  used on input line 54.
+(pdftex.def)             Requested size: 273.16765pt x 162.34444pt.
+) (./src/htrans.tex [5 <./images/fly.jpg> <./images/centaurus.jpg> <./images/ar
+m.jpg>]
 Overfull \hbox (7.87328pt too wide) in paragraph at lines 1--1
 []\T2A/cmr/bx/n/17.28 Гомогенное пре-об-ра-зо-ва-ние. По-ло-же-ние и ско-рость.
  
  []
 
-[2] [3]
+[6]
 
-LaTeX Warning: Reference `spdform' on page 4 undefined on input line 41.
+LaTeX Warning: Reference `spdform' on page 7 undefined on input line 41.
 
 
-LaTeX Warning: Reference `spdform' on page 4 undefined on input line 41.
+LaTeX Warning: Reference `spdform' on page 7 undefined on input line 41.
 
 
 Overfull \hbox (2.43932pt too wide) in paragraph at lines 43--44
@@ -900,58 +958,63 @@ r/m/n/12 (\OML/cmm/m/it/12 !; v\OT1/cmr/m/n/12 )$ \T2A/cmr/m/n/12 да-лее на-зы-
 ва-ет-ся 6-вектором
  []
 
-<./images/oneaxis.png, id=24, 451.6875pt x 422.32782pt>
+[7]
+<./images/oneaxis.png, id=46, 451.6875pt x 422.32782pt>
 File: ./images/oneaxis.png Graphic file (type png)
 <use ./images/oneaxis.png>
 Package pdftex.def Info: ./images/oneaxis.png  used on input line 47.
 (pdftex.def)             Requested size: 364.21764pt x 340.54349pt.
-[4]) (./src/frames.tex [5 <./images/oneaxis.png>]
-<./images/ax3view.jpg, id=36, 550.055pt x 553.06625pt>
+) (./src/frames.tex [8 <./images/oneaxis.png>]
+<./images/ax3view.jpg, id=53, 550.055pt x 553.06625pt>
 File: ./images/ax3view.jpg Graphic file (type jpg)
 <use ./images/ax3view.jpg>
 Package pdftex.def Info: ./images/ax3view.jpg  used on input line 8.
 (pdftex.def)             Requested size: 273.15515pt x 274.65053pt.
- [6 <./images/ax3view.jpg>]
-<./images/actexample.jpg, id=41, 468.7695pt x 263.7855pt>
+ [9 <./images/ax3view.jpg>]
 File: ./images/actexample.jpg Graphic file (type jpg)
 <use ./images/actexample.jpg>
 Package pdftex.def Info: ./images/actexample.jpg  used on input line 32.
 (pdftex.def)             Requested size: 273.1597pt x 153.71214pt.
-<./images/actsyst.jpg, id=42, 803.0pt x 563.10374pt>
+<./images/actsyst.jpg, id=57, 803.0pt x 563.10374pt>
 File: ./images/actsyst.jpg Graphic file (type jpg)
 <use ./images/actsyst.jpg>
 Package pdftex.def Info: ./images/actsyst.jpg  used on input line 38.
 (pdftex.def)             Requested size: 273.15117pt x 191.54726pt.
-)
-(./src/straight.tex [7 <./images/actexample.jpg> <./images/actsyst.jpg>]
-[8] [9]) (./src/common.tex [10]
-<./images/traj.png, id=59, 1295.84125pt x 373.395pt>
-File: ./images/traj.png Graphic file (type png)
-<use ./images/traj.png>
-Package pdftex.def Info: ./images/traj.png  used on input line 12.
-(pdftex.def)             Requested size: 455.25171pt x 131.18019pt.
-) (./src/inverse.tex [11 <./images/traj.png>])
-(./src/track.tex
+
+[10]) (./src/straight.tex [11 <./images/actsyst.jpg>] [12]) (./src/common.tex
+[13]
+<./images/ctrsyst.png, id=75, 349.42545pt x 87.26602pt>
+File: ./images/ctrsyst.png Graphic file (type png)
+<use ./images/ctrsyst.png>
+Package pdftex.def Info: ./images/ctrsyst.png  used on input line 12.
+(pdftex.def)             Requested size: 455.26605pt x 113.69879pt.
+ [14]) (./src/inverse.tex) (./src/track.tex [15 <./images/ctrsyst.png>]
 Overfull \hbox (6.31657pt too wide) in paragraph at lines 5--6
 []\T2A/cmr/m/n/12 Прямое ре-ше-ние за-да-чи управ-ле-ния по-ло-же-ни-ем че-рез 
 ин-те-грал ско-рост-но-го управ-
  []
 
-[12]) (./src/lerp.tex [13]) (./src/restr_coord.tex [14]
+[16]) (./src/lerp.tex) (./src/restr_coord.tex [17] [18]
 Overfull \hbox (1.90767pt too wide) in paragraph at lines 23--24
 \T2A/cmr/m/n/12 является ме-тод ис-клю-че-ния ко-ор-ди-на-ты. При его ис-поль-з
 о-ва-нии, ес-ли ре-ше-ние СЛАУ
  []
 
-) (./src/restr_traj.tex [15]) (./src/localbase.tex [16]) (./src/tree.tex
+) (./src/restr_traj.tex [19]) (./src/localbase.tex
+Overfull \hbox (0.93784pt too wide) in paragraph at lines 21--1
+[]\T2A/cmr/m/n/12 Существует мно-же-ство дру-гих ва-ри-ан-тов вне-се-ния тра-ек
+-тор-ных огра-ни-че-ний, рас-
+ []
 
-LaTeX Warning: Reference `other' on page 17 undefined on input line 3.
+[20]) (./src/tree.tex
 
-[17]
+LaTeX Warning: Reference `other' on page 21 undefined on input line 3.
 
-LaTeX Warning: Reference `inverse_sect' on page 18 undefined on input line 11.
+[21]
 
-) (./src/findings.tex [18]) (./src/litres.tex
+LaTeX Warning: Reference `inverse_sect' on page 22 undefined on input line 11.
+
+[22]) (./src/findings.tex) (./src/litres.tex
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 5.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
@@ -959,7 +1022,7 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 5.
-
+ [23]
 Overfull \hbox (12.01013pt too wide) in paragraph at lines 6--7
 []\T2A/cmr/m/n/12 Каратаев Е.А., <<Пре-об-ра-зо-ва-ния ги-пер-ком-плекс-ных чи-
 сел>>, Москва, СОЛОМОН-
@@ -971,7 +1034,7 @@ Overfull \hbox (1.41223pt too wide) in paragraph at lines 8--9
 -да-чи ки-не-ма-ти-ки Стэнд-
  []
 
-) [19] (./refer.aux)
+) [24] (./refer.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -980,34 +1043,33 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 6194 strings out of 494324
- 82627 string characters out of 6170706
- 260410 words of memory out of 5000000
- 9361 multiletter control sequences out of 15000+600000
+ 6229 strings out of 492982
+ 83330 string characters out of 6134895
+ 266194 words of memory out of 5000000
+ 9620 multiletter control sequences out of 15000+600000
  19812 words of font info for 54 fonts, out of 8000000 for 9000
- 475 hyphenation exceptions out of 8191
+ 1141 hyphenation exceptions out of 8191
  41i,13n,40p,1922b,309s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/mirmik/.texlive2017/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1440.600p
-k> </home/mirmik/.texlive2017/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1200.600p
-k> </home/mirmik/.texlive2017/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1200.600p
-k> </home/mirmik/.texlive2017/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1728.600p
-k> </home/mirmik/.texlive2017/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1440.600p
-k> </home/mirmik/.texlive2017/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm2074.600p
-k></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/
-msam10.pfb>
-Output written on refer.pdf (20 pages, 473076 bytes).
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
+10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/sh
+are/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type
+1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sf
+bx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/sha
+re/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1
+/public/cm-super/sfrm2074.pfb>
+Output written on refer.pdf (25 pages, 916853 bytes).
 PDF statistics:
- 370 PDF objects out of 1000 (max. 8388607)
- 104 compressed objects within 2 object streams
+ 169 PDF objects out of 1000 (max. 8388607)
+ 110 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
