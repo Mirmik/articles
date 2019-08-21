@@ -40,6 +40,6 @@ a.outrot.link(b)
 a.outrot.set_coord(deg(60))
 
 a.location_update(deep=True, view=True)
-a.bind_scene_deep(scn)
+a.bind_scene(scn, deep=True)
 
 show(scn, view=view)
