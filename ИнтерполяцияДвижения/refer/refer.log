@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.14)  9 AUG 2019 00:57
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.6.25)  9 AUG 2019 12:49
->>>>>>> 58eaba3ffcc0c1e2445be2541ec52128e895e114
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.9.2)  2 SEP 2019 17:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1029,28 +1025,29 @@ Overfull \hbox (6.31657pt too wide) in paragraph at lines 19--20
 ин-те-грал ско-рост-но-го управ-
  []
 
-[18 <./images/ctrsyst.png>]) (./src/lerp.tex [19]) (./src/restr_coord.tex
-[20]
+[18 <./images/ctrsyst.png>]
+Overfull \hbox (10.40276pt too wide) in paragraph at lines 42--43
+\T2A/cmr/m/n/12 чис-ли-тель-ный экс-пе-ри-мент. Ана-ли-ти-че-ской ис-сле-до-ва-
+ние устой-чи-во-сти си-сте-мы управ-
+ []
+
+) (./src/lerp.tex [19]) (./src/restr_coord.tex [20]
 Overfull \hbox (1.90767pt too wide) in paragraph at lines 23--24
 \T2A/cmr/m/n/12 является ме-тод ис-клю-че-ния ко-ор-ди-на-ты. При его ис-поль-з
 о-ва-нии, ес-ли ре-ше-ние СЛАУ
  []
 
-) (./src/restr_traj.tex [21]) (./src/localbase.tex
-Overfull \hbox (0.93784pt too wide) in paragraph at lines 21--1
+) (./src/restr_traj.tex [21] [22]) (./src/localbase.tex
+Overfull \hbox (0.93784pt too wide) in paragraph at lines 25--1
 []\T2A/cmr/m/n/12 Существует мно-же-ство дру-гих ва-ри-ан-тов вне-се-ния тра-ек
 -тор-ных огра-ни-че-ний, рас-
  []
 
-[22] [23]) (./src/tree.tex
+[23]) (./src/tree.tex
 
 LaTeX Warning: Reference `other' on page 24 undefined on input line 3.
 
-[24]
-
-LaTeX Warning: Reference `inverse_sect' on page 25 undefined on input line 11.
-
-) (./src/findings.tex) (./src/litres.tex [25]
+[24]) (./src/findings.tex [25]) (./src/litres.tex
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 5.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
@@ -1085,21 +1082,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
-<<<<<<< HEAD
- 6250 strings out of 492982
- 85506 string characters out of 6134895
- 265584 words of memory out of 5000000
- 9636 multiletter control sequences out of 15000+600000
-=======
- 6252 strings out of 494324
- 85529 string characters out of 6170706
- 261827 words of memory out of 5000000
- 9408 multiletter control sequences out of 15000+600000
->>>>>>> 58eaba3ffcc0c1e2445be2541ec52128e895e114
+ 6242 strings out of 492982
+ 85402 string characters out of 6134897
+ 265605 words of memory out of 5000000
+ 9628 multiletter control sequences out of 15000+600000
  16405 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,13n,40p,1922b,309s stack positions out of 5000i,500n,10000p,200000b,80000s
-<<<<<<< HEAD
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dis
@@ -1115,26 +1104,7 @@ are/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type
 1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sf
 bx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/sha
 re/texmf/fonts/type1/public/cm-super/sfrm1440.pfb>
-Output written on refer.pdf (26 pages, 926385 bytes).
-=======
- </home/mirmik/.texlive2017/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1440.600p
-k> </home/mirmik/.texlive2017/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1200.600p
-k> </home/mirmik/.texlive2017/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1728.600p
-k> </home/mirmik/.texlive2017/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1200.600p
-k> </home/mirmik/.texlive2017/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1440.600p
-k></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/
-msam10.pfb>
-Output written on refer.pdf (26 pages, 910354 bytes).
->>>>>>> 58eaba3ffcc0c1e2445be2541ec52128e895e114
+Output written on refer.pdf (26 pages, 926547 bytes).
 PDF statistics:
  168 PDF objects out of 1000 (max. 8388607)
  109 compressed objects within 2 object streams
