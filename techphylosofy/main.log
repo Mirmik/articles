@@ -1,0 +1,19 @@
+This is TeX, Version 3.14159265 (TeX Live 2017/Debian) (preloaded format=tex 2018.10.14)  27 OCT 2019 17:32
+**main.tex
+(./main.tex
+! Undefined control sequence.
+l.1 \documentclass
+                  [a4paper]{article}
+? 
+! Interruption.
+<to be read again> 
+                   [
+l.1 \documentclass[
+                   a4paper]{article}
+? :q
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+H for help, X to quit.
+? X
+No pages of output.
