@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.9.2)  4 NOV 2019 12:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.9.2)  15 NOV 2019 20:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -740,20 +740,20 @@ Package graphics Info: Driver file: pdftex.def on input line 99.
 (./refer.aux)
 \openout1 = `refer.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -856,48 +856,148 @@ e
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-
-[1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for U+msa on input line 38.
+LaTeX Font Info:    Try loading font information for U+msa on input line 50.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 38.
+LaTeX Font Info:    Try loading font information for U+msb on input line 50.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-! Missing $ inserted.
-<inserted text> 
-                $
-l.45 
-     
-? :q
-Type <return> to proceed, S to scroll future error messages,
-R to run without stopping, Q to run quietly,
-I to insert something, E to edit your file,
-1 or ... or 9 to ignore the next 1 to 9 tokens of input,
-H for help, X to quit.
-? X
- 
+Underfull \hbox (badness 10000) in paragraph at lines 50--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--59
+
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4]
+
+LaTeX Warning: Command \cyrz invalid in math mode on input line 127.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 127.
+
+
+LaTeX Warning: Command \cyrm invalid in math mode on input line 127.
+
+Missing character: There is no з in font cmr8!
+Missing character: There is no а in font cmr8!
+Missing character: There is no м in font cmr8!
+
+LaTeX Warning: Command \cyrz invalid in math mode on input line 129.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 129.
+
+
+LaTeX Warning: Command \cyrm invalid in math mode on input line 129.
+
+Missing character: There is no з in font cmr8!
+Missing character: There is no а in font cmr8!
+Missing character: There is no м in font cmr8!
+
+LaTeX Warning: Command \cyrz invalid in math mode on input line 130.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 130.
+
+
+LaTeX Warning: Command \cyrm invalid in math mode on input line 130.
+
+Missing character: There is no з in font cmr8!
+Missing character: There is no а in font cmr8!
+Missing character: There is no м in font cmr8!
+
+Overfull \hbox (4.03801pt too wide) in paragraph at lines 134--136
+[]\T2A/cmr/m/n/12 Выравнивание пе-ре-да-точ-ных функ-ций ка-на-лов. Ча-стот-ная
+ кар-ти-на кон-ту-ра управ-
+ []
+
+
+LaTeX Warning: Command \cyrz invalid in math mode on input line 139.
+
+Missing character: There is no з in font cmr8!
+
+LaTeX Warning: Command \cyrz invalid in math mode on input line 141.
+
+
+LaTeX Warning: Command \cyrz invalid in math mode on input line 141.
+
+
+LaTeX Warning: Command \cyrz invalid in math mode on input line 141.
+
+Missing character: There is no з in font cmr8!
+Missing character: There is no з in font cmr8!
+Missing character: There is no з in font cmr8!
+
+LaTeX Warning: Command \cyrz invalid in math mode on input line 143.
+
+
+LaTeX Warning: Command \cyrz invalid in math mode on input line 143.
+
+
+LaTeX Warning: Command \cyrz invalid in math mode on input line 143.
+
+Missing character: There is no з in font cmr8!
+Missing character: There is no з in font cmr8!
+Missing character: There is no з in font cmr8!
+
+LaTeX Warning: Command \cyrz invalid in math mode on input line 145.
+
+Missing character: There is no з in font cmr8!
+
+LaTeX Warning: Command \cyrz invalid in math mode on input line 150.
+
+Missing character: There is no з in font cmr8!
+[5] [6] [7] (./refer.aux) ) 
 Here is how much of TeX's memory you used:
- 6089 strings out of 492982
- 83002 string characters out of 6134897
- 259414 words of memory out of 5000000
- 9546 multiletter control sequences out of 15000+600000
- 10712 words of font info for 35 fonts, out of 8000000 for 9000
+ 6093 strings out of 492982
+ 83023 string characters out of 6134897
+ 261414 words of memory out of 5000000
+ 9547 multiletter control sequences out of 15000+600000
+ 11518 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,5n,38p,1465b,139s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texmf/f
-onts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm
--super/sfrm1200.pfb>
-Output written on refer.pdf (1 page, 31087 bytes).
+ 41i,8n,38p,1756b,149s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-
+t2a.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/pub
+lic/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm120
+0.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb>
+Output written on refer.pdf (7 pages, 125791 bytes).
 PDF statistics:
- 17 PDF objects out of 1000 (max. 8388607)
- 11 compressed objects within 1 object stream
+ 65 PDF objects out of 1000 (max. 8388607)
+ 46 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
