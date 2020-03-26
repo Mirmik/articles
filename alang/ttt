@@ -1,0 +1,2616 @@
+{
+	"folder_history":
+	[
+		"/home/mirmik/project/servoce/pyservoce",
+		"/home/mirmik/project/igris/test",
+		"/home/mirmik/project/zencad/zencad/examples/4.Assemble",
+		"/home/mirmik/project/zencad/zencad/geom",
+		"/home/mirmik/project/servoce/src/pywrap",
+		"/home/mirmik/project/igris/compat",
+		"/etc/apt/sources.list.d",
+		"/home/mirmik/project/bujinsite/www/htdocs/generator/othpages",
+		"/home/mirmik/project/licant/licant",
+		"/home/mirmik/sp/deepspeech-0.6.0-models",
+		"/home/mirmik/project/semantic-terminal/semterm",
+		"/home/mirmik/project/articles/noy/МатематическиеОсновы/src",
+		"/home/mirmik/project/articles/noy/МатематическиеОсновы/src/main",
+		"/home/mirmik/project/zencad/mangen",
+		"/home/mirmik/project/zencad",
+		"/home/mirmik/project/zencad/zencad",
+		"/home/mirmik/project/genos/arch/avr/src",
+		"/home/mirmik/project/periph/periph",
+		"/home/mirmik/project/genos/board/nucleo-f4xx/board",
+		"/home/mirmik/project/genos/board/nucleo-f4xx",
+		"/home/mirmik/project/genos/src/addons/arduino-libs/DallasTemperature",
+		"/home/mirmik/project/servoce/include/servoce",
+		"/home/mirmik/project/evalcache",
+		"/home/mirmik/project/bujinsite/www/htdocs/generator/articles",
+		"/usr/lib/python3.7",
+		"/home/mirmik/project/crow/pycrow",
+		"/home/mirmik/project/genos/arch/avr",
+		"/home/mirmik/project/igris/igris/datastruct/pool",
+		"/home/mirmik/project/igris/igris/protocols/gstuff/HIDE",
+		"/home/mirmik/project/nos/nos/gstuff/HIDE",
+		"/home/mirmik/project/servoce/include",
+		"/home/mirmik/project/zencad/mangen/en",
+		"/home/mirmik/project/zencad/examples/storage",
+		"/home/mirmik/project/evalcache/utest",
+		"/home/mirmik/project/gxx/std",
+		"/home/mirmik/project/gxx/utests/print",
+		"/home/mirmik/project/crow/tools/crowker",
+		"/home/mirmik/project/mirmik.github.com/technique",
+		"/home/mirmik/project/evalcache/test",
+		"/home/mirmik/project/gxx/gxx",
+		"/home/mirmik/project/mirmik.github.com/bujin/notes",
+		"/home/mirmik/project/mirmik.github.com/bujin/notes/tenchijin",
+		"/home/mirmik/project/zippo/models/engineroom",
+		"/home/mirmik/project/crow/tools/ctrans",
+		"/home/mirmik/src/искусственная жизнь. мир1",
+		"/home/mirmik/project/atom/models/engineroom",
+		"/home/mirmik/project/genos",
+		"/home/mirmik/project/genos/arch",
+		"/home/mirmik/project/dl/dataset",
+		"/home/mirmik/project/zencad/src/HIDE",
+		"/home/mirmik/soft/cjdns"
+	],
+	"last_version": 3176,
+	"last_window_id": 84,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 1025.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"Ad",
+						"AdaptorCurve"
+					],
+					[
+						"view",
+						"viewport"
+					],
+					[
+						"d",
+						"display"
+					],
+					[
+						"lib",
+						"liboce_include_path"
+					],
+					[
+						"ge",
+						"get_occt_include_directory"
+					],
+					[
+						"f",
+						"find_qt_inc"
+					],
+					[
+						"att",
+						"attribute_store"
+					],
+					[
+						"ze",
+						"zencad_dynamic"
+					],
+					[
+						"zencad",
+						"zencad-dynamic"
+					],
+					[
+						"comm",
+						"communicator"
+					],
+					[
+						"con",
+						"console_retransler"
+					],
+					[
+						"co",
+						"console_retransler"
+					],
+					[
+						"re",
+						"retransler"
+					],
+					[
+						"op",
+						"oposite_clossed"
+					],
+					[
+						"stop",
+						"stop_visual_part"
+					],
+					[
+						"sl",
+						"sleeped_client"
+					],
+					[
+						"me",
+						"message_handler_qtsignal"
+					],
+					[
+						"m",
+						"message_handler_qtsignal"
+					],
+					[
+						"ha",
+						"handlers"
+					],
+					[
+						"CO",
+						"CONFIGURE_SLEEPED_OPTIMIZATION"
+					],
+					[
+						"cli",
+						"client_communicator"
+					],
+					[
+						"pri",
+						"print_to_stderr"
+					],
+					[
+						"bi",
+						"bind_window"
+					],
+					[
+						"I",
+						"INTERPRETER"
+					],
+					[
+						"cmd",
+						"cmdlst"
+					],
+					[
+						"Z",
+						"ZenFrameGuard"
+					],
+					[
+						"Ze",
+						"ZenFrameSandbox"
+					],
+					[
+						"dis",
+						"display_mode"
+					],
+					[
+						"par",
+						"pargs"
+					],
+					[
+						"em",
+						"embeded_window_container"
+					],
+					[
+						"res",
+						"restore_control"
+					],
+					[
+						"w",
+						"winid"
+					],
+					[
+						"e",
+						"ef"
+					],
+					[
+						"__",
+						"__init__"
+					],
+					[
+						"th",
+						"thrfunc"
+					],
+					[
+						"pr",
+						"print_to_stderr"
+					],
+					[
+						"de",
+						"debug"
+					],
+					[
+						"c",
+						"client_communicator"
+					],
+					[
+						"ne",
+						"new_worker_message"
+					],
+					[
+						"cl",
+						"client_communicator"
+					],
+					[
+						"se",
+						"session_id"
+					],
+					[
+						"open",
+						"open_start_signal"
+					],
+					[
+						"pa",
+						"parent"
+					],
+					[
+						"cu",
+						"current_file"
+					],
+					[
+						"displ",
+						"display_mode_enable"
+					],
+					[
+						"hi",
+						"hide_bars_mode"
+					],
+					[
+						"mH",
+						"mHideBars"
+					],
+					[
+						"M",
+						"MainWindowActionsMixin"
+					],
+					[
+						"commu",
+						"Communicator"
+					],
+					[
+						"sta",
+						"start_main_application"
+					],
+					[
+						"arg",
+						"parse_args"
+					],
+					[
+						"ri",
+						"right_room"
+					],
+					[
+						"size",
+						"size_t"
+					],
+					[
+						"rin",
+						"ring_counter"
+					],
+					[
+						"ar",
+						"array_view_initializer_list_test"
+					],
+					[
+						"arr",
+						"array_view"
+					],
+					[
+						"msys",
+						"msys64"
+					],
+					[
+						"L",
+						"LIBRARY_DIRS"
+					],
+					[
+						"p",
+						"platform"
+					],
+					[
+						"In",
+						"INCLUDE"
+					],
+					[
+						"dar",
+						"darwin"
+					],
+					[
+						"a",
+						"array"
+					],
+					[
+						"in",
+						"interactive_object"
+					],
+					[
+						"ro",
+						"rotate_array2"
+					],
+					[
+						"rec",
+						"rectangle_wire"
+					],
+					[
+						"W",
+						"Wire_orEdgeToWire"
+					],
+					[
+						"po",
+						"proto2"
+					],
+					[
+						"pro",
+						"proto2"
+					],
+					[
+						"tr",
+						"transform"
+					],
+					[
+						"el",
+						"ellipse"
+					],
+					[
+						"E",
+						"Edge"
+					],
+					[
+						"ell",
+						"ellipse_wire"
+					],
+					[
+						"aE",
+						"aEdge"
+					],
+					[
+						"set",
+						"set_orient1"
+					],
+					[
+						"tex",
+						"texteditor_hidden"
+					],
+					[
+						"track",
+						"tracking_mode"
+					],
+					[
+						"nee",
+						"need_prescale"
+					],
+					[
+						"keyboard_r",
+						"keyboard_retranslate_mode"
+					],
+					[
+						"is",
+						"isHidden"
+					],
+					[
+						"move",
+						"move_right"
+					],
+					[
+						"red",
+						"redraw"
+					],
+					[
+						"sce",
+						"scene_max0"
+					],
+					[
+						"z",
+						"zmin"
+					],
+					[
+						"y",
+						"ymin"
+					],
+					[
+						"mF",
+						"mFirstPersonMode"
+					],
+					[
+						"na",
+						"navigation_reference"
+					],
+					[
+						"mN",
+						"mNavRefer"
+					],
+					[
+						"mV",
+						"mVisCenter"
+					],
+					[
+						"set_ce",
+						"set_center_visible"
+					],
+					[
+						"ca",
+						"camera_center_axes"
+					],
+					[
+						"hs",
+						"hsplitter_position"
+					],
+					[
+						"rece",
+						"Recents"
+					],
+					[
+						"sq",
+						"sqrmirror"
+					],
+					[
+						"menu",
+						"menuBar"
+					],
+					[
+						"vie",
+						"view_only"
+					],
+					[
+						"text",
+						"texteditor"
+					],
+					[
+						"vi",
+						"view_mode"
+					],
+					[
+						"ev",
+						"event"
+					],
+					[
+						"tra",
+						"tracking_mode_enable"
+					],
+					[
+						"s",
+						"smooth"
+					],
+					[
+						"su",
+						"surf_saver"
+					],
+					[
+						"B",
+						"BRepBuilderAPI_Sewing"
+					],
+					[
+						"b",
+						"bounds"
+					],
+					[
+						"str",
+						"strt"
+					],
+					[
+						"fa",
+						"faces"
+					],
+					[
+						"wire",
+						"wire_face"
+					],
+					[
+						"tu",
+						"tube_wire_by_points"
+					],
+					[
+						"TopoD",
+						"TopoDS_Solid"
+					],
+					[
+						"S",
+						"Solid"
+					],
+					[
+						"py",
+						"pybind_source"
+					],
+					[
+						"ex",
+						"extend"
+					],
+					[
+						"ma",
+						"maxsegm"
+					],
+					[
+						"max",
+						"maxdegree"
+					],
+					[
+						"ra",
+						"radius"
+					],
+					[
+						"Law",
+						"Law_Constant"
+					],
+					[
+						"la",
+						"law_section"
+					],
+					[
+						"lo",
+						"law_location"
+					],
+					[
+						"law",
+						"law_function"
+					],
+					[
+						"sec",
+						"section_law"
+					],
+					[
+						"Ada",
+						"BRepAdaptor_HCurve"
+					],
+					[
+						"no",
+						"no_cache"
+					],
+					[
+						"face",
+						"face_shape"
+					],
+					[
+						"_i",
+						"_init_recent_menu"
+					],
+					[
+						"for",
+						"force_approx_c1"
+					],
+					[
+						"Ge",
+						"GeomFill_Trihedron"
+					],
+					[
+						"bo",
+						"board"
+					],
+					[
+						"ch",
+						"childs"
+					],
+					[
+						"add",
+						"add_child"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Pac",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/mirmik/project/servoce/servoce_inc.py",
+				"/home/mirmik/project/zencad/zencad/__init__.py",
+				"/home/mirmik/project/zencad/zencad/convert/api.py",
+				"/home/mirmik/project/servoce/include/servoce/scene.h",
+				"/home/mirmik/project/servoce/src/scene.cpp",
+				"/home/mirmik/project/servoce/include/servoce/viewer.h",
+				"/home/mirmik/project/servoce/include/servoce/view.h",
+				"/home/mirmik/project/servoce/src/viewer.cpp",
+				"/home/mirmik/project/servoce/src/view.cpp",
+				"/home/mirmik/project/servoce/expers/gl2ps/main.cpp",
+				"/home/mirmik/project/servoce/src/gl2ps_support.cpp",
+				"/home/mirmik/project/servoce/include/servoce/display.h",
+				"/home/mirmik/project/servoce/src/local/OccViewContext.h",
+				"/home/mirmik/project/servoce/include/servoce/gl2ps_support.h",
+				"/home/mirmik/project/servoce/src/display/dispwidget.cpp",
+				"/home/mirmik/project/servoce/expers/gl2ps/make.py",
+				"/home/mirmik/project/servoce/src/display.cpp",
+				"/home/mirmik/project/zencad-dynamic/zencad_dynamic/inertia.py",
+				"/home/mirmik/project/zencad-dynamic/zencad_dynamic/rigid_body.py",
+				"/home/mirmik/project/zencad-dynamic/zencad_dynamic/solver.py",
+				"/home/mirmik/project/zencad-dyn/zencad/libs/screw.py",
+				"/home/mirmik/project/zencad/zencad/libs/screw.py",
+				"/home/mirmik/project/servoce/make.py",
+				"/home/mirmik/project/licant/licant/__init__.py",
+				"/home/mirmik/project/zencad-dynamic/expers/test.py",
+				"/home/mirmik/project/servoce/expers/gl2ps",
+				"/home/mirmik/.local/lib/python3.6/site-packages/zencad-0.30.1-py3.6.egg/zencad/libs/screw.py",
+				"/home/mirmik/project/zencad-dynamic/zencad_dynamic/__init__.py",
+				"/home/mirmik/test/opengl/make.py",
+				"/home/mirmik/test/opengl/main.cpp",
+				"/home/mirmik/project/zenframe/zenframe/texteditor.py",
+				"/home/mirmik/project/zencad/zencad/mbody/subsystem.py",
+				"/home/mirmik/project/zencad/zencad/mbody/solver.py",
+				"/home/mirmik/project/zencad/zencad/mbody/kintranslator.py",
+				"/home/mirmik/project/zencad-dynamic/setup.py",
+				"/home/mirmik/test/opengl/vertex.gl",
+				"/home/mirmik/project/zencad-dynamic/zencad-dynamic/__init__.py",
+				"/home/mirmik/project/zenframe/zenframe/guard.py",
+				"/home/mirmik/project/ralgraph/expers/opengl/main.cpp",
+				"/home/mirmik/project/zenframe/zenframe/mainwindow.py",
+				"/home/mirmik/project/zenframe/zenframe/bind.py",
+				"/home/mirmik/project/zenframe/zenframe/agent.py",
+				"/home/mirmik/project/zenframe/zenframe/util.py",
+				"/home/mirmik/project/zenframe/zenframe/communicator.py",
+				"/home/mirmik/project/zenframe/expers/test0.py",
+				"/home/mirmik/project/zenframe/zenframe/__main__.py",
+				"/home/mirmik/project/zenframe/zenframe/sandbox.py",
+				"/home/mirmik/project/zenframe/zenframe/configure.py",
+				"/home/mirmik/project/zenframe/zenframe/retransler.py",
+				"/home/mirmik/project/zenframe/zenframe/signal_handling.py",
+				"/home/mirmik/.local/lib/python3.6/site-packages/zencad-0.30.1-py3.6.egg/zencad/examples/0.Base/helloworld.py",
+				"/home/mirmik/project/ralgraph/expers/opengl/make.py",
+				"/home/mirmik/project/zenframe/zenframe/application.py",
+				"/home/mirmik/project/zencad/zencad/gui/mainwindow.py",
+				"/home/mirmik/project/ralgraph/ralgraph/show.cpp",
+				"/home/mirmik/project/zenframe/zenframe/console.py",
+				"/home/mirmik/project/zencad/zencad/gui/application.py",
+				"/home/mirmik/project/zenframe/zenframe/__init__.py",
+				"/home/mirmik/project/zencad/zencad/util.py",
+				"/home/mirmik/project/zenframe/setup.py",
+				"/home/mirmik/project/zenframe/configure.py",
+				"/home/mirmik/project/zencad/zencad/gui/viewadaptor.py",
+				"/home/mirmik/project/zencad/zencad/showapi.py",
+				"/home/mirmik/project/zencad/zencad/gui/actions.py",
+				"/home/mirmik/project/zenframe/zenframe/actions.py",
+				"/home/mirmik/project/ralgo/test/sliding_array.h",
+				"/home/mirmik/project/ralgo/ralgo/vecops.h",
+				"/home/mirmik/project/ralgo/ralgo/util/helpers.h",
+				"/home/mirmik/project/ralgo/ralgo/matstruct/sliding_array.h",
+				"/home/mirmik/project/igris/.travis.yml",
+				"/home/mirmik/project/nos/.travis.yml",
+				"/home/mirmik/project/kaisel/.travis.yml",
+				"/home/mirmik/project/nos/nos/print/print.h",
+				"/home/mirmik/project/kaisel/make.py",
+				"/home/mirmik/project/licant/licant/cxx_make.py",
+				"/home/mirmik/project/kaisel/test/trent.cpp",
+				"/home/mirmik/project/zencad/zencad/gui/nqueue.py",
+				"/home/mirmik/project/igris/ltest/littletest.hpp",
+				"/home/mirmik/project/igris/CMakeLists.txt",
+				"/home/mirmik/project/igris/ltest/main.cpp",
+				"/home/mirmik/project/nos/test/main.cpp",
+				"/home/mirmik/project/kaisel/test/make.py",
+				"/home/mirmik/project/zenframe/tools/reinstall_local.sh",
+				"/home/mirmik/project/licant/setup.py",
+				"/home/mirmik/project/nos/test/make.py",
+				"/home/mirmik/project/kaisel/kaisel.g.py",
+				"/home/mirmik/project/ralgo/test/main.cpp",
+				"/home/mirmik/project/ralgo/test/make.py",
+				"/home/mirmik/project/igris/ltest/event.hpp",
+				"/home/mirmik/project/igris/ltest/sync.hpp",
+				"/home/mirmik/project/igris/CMakeCache.txt",
+				"/home/mirmik/project/igris/ltest/serialize.hpp",
+				"/home/mirmik/test/testtest/main.cpp",
+				"/home/mirmik/project/servoce/CMakeLists.txt",
+				"/home/mirmik/project/servoce/.travis.yml",
+				"/home/mirmik/project/ralgraph/ralgraph/chart.h",
+				"/home/mirmik/project/ralgraph/expers/show_test/main.cpp",
+				"/home/mirmik/project/igris/igris/datastruct/ring_counter.h",
+				"/home/mirmik/project/igris/igris/datastruct/dlist.h",
+				"/home/mirmik/project/igris/igris/util/member.h",
+				"/home/mirmik/project/igris/igris/datastruct/ring.h",
+				"/home/mirmik/project/igris/ltest/jjj",
+				"/home/mirmik/project/igris/ltest/argvc.hpp",
+				"/home/mirmik/project/igris/ltest/bits.hpp",
+				"/home/mirmik/project/linalg-v3/linalg-v3/linalg.h",
+				"/home/mirmik/project/ralgo/ralgo/matstruct/flow_window_array.h",
+				"/home/mirmik/project/ralgo/ralgo/matstruct/flow_window.h",
+				"/home/mirmik/project/ralgo/ralgo/matstruct/flow_array.h",
+				"/home/mirmik/project/igris/ltest/dprint.cpp",
+				"/home/mirmik/project/igris/ltest/util.hpp",
+				"/home/mirmik/project/igris/ltest/array_view.cpp",
+				"/home/mirmik/project/igris/ltest/sync.cpp",
+				"/home/mirmik/project/igris/ltest/make.py",
+				"/home/mirmik/src/bandit/.travis.yml",
+				"/home/mirmik/src/liblittletest/src/littletest.hpp",
+				"/home/mirmik/test/testtest/make.sh",
+				"/home/mirmik/project/servoce/tools/__set_occt_paths.py",
+				"/home/mirmik/project/igris/test/CMakeLists.txt",
+				"/home/mirmik/test/testtest/make.py",
+				"/home/mirmik/project/servoce/pyservoce/__init__.py",
+				"/home/mirmik/project/zencad/setup.py",
+				"/home/mirmik/project/zencad/mangen/ru/trans0.md",
+				"/home/mirmik/project/zencad/mangen/ru/sweep.md",
+				"/home/mirmik/project/zencad/mangen/images/imagen.py",
+				"/home/mirmik/project/zencad/zencad/examples/2.Operations/3.Sweep/revol.py",
+				"/home/mirmik/project/zencad/zencad/geom/transform.py",
+				"/home/mirmik/project/zencad/zencad/examples/2.Operations/3.Sweep/revol2.py",
+				"/home/mirmik/project/zencad/zencad/geom/ops3d.py"
+			],
+			"find":
+			{
+				"height": 39.0
+			},
+			"find_in_files":
+			{
+				"height": 171.0,
+				"where_history":
+				[
+					"~/project/servoce/src",
+					"~/project/servoce/include",
+					"~/project/zencad/zencad",
+					"~/project/zencad/expers",
+					"~/project/zencad/tests",
+					"~/project/zencad/expers",
+					"~/project/zencad/zencad",
+					"~/project/zencad/zencad/",
+					"~/project/zencad/zencad/examples",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"gl",
+					"gradie",
+					"{}\n",
+					"CONFIGURE_MAIN_TRACE",
+					"client_f",
+					"sess",
+					"zencad",
+					"zenframe.gui.",
+					"zencad",
+					"bind",
+					"bind_w",
+					"zencad",
+					"setWind",
+					"setTit",
+					"setTi",
+					"auto_u",
+					"viewO",
+					"hideB",
+					"fullS",
+					"checkbox",
+					"check",
+					"texte",
+					"nqu",
+					"nque",
+					"zencad",
+					"gtes",
+					"sys/time",
+					"EXPECT_EQ",
+					"lib_prefix",
+					"120",
+					"60",
+					"DEF_MTRANS_FUSE",
+					"extrude",
+					" ",
+					"extrud",
+					"outw",
+					"transformable<Cls>",
+					"servoce::transformable<T>::",
+					"transfor",
+					"\t\tT",
+					"=T",
+					"class T> T",
+					"Cls::",
+					"Cls::*",
+					"return transform",
+					"transform",
+					"first_",
+					"handle",
+					"visible",
+					"bbox",
+					"scene",
+					"showE",
+					"displayMode",
+					"set_current_opened",
+					"texted",
+					"show",
+					"MarkerQController",
+					"showmarkers",
+					"trackin",
+					"zoom_koeff_key",
+					"need_pres",
+					"@traced",
+					"presen",
+					"bind_win",
+					"texted",
+					"hideEd",
+					"displayMo",
+					"centering",
+					"center",
+					"set_ori",
+					"center",
+					"redraw",
+					"center",
+					"show",
+					"showE",
+					"mouse",
+					"VisC",
+					"about",
+					"mAb",
+					"Help",
+					"set_ce",
+					"set_v",
+					"set_cent",
+					"line",
+					"axZ",
+					"Axis",
+					"point3",
+					"location_changed_handle",
+					"perspective_mode",
+					"self.perspective_mode",
+					"up",
+					"pgu",
+					"hideC",
+					"splitter",
+					"splittr",
+					"resize",
+					"open",
+					"presla",
+					"pres",
+					"info",
+					"toolBar",
+					"evf",
+					"bind",
+					"markers",
+					"internal_key_pressed_raw",
+					"modif",
+					"QPlainTextEdit",
+					"signal_key_pressed_raw",
+					"from",
+					"window",
+					"keybo",
+					"keyboard",
+					"showE",
+					"bind_w",
+					"keyb",
+					"tracking",
+					"internal_key_pressed",
+					"KeyP",
+					"evfil",
+					"mouseTr",
+					"keyb",
+					"mouseT",
+					"track",
+					"trckin",
+					"setMouseTracking",
+					"tracking",
+					"lazy_getattr",
+					"NoExpa"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"CONFIGURE_DEBUG_MODE",
+					"zenframe",
+					"zenframe.",
+					"zenframe",
+					"LT_CHECK_EQ",
+					"S*2",
+					"S",
+					"DEF_MTRANS_ARRAY",
+					"_",
+					".",
+					"transformable<Cls,RetCls>",
+					"servoce::transformable<T,Ret>::",
+					"\t\tRet",
+					"",
+					"class T, class Ret=T> Ret",
+					"transformable<Cls>::",
+					"transformable<Cls>::*",
+					"return self().transform",
+					"self().transform",
+					"",
+					"wire_shape",
+					"bounded_curve3",
+					"curve3",
+					"surface",
+					"servoce::curve3",
+					"servoce::bounded_curve3",
+					"servoce::curve3",
+					"surface",
+					"add_shape",
+					"relocate",
+					"RetCls(Cls",
+					"Cls",
+					";",
+					"template <T> T servoce::transformable<T>::",
+					"servoce/shape.h",
+					"shape",
+					"T",
+					"",
+					"zencad.configure.CONFIGURE_MAIN_TRACE",
+					"ofile",
+					"ifile",
+					"declared_opposite_pid",
+					"self.parent.subproc_pid()",
+					"self.parent.subproc_pid",
+					"data_unpickled",
+					"data_base64",
+					"self.embeded_window_container",
+					"lineNumberArea",
+					"igris::size",
+					"crowpulse",
+					"x",
+					"y_b",
+					"y_a",
+					"_",
+					"PointType",
+					"zencad.mbody",
+					"subproc",
+					"global_pose",
+					"",
+					"link_directly",
+					"servoce",
+					"spi2",
+					"dprhexln",
+					"spi2.exbyte",
+					"zencad.configure.CONFIGURE_SLEEPED_OPTIMIZATION",
+					"import zencad.configure",
+					"zencad.libs.kinematic",
+					"kinematic",
+					"dpr",
+					"input_state()",
+					"pin.get()",
+					"output_state()",
+					"pin.set(0);",
+					"pin.set(1);",
+					"delay_us",
+					"irqs_enable",
+					"irqs_disable",
+					"stm32l4_",
+					"USART_TypeDef *",
+					"USART_TypeDef",
+					"stm32l4_usart",
+					"__TRACE__",
+					"change",
+					"z",
+					"y",
+					"x",
+					"",
+					"#@lazy",
+					"relocate",
+					"igris",
+					"trent_basic<TAlloc>::",
+					"type::dict",
+					"\\Delta",
+					"\\delta",
+					"\\Delta",
+					"",
+					"htrans",
+					"lerp_values",
+					"std::complex<double>",
+					"dstlen",
+					"srclen",
+					"QImage",
+					"dst",
+					"src",
+					"pubsub_protocol",
+					"pubsuc_protocol",
+					"",
+					"unsigned int",
+					"void",
+					"((struct gpio_regs *)(g))->",
+					"void",
+					"unsigned int",
+					"void",
+					"unsigned int",
+					"crow::utilize",
+					"0x120",
+					"0xA0",
+					"0x90",
+					"0xB0",
+					"0x80",
+					"0x44",
+					"gate->u->ctrirqs(",
+					"gate->u->sendbyte(",
+					"'c'",
+					"'a'",
+					"'b'",
+					"11",
+					"ARV_TIMER_OCRC"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.astyle_error_message":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 44.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 223.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 950.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"Ad",
+						"AdaptorCurve"
+					],
+					[
+						"view",
+						"viewport"
+					],
+					[
+						"d",
+						"display"
+					],
+					[
+						"lib",
+						"liboce_include_path"
+					],
+					[
+						"ge",
+						"get_occt_include_directory"
+					],
+					[
+						"f",
+						"find_qt_inc"
+					],
+					[
+						"att",
+						"attribute_store"
+					],
+					[
+						"ze",
+						"zencad_dynamic"
+					],
+					[
+						"zencad",
+						"zencad-dynamic"
+					],
+					[
+						"comm",
+						"communicator"
+					],
+					[
+						"con",
+						"console_retransler"
+					],
+					[
+						"co",
+						"console_retransler"
+					],
+					[
+						"re",
+						"retransler"
+					],
+					[
+						"op",
+						"oposite_clossed"
+					],
+					[
+						"stop",
+						"stop_visual_part"
+					],
+					[
+						"sl",
+						"sleeped_client"
+					],
+					[
+						"me",
+						"message_handler_qtsignal"
+					],
+					[
+						"m",
+						"message_handler_qtsignal"
+					],
+					[
+						"ha",
+						"handlers"
+					],
+					[
+						"CO",
+						"CONFIGURE_SLEEPED_OPTIMIZATION"
+					],
+					[
+						"cli",
+						"client_communicator"
+					],
+					[
+						"pri",
+						"print_to_stderr"
+					],
+					[
+						"bi",
+						"bind_window"
+					],
+					[
+						"I",
+						"INTERPRETER"
+					],
+					[
+						"cmd",
+						"cmdlst"
+					],
+					[
+						"Z",
+						"ZenFrameGuard"
+					],
+					[
+						"Ze",
+						"ZenFrameSandbox"
+					],
+					[
+						"dis",
+						"display_mode"
+					],
+					[
+						"par",
+						"pargs"
+					],
+					[
+						"em",
+						"embeded_window_container"
+					],
+					[
+						"res",
+						"restore_control"
+					],
+					[
+						"w",
+						"winid"
+					],
+					[
+						"e",
+						"ef"
+					],
+					[
+						"__",
+						"__init__"
+					],
+					[
+						"th",
+						"thrfunc"
+					],
+					[
+						"pr",
+						"print_to_stderr"
+					],
+					[
+						"de",
+						"debug"
+					],
+					[
+						"c",
+						"client_communicator"
+					],
+					[
+						"ne",
+						"new_worker_message"
+					],
+					[
+						"cl",
+						"client_communicator"
+					],
+					[
+						"se",
+						"session_id"
+					],
+					[
+						"open",
+						"open_start_signal"
+					],
+					[
+						"pa",
+						"parent"
+					],
+					[
+						"cu",
+						"current_file"
+					],
+					[
+						"displ",
+						"display_mode_enable"
+					],
+					[
+						"hi",
+						"hide_bars_mode"
+					],
+					[
+						"mH",
+						"mHideBars"
+					],
+					[
+						"M",
+						"MainWindowActionsMixin"
+					],
+					[
+						"commu",
+						"Communicator"
+					],
+					[
+						"sta",
+						"start_main_application"
+					],
+					[
+						"arg",
+						"parse_args"
+					],
+					[
+						"ri",
+						"right_room"
+					],
+					[
+						"size",
+						"size_t"
+					],
+					[
+						"rin",
+						"ring_counter"
+					],
+					[
+						"ar",
+						"array_view_initializer_list_test"
+					],
+					[
+						"arr",
+						"array_view"
+					],
+					[
+						"msys",
+						"msys64"
+					],
+					[
+						"L",
+						"LIBRARY_DIRS"
+					],
+					[
+						"p",
+						"platform"
+					],
+					[
+						"In",
+						"INCLUDE"
+					],
+					[
+						"dar",
+						"darwin"
+					],
+					[
+						"a",
+						"array"
+					],
+					[
+						"in",
+						"interactive_object"
+					],
+					[
+						"ro",
+						"rotate_array2"
+					],
+					[
+						"rec",
+						"rectangle_wire"
+					],
+					[
+						"W",
+						"Wire_orEdgeToWire"
+					],
+					[
+						"po",
+						"proto2"
+					],
+					[
+						"pro",
+						"proto2"
+					],
+					[
+						"tr",
+						"transform"
+					],
+					[
+						"el",
+						"ellipse"
+					],
+					[
+						"E",
+						"Edge"
+					],
+					[
+						"ell",
+						"ellipse_wire"
+					],
+					[
+						"aE",
+						"aEdge"
+					],
+					[
+						"set",
+						"set_orient1"
+					],
+					[
+						"tex",
+						"texteditor_hidden"
+					],
+					[
+						"track",
+						"tracking_mode"
+					],
+					[
+						"nee",
+						"need_prescale"
+					],
+					[
+						"keyboard_r",
+						"keyboard_retranslate_mode"
+					],
+					[
+						"is",
+						"isHidden"
+					],
+					[
+						"move",
+						"move_right"
+					],
+					[
+						"red",
+						"redraw"
+					],
+					[
+						"sce",
+						"scene_max0"
+					],
+					[
+						"z",
+						"zmin"
+					],
+					[
+						"y",
+						"ymin"
+					],
+					[
+						"mF",
+						"mFirstPersonMode"
+					],
+					[
+						"na",
+						"navigation_reference"
+					],
+					[
+						"mN",
+						"mNavRefer"
+					],
+					[
+						"mV",
+						"mVisCenter"
+					],
+					[
+						"set_ce",
+						"set_center_visible"
+					],
+					[
+						"ca",
+						"camera_center_axes"
+					],
+					[
+						"hs",
+						"hsplitter_position"
+					],
+					[
+						"rece",
+						"Recents"
+					],
+					[
+						"sq",
+						"sqrmirror"
+					],
+					[
+						"menu",
+						"menuBar"
+					],
+					[
+						"vie",
+						"view_only"
+					],
+					[
+						"text",
+						"texteditor"
+					],
+					[
+						"vi",
+						"view_mode"
+					],
+					[
+						"ev",
+						"event"
+					],
+					[
+						"tra",
+						"tracking_mode_enable"
+					],
+					[
+						"s",
+						"smooth"
+					],
+					[
+						"su",
+						"surf_saver"
+					],
+					[
+						"B",
+						"BRepBuilderAPI_Sewing"
+					],
+					[
+						"b",
+						"bounds"
+					],
+					[
+						"str",
+						"strt"
+					],
+					[
+						"fa",
+						"faces"
+					],
+					[
+						"wire",
+						"wire_face"
+					],
+					[
+						"tu",
+						"tube_wire_by_points"
+					],
+					[
+						"TopoD",
+						"TopoDS_Solid"
+					],
+					[
+						"S",
+						"Solid"
+					],
+					[
+						"py",
+						"pybind_source"
+					],
+					[
+						"ex",
+						"extend"
+					],
+					[
+						"ma",
+						"maxsegm"
+					],
+					[
+						"max",
+						"maxdegree"
+					],
+					[
+						"ra",
+						"radius"
+					],
+					[
+						"Law",
+						"Law_Constant"
+					],
+					[
+						"la",
+						"law_section"
+					],
+					[
+						"lo",
+						"law_location"
+					],
+					[
+						"law",
+						"law_function"
+					],
+					[
+						"sec",
+						"section_law"
+					],
+					[
+						"Ada",
+						"BRepAdaptor_HCurve"
+					],
+					[
+						"no",
+						"no_cache"
+					],
+					[
+						"face",
+						"face_shape"
+					],
+					[
+						"_i",
+						"_init_recent_menu"
+					],
+					[
+						"for",
+						"force_approx_c1"
+					],
+					[
+						"Ge",
+						"GeomFill_Trihedron"
+					],
+					[
+						"bo",
+						"board"
+					],
+					[
+						"ch",
+						"childs"
+					],
+					[
+						"add",
+						"add_child"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/mirmik/project/servoce/src/local/display.h",
+					"settings":
+					{
+						"buffer_size": 1196,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/mirmik/project/servoce/make.py",
+					"settings":
+					{
+						"buffer_size": 1145,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/mirmik/test/svg/test.py",
+					"settings":
+					{
+						"buffer_size": 182,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/mirmik/project/zencad/setup.py",
+					"settings":
+					{
+						"buffer_size": 1465,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/mirmik/project/zencad/zencad/convert/svg.py",
+					"settings":
+					{
+						"buffer_size": 897,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/mirmik/project/servoce/pyservoce/__init__.py",
+					"settings":
+					{
+						"buffer_size": 4175,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "Уважаемые камрады.\n\nКак известно, каждый уважаемый кодер рано или поздно пишет свой логер, парсер json и язык программирования. Поскольку первое и второе я уже написал, то мне ничего не остаётся, как представить миру мои (и моих товарищей) наработки по инновационному языку программирования alang.\n\nКонструируя alang мы вдохнавлялись как признанными проектами, такими как rust, python, c++, так и экспериментальными образчиками, такими как dcastf, glink, whitespace и прочие. \n\nИтак, давайте приступим к разбору фичей, которые я нам принёс. \n\n## Синтаксис правого присваивания.\nКогда компьютеры были большими, а динозавры маленькими, отцы основатели допустили ошибку, звшив в оператор присваивания логику перемещения правого в левое, что противно интуитивно ожидаемому (если вы не японец) движению левого в правое.\n\nДвижение правого в левое наложило отпечаток на  многие технологии и в результате мы получили:\n- инструкцию ассемблера mov, в порядке аргументов которой вечно путаются студены \n- функции стандартной бибьлиотеки языка си, такие как `strcpy`, `memmove`.\n\nИ ладно бы мы всегда пользовались движением правого в левое, но тяга к интуитивно понятному породила:\n- утилиты командной строки `cp`, `ln`.\n- синтаксис функций стандартной библиотеки плюсов `std::copy` сотоварищи.\n\nВ подавляющем большинстве более менее современных инструментов движению правого в левое предпочитают длвижение левого в правое.\n\nНо если с порядком аргументов в библиотеках каждый волен делать что хочет, то железобетонно вшитые в само тело языка программирования операторы присваивания до сих пор оставались незамеченными реформацией. В кое-то веки пора уже ударить расскалённым от праведного гнева молотом скепсиса и рациональности по этому недоразумению, что именуется оператором присваивания.\n\nЯзык alang вводит оператор правого присваивания:\n\n```rust\n42 => answer\nfoo(42) => answer\n```\n\nВ силу понимания несовершенства человеческой природы и неспособности большей части сообщества к столь радикальным перестроениям, мы не стали изгонять старый оператор присваивания из языка полностью. Вы по прежнему можете его использовать, но будете получать ворнинги.\n\nКстати, такое синтаксис тоже валиден и может использоваться для некоторых хаков:\n```rust\n42 => answer = 42\n```\n\n## Табы против табуляции.\nЯзык alang предлагает революционное решение извечного вопроса, что лучше, табы или пробелы, инспирированное языком whitespace. Конечно решение, предложенное авторами языка go, когда отступы всегда обозначаются табом, также неплохо, но мы решили что волюнтаристское назначение табов на роль символа отступника нарушает права пробельных меньшинств.\n\nВ языке alang табы и пробелы имеют разный смысл!\n```rust\n\ta + foo(b) => c // табы\n    a + foo(b) => c // пробелы\n```\nЭти два выражения выглядят одинакого, но на деле между ними существует разница. Разница эта состоит в обработке исключений. Не секрет, что конструкции вроде\n```c++\ntry {\n\tfoo();\n}\ncatch (...) {}\n```\n, проглатывающие исключения довольно популярны у некоторых разработчиков. Мы решили внести эту конструкцию прямо в синтаксис языка. Теперь, если вы можете явно отметить подавление исключения пробельным отступом. Ваш код продолжит исполнятся в то время как код табуляторов вылетит с ошибкой.\n\n\n## Управление типизацией, интерпретатор против компилятора.\nИ поныне не умолкают холивары, какая типизация предпочтительнее, статическая, динамическая, структурная, номинативная. alang в этом вопросе проезжает на всех санях сразу, позволяя менять типизацию по мере выполнения кода.\n\n```rust\n<typing:dynamic> // глобальное включение динамической типизации\n\nfn foo(a,b) // динамически типизируемый код\n{\n\ta + b => c\n\treturn c\n}\n\nfn bar(a:i32,b) // динамическая типизация с номинативной проверкой типа \n{\n\ta + b => c\n\treturn c\n}\n\n[typing:static] \nfn fubar(a,b) -> i32 // статически типизируемый код\n{\n\ta + b => c : i32\n\treturn c\n}\n```\n\nБез задней мысли вводя этот функционал, я в какой-то момент обнаружил, что он открывает довольно широкий подход для оптимизаций, поскольку статическая часть поддаётся компиляции (интерпретатор выполняет её в jit режиме под нативное железо). Если программа написана полностью статически, мы можем компилироваться в исполняемый файл. (Тенхнически мы можем это делать и с динамическим кодом, но тогда приходится зашивать интерпретатор в кишки эльфа).\n\n\n## Подключение динамических библиотек и возможность импорта модулей.\n\n",
+					"file": "/home/mirmik/project/articles/alang/alang.md",
+					"file_size": 5481,
+					"file_write_time": 132296750605024762,
+					"settings":
+					{
+						"buffer_size": 4392,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/mirmik/project/servoce/src/pywrap/edge.cpp",
+					"settings":
+					{
+						"buffer_size": 3827,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/mirmik/project/servoce/include/servoce/curve_algo.h",
+					"settings":
+					{
+						"buffer_size": 4584,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/mirmik/project/servoce/include/servoce/edge.h",
+					"settings":
+					{
+						"buffer_size": 2022,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/mirmik/project/servoce/src/edge.cpp",
+					"settings":
+					{
+						"buffer_size": 1281,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Pac",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/mirmik/project/servoce/expers/gl2ps/make.py",
+				"/home/mirmik/project/servoce/expers/gl2ps/lalal.ps",
+				"/home/mirmik/project/servoce/expers/gl2ps/MyFile",
+				"/home/mirmik/project/servoce/servoce_inc.py",
+				"/home/mirmik/project/zencad/zencad/__init__.py",
+				"/home/mirmik/project/zencad/zencad/convert/api.py",
+				"/home/mirmik/project/servoce/include/servoce/scene.h",
+				"/home/mirmik/project/servoce/src/scene.cpp",
+				"/home/mirmik/project/servoce/include/servoce/viewer.h",
+				"/home/mirmik/project/servoce/include/servoce/view.h",
+				"/home/mirmik/project/servoce/src/viewer.cpp",
+				"/home/mirmik/project/servoce/src/view.cpp",
+				"/home/mirmik/project/servoce/expers/gl2ps/main.cpp",
+				"/home/mirmik/project/servoce/src/gl2ps_support.cpp",
+				"/home/mirmik/project/servoce/include/servoce/display.h",
+				"/home/mirmik/project/servoce/src/local/OccViewContext.h",
+				"/home/mirmik/project/servoce/include/servoce/gl2ps_support.h",
+				"/home/mirmik/project/servoce/src/display/dispwidget.cpp",
+				"/home/mirmik/project/servoce/src/display.cpp",
+				"/home/mirmik/project/zencad-dynamic/zencad_dynamic/inertia.py",
+				"/home/mirmik/project/zencad-dynamic/zencad_dynamic/rigid_body.py",
+				"/home/mirmik/project/zencad-dynamic/zencad_dynamic/solver.py",
+				"/home/mirmik/project/zencad-dyn/zencad/libs/screw.py",
+				"/home/mirmik/project/zencad/zencad/libs/screw.py",
+				"/home/mirmik/project/servoce/make.py",
+				"/home/mirmik/project/licant/licant/__init__.py",
+				"/home/mirmik/project/zencad-dynamic/expers/test.py",
+				"/home/mirmik/project/servoce/expers/gl2ps",
+				"/home/mirmik/.local/lib/python3.6/site-packages/zencad-0.30.1-py3.6.egg/zencad/libs/screw.py",
+				"/home/mirmik/project/zencad-dynamic/zencad_dynamic/__init__.py",
+				"/home/mirmik/test/opengl/make.py",
+				"/home/mirmik/test/opengl/main.cpp",
+				"/home/mirmik/project/zenframe/zenframe/texteditor.py",
+				"/home/mirmik/project/zencad/zencad/mbody/subsystem.py",
+				"/home/mirmik/project/zencad/zencad/mbody/solver.py",
+				"/home/mirmik/project/zencad/zencad/mbody/kintranslator.py",
+				"/home/mirmik/project/zencad-dynamic/setup.py",
+				"/home/mirmik/test/opengl/vertex.gl",
+				"/home/mirmik/project/zencad-dynamic/zencad-dynamic/__init__.py",
+				"/home/mirmik/project/zenframe/zenframe/guard.py",
+				"/home/mirmik/project/ralgraph/expers/opengl/main.cpp",
+				"/home/mirmik/project/zenframe/zenframe/mainwindow.py",
+				"/home/mirmik/project/zenframe/zenframe/bind.py",
+				"/home/mirmik/project/zenframe/zenframe/agent.py",
+				"/home/mirmik/project/zenframe/zenframe/util.py",
+				"/home/mirmik/project/zenframe/zenframe/communicator.py",
+				"/home/mirmik/project/zenframe/expers/test0.py",
+				"/home/mirmik/project/zenframe/zenframe/__main__.py",
+				"/home/mirmik/project/zenframe/zenframe/sandbox.py",
+				"/home/mirmik/project/zenframe/zenframe/configure.py",
+				"/home/mirmik/project/zenframe/zenframe/retransler.py",
+				"/home/mirmik/project/zenframe/zenframe/signal_handling.py",
+				"/home/mirmik/.local/lib/python3.6/site-packages/zencad-0.30.1-py3.6.egg/zencad/examples/0.Base/helloworld.py",
+				"/home/mirmik/project/ralgraph/expers/opengl/make.py",
+				"/home/mirmik/project/zenframe/zenframe/application.py",
+				"/home/mirmik/project/zencad/zencad/gui/mainwindow.py",
+				"/home/mirmik/project/ralgraph/ralgraph/show.cpp",
+				"/home/mirmik/project/zenframe/zenframe/console.py",
+				"/home/mirmik/project/zencad/zencad/gui/application.py",
+				"/home/mirmik/project/zenframe/zenframe/__init__.py",
+				"/home/mirmik/project/zencad/zencad/util.py",
+				"/home/mirmik/project/zenframe/setup.py",
+				"/home/mirmik/project/zenframe/configure.py",
+				"/home/mirmik/project/zencad/zencad/gui/viewadaptor.py",
+				"/home/mirmik/project/zencad/zencad/showapi.py",
+				"/home/mirmik/project/zencad/zencad/gui/actions.py",
+				"/home/mirmik/project/zenframe/zenframe/actions.py",
+				"/home/mirmik/project/ralgo/test/sliding_array.h",
+				"/home/mirmik/project/ralgo/ralgo/vecops.h",
+				"/home/mirmik/project/ralgo/ralgo/util/helpers.h",
+				"/home/mirmik/project/ralgo/ralgo/matstruct/sliding_array.h",
+				"/home/mirmik/project/igris/.travis.yml",
+				"/home/mirmik/project/nos/.travis.yml",
+				"/home/mirmik/project/kaisel/.travis.yml",
+				"/home/mirmik/project/nos/nos/print/print.h",
+				"/home/mirmik/project/kaisel/make.py",
+				"/home/mirmik/project/licant/licant/cxx_make.py",
+				"/home/mirmik/project/kaisel/test/trent.cpp",
+				"/home/mirmik/project/zencad/zencad/gui/nqueue.py",
+				"/home/mirmik/project/igris/ltest/littletest.hpp",
+				"/home/mirmik/project/igris/CMakeLists.txt",
+				"/home/mirmik/project/igris/ltest/main.cpp",
+				"/home/mirmik/project/nos/test/main.cpp",
+				"/home/mirmik/project/kaisel/test/make.py",
+				"/home/mirmik/project/zenframe/tools/reinstall_local.sh",
+				"/home/mirmik/project/licant/setup.py",
+				"/home/mirmik/project/nos/test/make.py",
+				"/home/mirmik/project/kaisel/kaisel.g.py",
+				"/home/mirmik/project/ralgo/test/main.cpp",
+				"/home/mirmik/project/ralgo/test/make.py",
+				"/home/mirmik/project/igris/ltest/event.hpp",
+				"/home/mirmik/project/igris/ltest/sync.hpp",
+				"/home/mirmik/project/igris/CMakeCache.txt",
+				"/home/mirmik/project/igris/ltest/serialize.hpp",
+				"/home/mirmik/test/testtest/main.cpp",
+				"/home/mirmik/project/servoce/CMakeLists.txt",
+				"/home/mirmik/project/servoce/.travis.yml",
+				"/home/mirmik/project/ralgraph/ralgraph/chart.h",
+				"/home/mirmik/project/ralgraph/expers/show_test/main.cpp",
+				"/home/mirmik/project/igris/igris/datastruct/ring_counter.h",
+				"/home/mirmik/project/igris/igris/datastruct/dlist.h",
+				"/home/mirmik/project/igris/igris/util/member.h",
+				"/home/mirmik/project/igris/igris/datastruct/ring.h",
+				"/home/mirmik/project/igris/ltest/jjj",
+				"/home/mirmik/project/igris/ltest/argvc.hpp",
+				"/home/mirmik/project/igris/ltest/bits.hpp",
+				"/home/mirmik/project/linalg-v3/linalg-v3/linalg.h",
+				"/home/mirmik/project/ralgo/ralgo/matstruct/flow_window_array.h",
+				"/home/mirmik/project/ralgo/ralgo/matstruct/flow_window.h",
+				"/home/mirmik/project/ralgo/ralgo/matstruct/flow_array.h",
+				"/home/mirmik/project/igris/ltest/dprint.cpp",
+				"/home/mirmik/project/igris/ltest/util.hpp",
+				"/home/mirmik/project/igris/ltest/array_view.cpp",
+				"/home/mirmik/project/igris/ltest/sync.cpp",
+				"/home/mirmik/project/igris/ltest/make.py",
+				"/home/mirmik/src/bandit/.travis.yml",
+				"/home/mirmik/src/liblittletest/src/littletest.hpp",
+				"/home/mirmik/test/testtest/make.sh",
+				"/home/mirmik/project/servoce/tools/__set_occt_paths.py",
+				"/home/mirmik/project/igris/test/CMakeLists.txt",
+				"/home/mirmik/test/testtest/make.py",
+				"/home/mirmik/project/servoce/pyservoce/__init__.py",
+				"/home/mirmik/project/zencad/setup.py",
+				"/home/mirmik/project/zencad/mangen/ru/trans0.md",
+				"/home/mirmik/project/zencad/mangen/ru/sweep.md",
+				"/home/mirmik/project/zencad/mangen/images/imagen.py",
+				"/home/mirmik/project/zencad/zencad/examples/2.Operations/3.Sweep/revol.py",
+				"/home/mirmik/project/zencad/zencad/geom/transform.py"
+			],
+			"find":
+			{
+				"height": 24.0
+			},
+			"find_in_files":
+			{
+				"height": 171.0,
+				"where_history":
+				[
+					"~/project/servoce/src",
+					"~/project/servoce/include",
+					"~/project/zencad/zencad",
+					"~/project/zencad/expers",
+					"~/project/zencad/tests",
+					"~/project/zencad/expers",
+					"~/project/zencad/zencad",
+					"~/project/zencad/zencad/",
+					"~/project/zencad/zencad/examples",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"gl",
+					"gradie",
+					"{}\n",
+					"CONFIGURE_MAIN_TRACE",
+					"client_f",
+					"sess",
+					"zencad",
+					"zenframe.gui.",
+					"zencad",
+					"bind",
+					"bind_w",
+					"zencad",
+					"setWind",
+					"setTit",
+					"setTi",
+					"auto_u",
+					"viewO",
+					"hideB",
+					"fullS",
+					"checkbox",
+					"check",
+					"texte",
+					"nqu",
+					"nque",
+					"zencad",
+					"gtes",
+					"sys/time",
+					"EXPECT_EQ",
+					"lib_prefix",
+					"120",
+					"60",
+					"DEF_MTRANS_FUSE",
+					"extrude",
+					" ",
+					"extrud",
+					"outw",
+					"transformable<Cls>",
+					"servoce::transformable<T>::",
+					"transfor",
+					"\t\tT",
+					"=T",
+					"class T> T",
+					"Cls::",
+					"Cls::*",
+					"return transform",
+					"transform",
+					"first_",
+					"handle",
+					"visible",
+					"bbox",
+					"scene",
+					"showE",
+					"displayMode",
+					"set_current_opened",
+					"texted",
+					"show",
+					"MarkerQController",
+					"showmarkers",
+					"trackin",
+					"zoom_koeff_key",
+					"need_pres",
+					"@traced",
+					"presen",
+					"bind_win",
+					"texted",
+					"hideEd",
+					"displayMo",
+					"centering",
+					"center",
+					"set_ori",
+					"center",
+					"redraw",
+					"center",
+					"show",
+					"showE",
+					"mouse",
+					"VisC",
+					"about",
+					"mAb",
+					"Help",
+					"set_ce",
+					"set_v",
+					"set_cent",
+					"line",
+					"axZ",
+					"Axis",
+					"point3",
+					"location_changed_handle",
+					"perspective_mode",
+					"self.perspective_mode",
+					"up",
+					"pgu",
+					"hideC",
+					"splitter",
+					"splittr",
+					"resize",
+					"open",
+					"presla",
+					"pres",
+					"info",
+					"toolBar",
+					"evf",
+					"bind",
+					"markers",
+					"internal_key_pressed_raw",
+					"modif",
+					"QPlainTextEdit",
+					"signal_key_pressed_raw",
+					"from",
+					"window",
+					"keybo",
+					"keyboard",
+					"showE",
+					"bind_w",
+					"keyb",
+					"tracking",
+					"internal_key_pressed",
+					"KeyP",
+					"evfil",
+					"mouseTr",
+					"keyb",
+					"mouseT",
+					"track",
+					"trckin",
+					"setMouseTracking",
+					"tracking",
+					"lazy_getattr",
+					"NoExpa"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"CONFIGURE_DEBUG_MODE",
+					"zenframe",
+					"zenframe.",
+					"zenframe",
+					"LT_CHECK_EQ",
+					"S*2",
+					"S",
+					"DEF_MTRANS_ARRAY",
+					"_",
+					".",
+					"transformable<Cls,RetCls>",
+					"servoce::transformable<T,Ret>::",
+					"\t\tRet",
+					"",
+					"class T, class Ret=T> Ret",
+					"transformable<Cls>::",
+					"transformable<Cls>::*",
+					"return self().transform",
+					"self().transform",
+					"",
+					"wire_shape",
+					"bounded_curve3",
+					"curve3",
+					"surface",
+					"servoce::curve3",
+					"servoce::bounded_curve3",
+					"servoce::curve3",
+					"surface",
+					"add_shape",
+					"relocate",
+					"RetCls(Cls",
+					"Cls",
+					";",
+					"template <T> T servoce::transformable<T>::",
+					"servoce/shape.h",
+					"shape",
+					"T",
+					"",
+					"zencad.configure.CONFIGURE_MAIN_TRACE",
+					"ofile",
+					"ifile",
+					"declared_opposite_pid",
+					"self.parent.subproc_pid()",
+					"self.parent.subproc_pid",
+					"data_unpickled",
+					"data_base64",
+					"self.embeded_window_container",
+					"lineNumberArea",
+					"igris::size",
+					"crowpulse",
+					"x",
+					"y_b",
+					"y_a",
+					"_",
+					"PointType",
+					"zencad.mbody",
+					"subproc",
+					"global_pose",
+					"",
+					"link_directly",
+					"servoce",
+					"spi2",
+					"dprhexln",
+					"spi2.exbyte",
+					"zencad.configure.CONFIGURE_SLEEPED_OPTIMIZATION",
+					"import zencad.configure",
+					"zencad.libs.kinematic",
+					"kinematic",
+					"dpr",
+					"input_state()",
+					"pin.get()",
+					"output_state()",
+					"pin.set(0);",
+					"pin.set(1);",
+					"delay_us",
+					"irqs_enable",
+					"irqs_disable",
+					"stm32l4_",
+					"USART_TypeDef *",
+					"USART_TypeDef",
+					"stm32l4_usart",
+					"__TRACE__",
+					"change",
+					"z",
+					"y",
+					"x",
+					"",
+					"#@lazy",
+					"relocate",
+					"igris",
+					"trent_basic<TAlloc>::",
+					"type::dict",
+					"\\Delta",
+					"\\delta",
+					"\\Delta",
+					"",
+					"htrans",
+					"lerp_values",
+					"std::complex<double>",
+					"dstlen",
+					"srclen",
+					"QImage",
+					"dst",
+					"src",
+					"pubsub_protocol",
+					"pubsuc_protocol",
+					"",
+					"unsigned int",
+					"void",
+					"((struct gpio_regs *)(g))->",
+					"void",
+					"unsigned int",
+					"void",
+					"unsigned int",
+					"crow::utilize",
+					"0x120",
+					"0xA0",
+					"0x90",
+					"0xB0",
+					"0x80",
+					"0x44",
+					"gate->u->ctrirqs(",
+					"gate->u->sendbyte(",
+					"'c'",
+					"'a'",
+					"'b'",
+					"11",
+					"ARV_TIMER_OCRC"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 6,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/mirmik/project/servoce/src/local/display.h",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1196,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"spell_check": false,
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 192.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 10,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/mirmik/project/servoce/make.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1145,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										31,
+										31
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/mirmik/test/svg/test.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 182,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										182,
+										182
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/mirmik/project/zencad/setup.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1465,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										942,
+										942
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/mirmik/project/zencad/zencad/convert/svg.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 897,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/mirmik/project/servoce/pyservoce/__init__.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4175,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4165,
+										4165
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 561.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/mirmik/project/articles/alang/alang.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4392,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										685,
+										685
+									]
+								],
+								"settings":
+								{
+									"spell_check": false,
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 180.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/home/mirmik/project/servoce/src/pywrap/edge.cpp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3827,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 910.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/home/mirmik/project/servoce/include/servoce/curve_algo.h",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4584,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/home/mirmik/project/servoce/include/servoce/edge.h",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2022,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/home/mirmik/project/servoce/src/edge.cpp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1281,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 270.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.astyle_error_message":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,0,420,950,1445,3000,1920",
+			"project": "",
+			"replace":
+			{
+				"height": 44.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 223.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 45,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

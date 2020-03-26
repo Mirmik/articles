@@ -20,4 +20,4 @@ latex(src="src/main.tex", tgt="refer.pdf", tgtname="refer",
 def re():
 	licant.do(["refer.pdf", "build"])
 
-licant.ex("refer.pdf")
+licant.ex("re")
