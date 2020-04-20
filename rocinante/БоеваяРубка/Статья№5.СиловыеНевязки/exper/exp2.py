@@ -68,7 +68,6 @@ def random_trans(lin, ang):
 
 	return transformation(a,l)
 
-Kcomp = 1
 #ar = random_trans(20, 1)
 #br = random_trans(20, 1)
 #cr = random_trans(20, 1)
@@ -122,9 +121,9 @@ class state:
 
 states = [state(a.global_location), state(b.global_location), state(c.global_location)]
 
-
 def animate():
 	global iter, tstart, lpos, verrinteg
+	global tpos
 	global lasttime, integ, tainteg, tbinteg, tcinteg, vmodel_last
 	cpos = (a.global_location + b.global_location + c.global_location) / 3
 
@@ -162,9 +161,9 @@ def animate():
 
 	#print(v)
 
-#	ar = random_trans(20, 1)
-#	br = random_trans(20, 1)
-#	cr = random_trans(20, 1)
+	ar = random_trans(20, 1)
+	br = random_trans(20, 1)
+	cr = random_trans(20, 1)
 
 
 #	va = La - (cbody.global_location.inverse() * a.global_location)
@@ -172,6 +171,11 @@ def animate():
 #	vc = Lc - (cbody.global_location.inverse() * c.global_location)
 
 	Kupr = 1
+	if t % 20 > 10:
+		tpos = tpos + transformation(0,(10,10)).scale(delta)
+	else:
+		tpos = tpos + transformation(0,(10,-10)).scale(delta)
+
 	error = tpos - cpos
 	integ = integ + error.scale(delta)
 	
@@ -219,13 +223,12 @@ def animate():
 	vb = vb_model + tbsig.scale(Kcomp)# - states[1].espd_integral.scale(Kicomp)
 	vc = vc_model + tcsig.scale(Kcomp)# - states[2].espd_integral.scale(Kicomp)
 
-	#print(vc_model)
-	#print(states[2].espd_integral.scale(1))
-
 	print()
-	print(tasig)
-	print(tbsig)
-	print(tcsig)
+	print()
+	print(vmodel)
+	print("a", tasig)
+	print("b", tbsig)
+	print("c", tcsig)
 
 	a.relocate(a.global_location + va.scale(delta))
 	b.relocate(b.global_location + vb.scale(delta))
