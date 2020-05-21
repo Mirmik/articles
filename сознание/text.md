@@ -285,14 +285,14 @@
 
 ![](https://habrastorage.org/webt/dl/sn/wa/dlsnwa0acdgh2c172jctlfh7occ.png)
 
-[1] Стивен Прист: Теории сознания. Глава 1. Дуализм: Платон и Декарт https://gtmarket.ru/laboratory/basis/3283/3284
-[2] https://newtonew.com/story/memento
-[3] https://www.nkj.ru/news/30619/
-[4] http://www.ict.nsc.ru/jspui/bitstream/ICT/885/5/CantheMachinethink.pdf
-[5] https://ru.wikipedia.org/wiki/Китайская_комната
-[6] Dennett D. Consciousness explained (Back Bay Books, 1992) 
-[7] http://flibustahezeous3.onion/b/422451
-[8] http://max-frei.net/
-[9] https://www.settleretics.ru/
-[10] http://www.aselibrary.ru/press_center/journal/irr/2007/number_3/number_3_6/number_3_6571/
+[1] Стивен Прист: Теории сознания. Глава 1. Дуализм: Платон и Декарт https://gtmarket.ru/laboratory/basis/3283/3284  
+[2] https://newtonew.com/story/memento  
+[3] https://www.nkj.ru/news/30619/  
+[4] http://www.ict.nsc.ru/jspui/bitstream/ICT/885/5/CantheMachinethink.pdf  
+[5] https://ru.wikipedia.org/wiki/Китайская_комната  
+[6] Dennett D. Consciousness explained (Back Bay Books, 1992)   
+[7] http://flibustahezeous3.onion/b/422451  
+[8] http://max-frei.net/  
+[9] https://www.settleretics.ru/  
+[10] http://www.aselibrary.ru/press_center/journal/irr/2007/number_3/number_3_6/number_3_6571/  
 
