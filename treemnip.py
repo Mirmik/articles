@@ -2,7 +2,6 @@
 
 from zencad import *
 import zencad.assemble
-import zencad.libs.kinematic
 
 def pal(u):
 	m = cylinder(r=3, h= u) - halfspace().rotateX(deg(90)).forw(2) + sphere(r = 3).up(u) 
@@ -15,20 +14,20 @@ class palcls(zencad.assemble.unit):
 	def __init__(self):
 		super().__init__()
 		self.shp = cylinder(r=3, h=self.h)
-		self.set_shape(self.shp)
-		self.out = zencad.libs.kinematic.rotator(ax=(0,1,0), location=up(self.h), parent=self)
-		self.palu = zencad.assemble.unit(shape=pal(30))
+		self.add_shape(self.shp)
+		self.out = zencad.assemble.rotator(axis=(0,1,0), location=up(self.h), parent=self)
+		self.palu = zencad.assemble.unit(parts=[pal(30)])
 		self.out.link(self.palu)
 
 class basecls(zencad.assemble.unit):
 	def __init__(self):
 		super().__init__()
-		self.set_shape(box(10,50, 8, center=True))
+		self.add_shape(box(10,50, 8, center=True))
 		
-		self.aout = zencad.libs.kinematic.rotator(ax=(0,1,0), parent=self)
-		self.bout = zencad.libs.kinematic.rotator(ax=(0,1,0), parent=self)
-		self.cout = zencad.libs.kinematic.rotator(ax=(0,1,0), parent=self)
-		self.dout = zencad.libs.kinematic.rotator(ax=(0,1,0), parent=self)
+		self.aout = zencad.assemble.rotator(axis=(0,1,0), parent=self)
+		self.bout = zencad.assemble.rotator(axis=(0,1,0), parent=self)
+		self.cout = zencad.assemble.rotator(axis=(0,1,0), parent=self)
+		self.dout = zencad.assemble.rotator(axis=(0,1,0), parent=self)
 
 		self.apalu = palcls()
 		self.bpalu = palcls()
