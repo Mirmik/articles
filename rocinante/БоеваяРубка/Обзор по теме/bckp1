@@ -1,0 +1,1950 @@
+{
+	"folder_history":
+	[
+		"/home/mirmik/src/RAK811_LoRaWAN_Arduino/image",
+		"/home/mirmik/.arduino15/packages/adafruit/hardware/samd/1.5.14/libraries/Adafruit_ZeroDMA",
+		"/home/mirmik/project/zencad/zencad",
+		"/etc/udev/rules.d",
+		"/home/mirmik/project/radioline/ctrmatrix-firmware/src"
+	],
+	"last_version": 3211,
+	"last_window_id": 27,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 1030.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"S",
+						"SVGWRITE_IS_NOT_INSTALLED"
+					],
+					[
+						"sy",
+						"systime_lomax"
+					],
+					[
+						"jiff",
+						"jiffies_pair_t"
+					],
+					[
+						"lo",
+						"lopart_to_micros"
+					],
+					[
+						"ji",
+						"jiffies_pair_t"
+					],
+					[
+						"s",
+						"systime_lomax"
+					],
+					[
+						"jiffi",
+						"jiffies_t"
+					],
+					[
+						"j",
+						"jiffies_pair"
+					],
+					[
+						"hi",
+						"hi1"
+					],
+					[
+						"sys",
+						"system_lock"
+					],
+					[
+						"bli",
+						"blink_sch"
+					],
+					[
+						"fa",
+						"fastsend"
+					],
+					[
+						"pa",
+						"pack"
+					],
+					[
+						"do",
+						"crow_do_travel"
+					],
+					[
+						"w",
+						"wire_conductor"
+					],
+					[
+						"P",
+						"POINTS"
+					],
+					[
+						"to",
+						"topmotor_holder"
+					],
+					[
+						"Top",
+						"TopMotorHolder"
+					],
+					[
+						"c",
+						"cylinder"
+					],
+					[
+						"H",
+						"HEAR_RADIUS"
+					],
+					[
+						"pla",
+						"plate_stereopi"
+					],
+					[
+						"ex",
+						"external_attributes"
+					],
+					[
+						"ca",
+						"camerano"
+					],
+					[
+						"cr",
+						"crypto_tcp_gate"
+					],
+					[
+						"un",
+						"undelivered_packet"
+					],
+					[
+						"in",
+						"incoming_packet"
+					],
+					[
+						"inc",
+						"incoming_packet"
+					],
+					[
+						"pac",
+						"packet_ptr"
+					],
+					[
+						"__",
+						"__init__"
+					],
+					[
+						"spin",
+						"spin_join"
+					],
+					[
+						"iL",
+						"iLayerSize"
+					],
+					[
+						"Ila",
+						"iLayerSize"
+					],
+					[
+						"mo",
+						"module"
+					],
+					[
+						"f",
+						"fkoeff"
+					],
+					[
+						"r",
+						"rkoeff"
+					],
+					[
+						"re",
+						"rect"
+					],
+					[
+						"fra",
+						"frame3"
+					],
+					[
+						"spa",
+						"spam_subscriber"
+					],
+					[
+						"sta",
+						"start_spin_with_select"
+					],
+					[
+						"pr",
+						"println"
+					],
+					[
+						"node",
+						"nodeaddr"
+					],
+					[
+						"of",
+						"oframe"
+					],
+					[
+						"if",
+						"iframe"
+					],
+					[
+						"CROW_CHA",
+						"CROWKER_SERVICE_TYPE_CHANNEL"
+					],
+					[
+						"name",
+						"namelen"
+					],
+					[
+						"cro",
+						"crowker_service_control_node_cls"
+					],
+					[
+						"ser",
+						"service_record"
+					],
+					[
+						"CR",
+						"CROW_SERVICE_REGISTER_CHANNEL"
+					],
+					[
+						"unordered_",
+						"unordered_map"
+					],
+					[
+						"CROW_SERVICE_C",
+						"CROW_SERVICE_CLOSE"
+					],
+					[
+						"CROW_SERVICE_",
+						"CROW_SERVICE_NODE_RETRANS"
+					],
+					[
+						"C",
+						"CROW_SERVICE_ONESHOOT"
+					],
+					[
+						"nod",
+						"nodemsg"
+					],
+					[
+						"no",
+						"nodeaddr"
+					],
+					[
+						"hos",
+						"host"
+					],
+					[
+						"ho",
+						"host_b"
+					],
+					[
+						"_",
+						"_arg"
+					],
+					[
+						"de",
+						"destroy"
+					],
+					[
+						"host",
+						"host_a"
+					],
+					[
+						"e",
+						"error_handler"
+					],
+					[
+						"cir",
+						"circle"
+					],
+					[
+						"circ",
+						"circled_ends"
+					],
+					[
+						"p",
+						"p00"
+					],
+					[
+						"la",
+						"last_p0"
+					],
+					[
+						"ed",
+						"edgs"
+					],
+					[
+						"vec",
+						"vector"
+					],
+					[
+						"se",
+						"segment"
+					],
+					[
+						"pro",
+						"proto"
+					],
+					[
+						"sha",
+						"shape_generator"
+					],
+					[
+						"da",
+						"datalen"
+					],
+					[
+						"nam",
+						"namelen"
+					],
+					[
+						"dat",
+						"datalen"
+					],
+					[
+						"read",
+						"reader"
+					],
+					[
+						"ann",
+						"annot"
+					],
+					[
+						"servi",
+						"service_packet_ptr"
+					],
+					[
+						"uint",
+						"uint32_t"
+					],
+					[
+						"from_",
+						"from_brocker_to_service_question"
+					],
+					[
+						"service",
+						"service_add"
+					],
+					[
+						"na",
+						"namelen"
+					],
+					[
+						"service_",
+						"service_subheader"
+					],
+					[
+						"for",
+						"fork0"
+					],
+					[
+						"fo",
+						"fork1"
+					],
+					[
+						"Fo",
+						"Fork0"
+					],
+					[
+						"R",
+						"RotationPlate"
+					],
+					[
+						"mot",
+						"motor_socket"
+					],
+					[
+						"ba",
+						"basebox"
+					],
+					[
+						"fak",
+						"fakel2"
+					],
+					[
+						"bo",
+						"bottom_place"
+					],
+					[
+						"x",
+						"x_axis"
+					],
+					[
+						"ax",
+						"axctr1"
+					],
+					[
+						"con",
+						"control_node"
+					],
+					[
+						"ct",
+						"ctrspd"
+					],
+					[
+						"fee",
+						"feedpos"
+					],
+					[
+						"fe",
+						"feedpos"
+					],
+					[
+						"curt",
+						"curtraj"
+					],
+					[
+						"ope",
+						"operation_finished_flag"
+					],
+					[
+						"Roo",
+						"Room"
+					],
+					[
+						"add",
+						"add_z_to_down"
+					],
+					[
+						"ste",
+						"stepctr_s"
+					],
+					[
+						"pu",
+						"pulsewidth_triggered"
+					],
+					[
+						"co",
+						"control_pos"
+					],
+					[
+						"pha",
+						"phaser_operations"
+					],
+					[
+						"cu",
+						"cursize"
+					],
+					[
+						"curs",
+						"cursize-4"
+					],
+					[
+						"cur",
+						"curname"
+					],
+					[
+						"ih",
+						"ihear_c2_face0"
+					],
+					[
+						"ihe",
+						"ihear_c2_face1"
+					],
+					[
+						"hea",
+						"hear_c"
+					],
+					[
+						"he",
+						"hear_c"
+					],
+					[
+						"ha",
+						"hear_h"
+					],
+					[
+						"ib",
+						"ibase_cylinder"
+					],
+					[
+						"sp",
+						"spike_r1"
+					],
+					[
+						"botw",
+						"botwire1"
+					],
+					[
+						"hear",
+						"hear_z"
+					],
+					[
+						"roo",
+						"roof_r"
+					],
+					[
+						"ad",
+						"add_z_to_down"
+					],
+					[
+						"add_z_t",
+						"add_z_to_roof"
+					],
+					[
+						"a",
+						"add_z"
+					],
+					[
+						"spi",
+						"spi_kreps"
+					],
+					[
+						"bor",
+						"border_t"
+					],
+					[
+						"ro",
+						"rotation_plate"
+					],
+					[
+						"rota",
+						"rotation_plate"
+					],
+					[
+						"light_",
+						"light_holes"
+					],
+					[
+						"li",
+						"light_holes"
+					],
+					[
+						"pnt",
+						"pnt0"
+					],
+					[
+						"spike_r",
+						"spike_r2"
+					],
+					[
+						"st",
+						"stub_r"
+					],
+					[
+						"stime",
+						"stimer_check"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: is",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/mirmik/project/genos/tests/board-init/blink-cpu/__configure__.py",
+				"/home/mirmik/project/genos/src/HIDE/robo/robo.h",
+				"/home/mirmik/project/zencad/zencad/examples/1.GeomPrim/2.prim2d/widecurve.py",
+				"/home/mirmik/project/zencad/zencad/util",
+				"/home/mirmik/project/genos/arch/arm/stm32/src/stm32f4/stm32f4_sysinit.c",
+				"/home/mirmik/project/genos/arch/arm/stm32/src/stm32_arch.c",
+				"/home/mirmik/project/genos/arch/arm/stm32/src/stm32_usart.c",
+				"/home/mirmik/project/lora-test/model.py",
+				"/home/mirmik/project/lora-test/main.cpp",
+				"/home/mirmik/project/genos/board/nucleo/nucleo-f401re/board/pinout.h",
+				"/home/mirmik/project/genos/arch/arm/stm32/st-device/stm32f401xe.h",
+				"/home/mirmik/project/genos/arch/arm/stm32/st-device/stm32f446xx.h",
+				"/home/mirmik/project/genos/arch/arm/stm32/stm32.g.py",
+				"/home/mirmik/project/genos/tests/stub/main.cpp",
+				"/home/mirmik/project/genos/tests/onewire/main.cpp",
+				"/home/mirmik/project/genos/tests/math/main.cpp",
+				"/home/mirmik/project/genos/tests/board-init/blinkirq/main.cpp",
+				"/home/mirmik/project/genos/tests/board-init/blink/main.cpp",
+				"/home/mirmik/project/genos/tests/board-init/blinkcpu/main.cpp",
+				"/home/mirmik/project/genos/board/nucleo/include/nucleo-boards-common.h",
+				"/home/mirmik/project/genos/board/nucleo/board.g.py",
+				"/home/mirmik/project/genos/conf/conf-nucleo-l432kc.py",
+				"/home/mirmik/project/genos/conf/conf-nucleo-l412rb.py",
+				"/home/mirmik/project/genos/board/nucleo/nucleo-f446re/board/pinout.h",
+				"/home/mirmik/project/genos/board/nucleo/nucleo-f401re/curboard.h",
+				"/home/mirmik/project/genos/board/nucleo/src/board.cpp",
+				"/home/mirmik/project/genos/conf/conf-nucleo-f446re.py",
+				"/home/mirmik/project/genos/arch/arm/stm32/st-device/stm32f4xx.h",
+				"/home/mirmik/project/genos/conf/conf-nucleo-f401re.py",
+				"/home/mirmik/project/genos/board/nucleo/pinout.h",
+				"/home/mirmik/project/genos/board/nucleo/include/nucleo-f401re-curboard.h",
+				"/home/mirmik/project/genos/board/nucleo/curboard.h",
+				"/home/mirmik/project/genos/tests/blinkcpu/main.cpp",
+				"/home/mirmik/project/genos/board/nucleo/include/nucleo-boards-defs.h",
+				"/home/mirmik/project/genos/board/nucleo/include/nucleo-f401re-pinout.h",
+				"/home/mirmik/project/genos/board/nucleo/include/nucleo-f446re-curboard.h",
+				"/home/mirmik/project/genos/board/nucleo/include/nucleo-f446re-pinout.h",
+				"/home/mirmik/project/genos/board/nucleo/include/nucleo-g474re-curboard.h",
+				"/home/mirmik/project/genos/arch/arm/stm32/st-device/stm32g484xx.h",
+				"/home/mirmik/project/genos/tests/startup/start.cpp",
+				"/home/mirmik/project/genos/arch/arm/stm32/ldscripts/stm32f446re.ld",
+				"/home/mirmik/project/genos/board/nucleo/nucleo-f446re/curboard.h",
+				"/home/mirmik/src/RAK811_LoRaWAN_Arduino/image/Check Cores.png",
+				"/home/mirmik/src/RAK811_LoRaWAN_Arduino/image/Compile success.png",
+				"/home/mirmik/src/RAK811_LoRaWAN_Arduino/image/config 3 parameters for LoRaWAN_OTAA.png",
+				"/home/mirmik/src/RAK811_LoRaWAN_Arduino/image/install Arduino_Core_STM32.png",
+				"/home/mirmik/src/RAK811_LoRaWAN_Arduino/image/install Board.png",
+				"/home/mirmik/src/RAK811_LoRaWAN_Arduino/image/Install LoRaWAN library.png",
+				"/home/mirmik/src/RAK811_LoRaWAN_Arduino/image/Joined.png",
+				"/home/mirmik/src/RAK811_LoRaWAN_Arduino/image/Pin mapping.png",
+				"/home/mirmik/src/RAK811_LoRaWAN_Arduino/image/Send interval.png",
+				"/home/mirmik/project/crow/crow/tower.h",
+				"/home/mirmik/project/crow/crow/src/tower.cpp",
+				"/home/mirmik/project/crow/crow/proto/node.h",
+				"/home/mirmik/project/crow/crow/proto/node.cpp",
+				"/home/mirmik/project/crow/crow/gates/cryptotcp.h",
+				"/home/mirmik/test/cryptopp/main.cpp",
+				"/home/mirmik/test/rs/main.cpp",
+				"/home/mirmik/project/video-stream/stream.cpp",
+				"/home/mirmik/project/crow/crow/java-crow.cpp",
+				"/home/mirmik/project/crow/bindings/python/setup.py",
+				"/home/mirmik/project/crow/bindings/python/README.md",
+				"/home/mirmik/project/crow/bindings/java/run_test.sh",
+				"/home/mirmik/project/crow/bindings/java/crow/make.sh",
+				"/home/mirmik/project/crow/bindings/java/crow/CrowSpamSubscriber.",
+				"/home/mirmik/project/crow/bindings/java/crow/CrowSpamSubscriber.java",
+				"/home/mirmik/project/crow/.gitignore",
+				"/home/mirmik/project/igris/igris/event/delegate.h",
+				"/home/mirmik/project/igris/ltest/event.hpp",
+				"/home/mirmik/project/igris/tests/osutil.hpp",
+				"/home/mirmik/project/igris/igris/osutil/getcwd.h",
+				"/home/mirmik/project/igris/igris/osutil/signal.h",
+				"/home/mirmik/project/igris/igris/osutil/src/posix.cpp",
+				"/home/mirmik/project/igris/igris/osutil/src/osutil_windows.cpp",
+				"/home/mirmik/project/igris/igris/sync/csection.h",
+				"/home/mirmik/AndroidStudioProjects/androidcrowviewer/.gitignore",
+				"/home/mirmik/project/crow-java-test/app/src/main/cpp/CMakeLists.txt",
+				"/home/mirmik/project/crow/crow/src/print.cpp",
+				"/home/mirmik/project/zippo-camera/camerabody.py",
+				"/home/mirmik/project/zippo-camera/arm.py",
+				"/home/mirmik/project/zippo-camera/wire_conductor.py",
+				"/home/mirmik/project/zippo-camera/arm2.py",
+				"/home/mirmik/project/crow/crow/nodes/spammer.h",
+				"/home/mirmik/src/Troyka-IMU/TroykaIMU.h",
+				"/home/mirmik/src/Troyka-IMU/lis331dlh.h",
+				"/home/mirmik/project/genos/src/drivers/i2c/devices/lis331dlh.h",
+				"/home/mirmik/project/genos/src/drivers/i2c/devices/lis331dlh.cpp",
+				"/home/mirmik/src/Troyka-IMU/stmhw.cpp",
+				"/home/mirmik/project/genos/src/utility/contty.cpp",
+				"/home/mirmik/project/genos/src/utility/contty.h",
+				"/home/mirmik/project/genos/src/genos/resource.h",
+				"/home/mirmik/project/genos/src/genos/mvfs/vfsnode.h",
+				"/home/mirmik/project/genos/src/genos/mvfs/file.h",
+				"/home/mirmik/project/genos/src/genos/mvfs/super.h",
+				"/home/mirmik/project/genos/src/genos/mvfs/fstype.h",
+				"/home/mirmik/project/genos/src/genos/mvfs/fdtable.h",
+				"/home/mirmik/project/genos/src/genos/mvfs/directory.h",
+				"/home/mirmik/project/genos/src/genos/mvfs/directory.cpp",
+				"/home/mirmik/project/genos/src/mvfs/node.h",
+				"/home/mirmik/project/genos/src/genos/schedee.cpp",
+				"/home/mirmik/project/genos/src/genos/sched.h",
+				"/home/mirmik/project/genos/src/genos/sched.cpp",
+				"/home/mirmik/project/genos/arch/avr/src/start.S",
+				"/home/mirmik/project/genos/arch/arm/stm32/src/stm32_vectors.S",
+				"/home/mirmik/project/ralgo/ralgo/heimer/tandem.h",
+				"/home/mirmik/project/ralgo/ralgo/kinematic/chain2d.h",
+				"/home/mirmik/project/ralgo/ralgo/heimer/kin2d_controller.h",
+				"/home/mirmik/project/ralgo/ralgo/linalg/backpack.h",
+				"/home/mirmik/project/ralgo/ralgo/linalg/solve.h",
+				"/home/mirmik/project/ralgo/ralgo/linalg/svd.h",
+				"/home/mirmik/project/ralgo/ralgo/madgwick.cpp",
+				"/home/mirmik/project/ralgo/ralgo/linalg/vecops.h",
+				"/home/mirmik/project/ralgo/ralgo/signal/fft.cpp",
+				"/home/mirmik/project/ralgo/ralgo/signal/convolution.h",
+				"/home/mirmik/project/ralgo/ralgo/signal/voice.h",
+				"/home/mirmik/project/ralgo/ralgo/space/screw.h",
+				"/home/mirmik/project/ralgo/ralgo/space/inertia.h",
+				"/home/mirmik/project/ralgo/ralgo/space/htrans2.h",
+				"/home/mirmik/project/zencad/zencad/libs/screw.py",
+				"/home/mirmik/project/nos/nos/print.h",
+				"/home/mirmik/project/nos/nos/print/print.h",
+				"/home/mirmik/project/nos/test/print.hpp",
+				"/home/mirmik/project/ralgo/ralgo/heimer/command_center.h",
+				"/home/mirmik/project/nos/nos/util/arglist.h",
+				"/home/mirmik/project/nos/nos/fprint/meta.h",
+				"/home/mirmik/project/nos/nos/meta/meta.h",
+				"/home/mirmik/project/nos/nos/print/meta.h",
+				"/home/mirmik/project/malgo/malgo/matrix.h"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"USART_SR_RXNE",
+					"fix_f",
+					"faces",
+					"svgwr",
+					"nvic",
+					"systick",
+					"dprln(buf)",
+					" TX_OUTPUT_POWER",
+					"USART",
+					"ALTE"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"serial2.println(buf, 0)"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.astyle_error_message":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 68.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 958.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"bb",
+						"bbases2"
+					],
+					[
+						"a",
+						"abases2"
+					],
+					[
+						"aba",
+						"abases2"
+					],
+					[
+						"no",
+						"nostdinc"
+					],
+					[
+						"d",
+						"dst_"
+					],
+					[
+						"int",
+						"int8_t"
+					],
+					[
+						"O",
+						"OBJECTS"
+					],
+					[
+						"ct",
+						"ctrobj_ktimer_execute"
+					],
+					[
+						"lis",
+						"list_head"
+					],
+					[
+						"li",
+						"list_of_A_objects"
+					],
+					[
+						"l",
+						"list_of_A_objects"
+					],
+					[
+						"debu",
+						"debug_line"
+					],
+					[
+						"I",
+						"IGRIS_SYNC_MUTEX_H"
+					],
+					[
+						"lock",
+						"lock"
+					],
+					[
+						"spin",
+						"spin_lock"
+					],
+					[
+						"lo",
+						"locked"
+					],
+					[
+						"loc",
+						"lock"
+					],
+					[
+						"system_",
+						"system_unlock"
+					],
+					[
+						"S",
+						"SVGWRITE_IS_NOT_INSTALLED"
+					],
+					[
+						"sy",
+						"systime_lomax"
+					],
+					[
+						"jiff",
+						"jiffies_pair_t"
+					],
+					[
+						"ji",
+						"jiffies_pair_t"
+					],
+					[
+						"s",
+						"systime_lomax"
+					],
+					[
+						"jiffi",
+						"jiffies_t"
+					],
+					[
+						"j",
+						"jiffies_pair"
+					],
+					[
+						"hi",
+						"hi1"
+					],
+					[
+						"sys",
+						"system_lock"
+					],
+					[
+						"bli",
+						"blink_sch"
+					],
+					[
+						"fa",
+						"fastsend"
+					],
+					[
+						"pa",
+						"pack"
+					],
+					[
+						"do",
+						"crow_do_travel"
+					],
+					[
+						"w",
+						"wire_conductor"
+					],
+					[
+						"P",
+						"POINTS"
+					],
+					[
+						"to",
+						"topmotor_holder"
+					],
+					[
+						"Top",
+						"TopMotorHolder"
+					],
+					[
+						"c",
+						"cylinder"
+					],
+					[
+						"H",
+						"HEAR_RADIUS"
+					],
+					[
+						"pla",
+						"plate_stereopi"
+					],
+					[
+						"ex",
+						"external_attributes"
+					],
+					[
+						"ca",
+						"camerano"
+					],
+					[
+						"cr",
+						"crypto_tcp_gate"
+					],
+					[
+						"un",
+						"undelivered_packet"
+					],
+					[
+						"in",
+						"incoming_packet"
+					],
+					[
+						"inc",
+						"incoming_packet"
+					],
+					[
+						"pac",
+						"packet_ptr"
+					],
+					[
+						"__",
+						"__init__"
+					],
+					[
+						"iL",
+						"iLayerSize"
+					],
+					[
+						"Ila",
+						"iLayerSize"
+					],
+					[
+						"mo",
+						"module"
+					],
+					[
+						"f",
+						"fkoeff"
+					],
+					[
+						"r",
+						"rkoeff"
+					],
+					[
+						"re",
+						"rect"
+					],
+					[
+						"fra",
+						"frame3"
+					],
+					[
+						"spa",
+						"spam_subscriber"
+					],
+					[
+						"sta",
+						"start_spin_with_select"
+					],
+					[
+						"pr",
+						"println"
+					],
+					[
+						"node",
+						"nodeaddr"
+					],
+					[
+						"of",
+						"oframe"
+					],
+					[
+						"if",
+						"iframe"
+					],
+					[
+						"CROW_CHA",
+						"CROWKER_SERVICE_TYPE_CHANNEL"
+					],
+					[
+						"name",
+						"namelen"
+					],
+					[
+						"cro",
+						"crowker_service_control_node_cls"
+					],
+					[
+						"ser",
+						"service_record"
+					],
+					[
+						"CR",
+						"CROW_SERVICE_REGISTER_CHANNEL"
+					],
+					[
+						"unordered_",
+						"unordered_map"
+					],
+					[
+						"CROW_SERVICE_C",
+						"CROW_SERVICE_CLOSE"
+					],
+					[
+						"CROW_SERVICE_",
+						"CROW_SERVICE_NODE_RETRANS"
+					],
+					[
+						"C",
+						"CROW_SERVICE_ONESHOOT"
+					],
+					[
+						"nod",
+						"nodemsg"
+					],
+					[
+						"hos",
+						"host"
+					],
+					[
+						"ho",
+						"host_b"
+					],
+					[
+						"_",
+						"_arg"
+					],
+					[
+						"de",
+						"destroy"
+					],
+					[
+						"host",
+						"host_a"
+					],
+					[
+						"e",
+						"error_handler"
+					],
+					[
+						"cir",
+						"circle"
+					],
+					[
+						"circ",
+						"circled_ends"
+					],
+					[
+						"p",
+						"p00"
+					],
+					[
+						"la",
+						"last_p0"
+					],
+					[
+						"ed",
+						"edgs"
+					],
+					[
+						"vec",
+						"vector"
+					],
+					[
+						"se",
+						"segment"
+					],
+					[
+						"pro",
+						"proto"
+					],
+					[
+						"sha",
+						"shape_generator"
+					],
+					[
+						"da",
+						"datalen"
+					],
+					[
+						"nam",
+						"namelen"
+					],
+					[
+						"dat",
+						"datalen"
+					],
+					[
+						"read",
+						"reader"
+					],
+					[
+						"ann",
+						"annot"
+					],
+					[
+						"servi",
+						"service_packet_ptr"
+					],
+					[
+						"uint",
+						"uint32_t"
+					],
+					[
+						"from_",
+						"from_brocker_to_service_question"
+					],
+					[
+						"service",
+						"service_add"
+					],
+					[
+						"na",
+						"namelen"
+					],
+					[
+						"service_",
+						"service_subheader"
+					],
+					[
+						"for",
+						"fork0"
+					],
+					[
+						"fo",
+						"fork1"
+					],
+					[
+						"Fo",
+						"Fork0"
+					],
+					[
+						"R",
+						"RotationPlate"
+					],
+					[
+						"mot",
+						"motor_socket"
+					],
+					[
+						"ba",
+						"basebox"
+					],
+					[
+						"fak",
+						"fakel2"
+					],
+					[
+						"bo",
+						"bottom_place"
+					],
+					[
+						"x",
+						"x_axis"
+					],
+					[
+						"ax",
+						"axctr1"
+					],
+					[
+						"con",
+						"control_node"
+					],
+					[
+						"fee",
+						"feedpos"
+					],
+					[
+						"fe",
+						"feedpos"
+					],
+					[
+						"curt",
+						"curtraj"
+					],
+					[
+						"ope",
+						"operation_finished_flag"
+					],
+					[
+						"Roo",
+						"Room"
+					],
+					[
+						"add",
+						"add_z_to_down"
+					],
+					[
+						"ste",
+						"stepctr_s"
+					],
+					[
+						"pu",
+						"pulsewidth_triggered"
+					],
+					[
+						"co",
+						"control_pos"
+					],
+					[
+						"pha",
+						"phaser_operations"
+					],
+					[
+						"cu",
+						"cursize"
+					],
+					[
+						"curs",
+						"cursize-4"
+					],
+					[
+						"cur",
+						"curname"
+					],
+					[
+						"ih",
+						"ihear_c2_face0"
+					],
+					[
+						"ihe",
+						"ihear_c2_face1"
+					],
+					[
+						"hea",
+						"hear_c"
+					],
+					[
+						"he",
+						"hear_c"
+					],
+					[
+						"ha",
+						"hear_h"
+					],
+					[
+						"ib",
+						"ibase_cylinder"
+					],
+					[
+						"sp",
+						"spike_r1"
+					],
+					[
+						"botw",
+						"botwire1"
+					],
+					[
+						"hear",
+						"hear_z"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/mirmik/project/models/radioline/printer_gear.py",
+					"settings":
+					{
+						"buffer_size": 364,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/mirmik/project/articles/rocinante/БоеваяРубка/ПаралельныеМанипуляторы/text.md",
+					"settings":
+					{
+						"buffer_size": 9149,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/mirmik/src/textext-1.1.0/textextsetup.log",
+					"settings":
+					{
+						"buffer_size": 22626,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/mirmik/.config/inkscape/extensions/textext/default_packages.tex",
+					"settings":
+					{
+						"buffer_size": 179,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "Наиболее развитым и применяемым сегодня методом управления манипуляторами и позиционерами различных типов являются ЧПУ системы. ЧПУ системы позволили автоматическую обрабатывать детали с точностью до микрометров. Работа ЧПУ посторена как работа слепого часовщика без обратной связи от реального процесса. ЧПУ изменяет конфигурацию управляемой системы по заранее просчитанной программе, и не имеет никаких общих средств проверки корректности выполняемого процесса. Поскольку ЧПУ слеп, для получения хорошего результата, ЧПУ система должна быть тщательно отколибрована и настроена. Такая калибровка может выполняться с помощью вспомогательных датчиков или человеком-оператором, но так или иначе выполняется она до начала цикла работы системы. Для обеспечения точности в ЧПУ системе требуется использовать высокоточные датчики перемещения отдельных звеньев - энкодеры, иметь очень тщательно проработанную геометрическую модель объекта управления, а также необходимо обеспечить достаточную жесткость, позволяющую избежать деформаций частей системы сопоставимых с заложенной точностью. \n\nЧПУ системы требует предварительного учёта всевозможных факторов и потому применимы только в рамках контролируемой среды и требуют постоянного наблюдения специалиста.  \n\nНедостаток ЧПУ - отсутствие обратной связи от результата целевого процесса. Если ЧПУ система фрезерует изделие, она не видит самого изделия, но только выполняет траекторию обхода этого изделия фрезером. Если в следствии каких-то причин изделие немного сместится или немного изменится конфигурация механизма, система продолжит работу по изначально прощитанной траектории, выдавая явно ошибочный результат.\n\nОчевидно, что работа механизмов вне контролируемой среды или с задачами, предполагающими определенную гибкость поведения, требует учёта текущей ситуации и наличия обратной связи от целевого процесса. Для конструировании подобных систем есть прекрасный образец в виде биологических организмов, их манипуляторов-конечностей и зрительных систем.\n\nХотя системы управления с обратной связью известны человечеству с глубокой древности, а робото подобные строительно-добывающие машины с первой половины 19-ого века, только с развитием вычислительной техники и систем видеонаблюдения мы получили возможность  приблизить методы позиционирования манипуляторов машин к той их форме, которой пользуется человек и прочие биологические организмы.\n\nРешая задачу позиционирования конечностей \n\nПо видимому, одной из первых работ, посвященных совмещению манипуляторов с системой визуальной оценки положения была работа (1) Hill, J. & Park, W.,”Real time control of a robot with a mobile  camera”,    1979,    Proceedingsof    the    9th International  symposium  on  Industrial  robots,pp.233-246.\n\nСогласно обзору A Brief Comparative Study of Visual Servoing System от 2018-ого года автора Sikander Hans существует несколько типов сервосистем с визуальной обратной связью.\n\nПо сути, известные на сегодняшний день системы визуального сервоуправления могут быть разделены на два метода. В одном методе информация с камер непосредственно используется в алгоритме решения задачи захвата или позиционирования. Второй метод предполагает оценку положения на основе данных визуального наблюдения и последующую генерацию управления на основе проанализированных данных.\n\nАвторы выделяют ряд проблем связанных с построением систем визуального сервоуправления.\nВ первую очередь это точность и временная задержка, обусловленная тем, что анализ видеоряда требеует достаточно продолжительного времени.\n\n\n\n\nЗадачи управления роботами манипуляторами имеют глубокую связь с вопросами позиционирования летательных аппаратов, подводных дронов ипрочих изделий такого типа.\n\n\nВ работах, посвященных исследуемой проблематике используется много разных вариантов матаппарата, позволяющего описывать положения объектов.\nОднако, повидимому, наиболее перспективвным является метод однородных координат. Метод однородных координат имеет то очевидное преимущество над прочими системами описания движений, что в этот метод также применим для построения матмодели камер и проекций изображений, что позволяет исмпользовать один и тот же матаппарат как для управления, так и для построения визуальной обратной связи.\n\nПомимо визуальной обратной связи существует ряд методов, позволяющих проводить оценку положений объектов управления.\n",
+					"file": "/home/mirmik/project/articles/rocinante/Обзор по теме/text.md",
+					"file_size": 1073,
+					"file_write_time": 132460547802967423,
+					"settings":
+					{
+						"buffer_size": 4344,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/mirmik/.config/inkscape/extensions/textext/config.json",
+					"settings":
+					{
+						"buffer_size": 298,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/mirmik/project/radioline/rfmeask/doc/protocol/ru/protocol.tex",
+					"settings":
+					{
+						"buffer_size": 10118,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/mirmik/project/zencad/zencad/libs/gear.py",
+					"settings":
+					{
+						"buffer_size": 2914,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: is",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/mirmik/src/RAK811_LoRaWAN_Arduino/image"
+			],
+			"file_history":
+			[
+				"/home/mirmik/project/articles/rocinante/Обзор по теме/обзор_литературы_по_сфере.md",
+				"/home/mirmik/project/articles/rocinante/ПаралельныеМанипуляторы/text.md",
+				"/home/mirmik/project/zencad/zencad/libs/gear.py",
+				"/home/mirmik/project/kernel/stage/1.arch-initialization/README.md",
+				"/home/mirmik/project/articles/kernel/1.ЧтоТакоеОС.md",
+				"/home/mirmik/project/kernel/src/compat/posix/sys/cdefs.h",
+				"/home/mirmik/project/kernel/src/libc/inttypes.h",
+				"/home/mirmik/project/kernel/stage/1.arch-initialization/main.",
+				"/home/mirmik/project/kernel/stage/1.arch-initialization/main.c",
+				"/home/mirmik/project/kernel/src/libc/string.h",
+				"/home/mirmik/project/kernel/src/libc/libc.g.py",
+				"/home/mirmik/project/kernel/src/arch/arm/armv7-e/asm/irq.h",
+				"/home/mirmik/project/kernel/src/libc/stdint.h",
+				"/home/mirmik/project/genos/arch/arm/stm32/include/asm/types.h",
+				"/home/mirmik/project/kernel/stage/1.arch-initialization/make.py",
+				"/home/mirmik/project/articles/ПарадигмыПрограммирования/text.md",
+				"/home/mirmik/project/genos/conf/conf-nucleo-f401re.py",
+				"/home/mirmik/project/genos/genos.g.py",
+				"/home/mirmik/project/kernel/src/newlib-stub.c",
+				"/home/mirmik/project/kernel/src/arch/arm/stm32/ldscripts/stm32_common.ld",
+				"/home/mirmik/project/kernel/src/arch/arm/stm32/ldscripts/stm32f401re.ld",
+				"/home/mirmik/project/genos/arch/arm/stm32/stm32.g.py",
+				"/home/mirmik/project/licant/licant/cxx_make.py",
+				"/home/mirmik/project/kernel/src/libc/string/memset.c",
+				"/home/mirmik/project/kernel/src/libc/string/memcpy.c",
+				"/home/mirmik/project/kernel/src/libc/include/string.h",
+				"/home/mirmik/project/kernel/src/libc/include/stddef.h",
+				"/home/mirmik/project/igris/compat/libc/include/libc/defines/size_t.h",
+				"/home/mirmik/project/igris/compat/libc/string/inhibit_libcall.h",
+				"/home/mirmik/project/kernel/article/text.md",
+				"/home/mirmik/project/genos/board/nucleo/src/board.cpp",
+				"/home/mirmik/project/genos/arch/arm/stm32/src/stm32_start.c",
+				"/home/mirmik/project/genos/src/genos/ktimer.h",
+				"/home/mirmik/project/genos/src/genos/ktimer.cpp",
+				"/home/mirmik/project/genos/src/genos/sched.h",
+				"/home/mirmik/project/genos/src/genos/schedee.h",
+				"/home/mirmik/project/genos/src/systime/systime.c",
+				"/home/mirmik/project/genos/src/systime/systime.h",
+				"/home/mirmik/project/genos/arch/arm/stm32/src/stm32_vectors.S",
+				"/home/mirmik/project/genos/src/hal/irqtable.cpp",
+				"/home/mirmik/project/genos/src/hal/irqtable.h",
+				"/home/mirmik/project/genos/src/hal/irq.h",
+				"/home/mirmik/project/articles/kernel/article.md",
+				"/home/mirmik/project/igris/igris/util/bug.h",
+				"/home/mirmik/project/igris/igris/util/location.h",
+				"/home/mirmik/project/genos/arch/arm/stm32/st",
+				"/home/mirmik/project/kernel/stage/1.arch-initialization/Makefile",
+				"/home/mirmik/project/kernel/src/kernel/irqs.h",
+				"/home/mirmik/project/genos/src/hal/irqtable.",
+				"/home/mirmik/project/genos/board/nucleo/curboard.h",
+				"/home/mirmik/project/genos/board/nucleo/include/nucleo-g474re-curboard.h",
+				"/home/mirmik/project/genos/board/nucleo/include/nucleo-boards-common.h",
+				"/home/mirmik/src/B-L072Z-LRWAN1/Applications/LoRa/PingPong/LoRaWAN/App/src/main.c",
+				"/home/mirmik/project/lora-test/main.cpp",
+				"/home/mirmik/project/rigger0/models/imupad.py",
+				"/home/mirmik/project/rigger0/models/raspipad.py",
+				"/home/mirmik/project/zencad/zencad/convert/svg.py",
+				"/home/mirmik/project/zencad/zencad/geom/ops1d2d.py",
+				"/home/mirmik/project/servoce/src/face.cpp",
+				"/home/mirmik/project/servoce/include/servoce/face.h",
+				"/home/mirmik/project/servoce/src/pywrap/face.cpp",
+				"/home/mirmik/project/zencad/utest/reflection.py",
+				"/home/mirmik/project/zencad/utest/api.py",
+				"/home/mirmik/project/servoce/src/shape.cpp",
+				"/home/mirmik/project/igris/CMakeLists.txt",
+				"/home/mirmik/project/genos/arch/arm/stm32/include/asm/stm32_rcc.h",
+				"/home/mirmik/project/genos/src/drivers/serial/stm32_usart.",
+				"/home/mirmik/project/genos/arch/arm/stm32/src/stm32_usart.c",
+				"/home/mirmik/project/genos/arch/arm/stm32/st-device/stm32f401xe.h",
+				"/home/mirmik/project/servoce/src/pywrap/shape.cpp",
+				"/home/mirmik/project/zencad/zencad/lazifier.py",
+				"/home/mirmik/project/zencad/zencad/geom/curve2.py",
+				"/home/mirmik/project/zencad/zencad/geom/curve3.py",
+				"/home/mirmik/project/zencad/zencad/geom/prim2d.py",
+				"/home/mirmik/project/zencad/utest/prim1d_test.py",
+				"/home/mirmik/project/zencad/utest/prim3d_test.py",
+				"/home/mirmik/project/zencad/utest/boolean_test.py",
+				"/home/mirmik/project/zencad/utest/prim2d_test.py",
+				"/home/mirmik/project/zencad/zencad/util.py",
+				"/home/mirmik/project/zencad/zencad/util2.py",
+				"/home/mirmik/project/genos/tests/board-init/blink-delayMicroseconds/main.cpp",
+				"/home/mirmik/project/igris/igris/trent/trent.h",
+				"/home/mirmik/project/genos/arch/arm/stm32/include/asm/systime.h",
+				"/home/mirmik/project/genos/arch/arm/cortex-m4/include/core_cm4.h",
+				"/home/mirmik/project/genos/arch/arm/stm32/st-device/stm32f446xx.h",
+				"/home/mirmik/project/genos/arch/arm/armv7e-m/src/periph/regs/systick.h",
+				"/home/mirmik/project/genos/arch/arm/stm32/src/stm32_systick.c",
+				"/home/mirmik/src/B-L072Z-LRWAN1/Applications/LoRa/End_Node/LoRaWAN/App/src/main.c",
+				"/home/mirmik/project/lora-test/model.py",
+				"/home/mirmik/project/genos/src/drivers/serial/uartring.cpp",
+				"/home/mirmik/src/RAK811_LoRaWAN_Arduino/Arduino_RAK811_LoRaWAN/Arduino_RAK811_LoRaWAN.ino",
+				"/home/mirmik/project/genos/src/drivers/serial/stm32_usart.h",
+				"/home/mirmik/project/genos/src/drivers/serial/stm32_usart.cpp",
+				"/home/mirmik/project/genos/src/drivers/spi/spi.h",
+				"/home/mirmik/project/articles/treemnip.py",
+				"/home/mirmik/project/genos/arch/arm/stm32/src/stm32_diag.c",
+				"/home/mirmik/project/genos/src/diag/diag_impl.c",
+				"/home/mirmik/project/igris/igris/compiler.h",
+				"/home/mirmik/project/genos/src/diag/diag.h",
+				"/home/mirmik/project/genos/arch/arm/armv7e-m/src/asm/irq.h",
+				"/home/mirmik/project/igris/igris/sync/syslock.h",
+				"/home/mirmik/project/igris/igris/sync/syslock_genos_atomic.cpp",
+				"/home/mirmik/project/igris/igris/osinter/spinlock.h",
+				"/home/mirmik/project/igris/igris/osinter/sem.h",
+				"/home/mirmik/project/igris/igris/displace.h",
+				"/home/mirmik/project/genos/src/drivers/spi/spi_client.h",
+				"/home/mirmik/project/genos/src/drivers/spi/spi_device.h",
+				"/home/mirmik/project/igris/igris/sync/csection.h",
+				"/home/mirmik/project/igris/igris/osinter/mutex.h",
+				"/home/mirmik/project/genos/tests/board-init/blink-cpu/__configure__.py",
+				"/home/mirmik/project/genos/src/HIDE/robo/robo.h",
+				"/home/mirmik/project/zencad/zencad/examples/1.GeomPrim/2.prim2d/widecurve.py",
+				"/home/mirmik/project/zencad/zencad/util",
+				"/home/mirmik/project/genos/arch/arm/stm32/src/stm32f4/stm32f4_sysinit.c",
+				"/home/mirmik/project/genos/arch/arm/stm32/src/stm32_arch.c",
+				"/home/mirmik/project/genos/board/nucleo/nucleo-f401re/board/pinout.h",
+				"/home/mirmik/project/genos/tests/stub/main.cpp",
+				"/home/mirmik/project/genos/tests/onewire/main.cpp",
+				"/home/mirmik/project/genos/tests/math/main.cpp",
+				"/home/mirmik/project/genos/tests/board-init/blinkirq/main.cpp",
+				"/home/mirmik/project/genos/tests/board-init/blink/main.cpp",
+				"/home/mirmik/project/genos/tests/board-init/blinkcpu/main.cpp",
+				"/home/mirmik/project/genos/board/nucleo/board.g.py",
+				"/home/mirmik/project/genos/conf/conf-nucleo-l432kc.py",
+				"/home/mirmik/project/genos/conf/conf-nucleo-l412rb.py",
+				"/home/mirmik/project/genos/board/nucleo/nucleo-f446re/board/pinout.h",
+				"/home/mirmik/project/genos/board/nucleo/nucleo-f401re/curboard.h",
+				"/home/mirmik/project/genos/conf/conf-nucleo-f446re.py"
+			],
+			"find":
+			{
+				"height": 24.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"x_z",
+					"С++",
+					") ",
+					"USART_SR_RXNE",
+					"fix_f",
+					"faces",
+					"svgwr",
+					"nvic",
+					"systick",
+					"dprln(buf)",
+					" TX_OUTPUT_POWER",
+					"USART",
+					"ALTE"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"serial2.println(buf, 0)"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/mirmik/src/RAK811_LoRaWAN_Arduino/image"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 4,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/mirmik/project/models/radioline/printer_gear.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 364,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										111,
+										111
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/mirmik/project/articles/rocinante/БоеваяРубка/ПаралельныеМанипуляторы/text.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9149,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2416,
+										2416
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 465.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/mirmik/src/textext-1.1.0/textextsetup.log",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 22626,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										14199,
+										14199
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 3150.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/mirmik/.config/inkscape/extensions/textext/default_packages.tex",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 179,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										100,
+										100
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/mirmik/project/articles/rocinante/Обзор по теме/text.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4344,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2001,
+										2001
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/mirmik/.config/inkscape/extensions/textext/config.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 298,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/mirmik/project/radioline/rfmeask/doc/protocol/ru/protocol.tex",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 10118,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										277,
+										277
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/home/mirmik/project/zencad/zencad/libs/gear.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2914,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2371,
+										2371
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 765.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.astyle_error_message":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,0,448,958,1478,3000,1920",
+			"project": "",
+			"replace":
+			{
+				"height": 44.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 26,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
