@@ -30,3 +30,17 @@
 
 Помимо визуальной обратной связи существует ряд методов, позволяющих проводить оценку положений объектов управления.
 
+
+
+
+Управление нежесткими манипуляторами ставит вопрос об учёте и фильтрации вибраций и исследовании частотных свойств объекта управления.
+
+Задача частотного анализа манипулятора нетривиальна, поскольку собственные частоты механической системы зависят от текущего взаимного расположения звеньев манипулятора. 
+(Vibration Analysis of Multilink Manipulators Based on Timoshenko Beam Theory)
+Enhanced_vibration_control_of_a_multilink_flexible
+
+
+
+1. Hill, J. & Park, W.,”Real time control of a robot with a mobile  camera”,    1979,    Proceedingsof    the    9th International  symposium  on  Industrial  robots,pp.233-246
+2. A Brief Comparative Study of Visual Servoing System
+3. Vibration Analysis of Multilink Manipulators Based on Timoshenko Beam Theory
