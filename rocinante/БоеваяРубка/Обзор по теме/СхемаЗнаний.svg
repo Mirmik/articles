@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (1.0.1+r73)"
+   sodipodi:docname="СхемаЗнаний.svg">
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="marker1956"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(1.1) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#0000ff;stroke-opacity:1;fill:#0000ff;fill-opacity:1"
+         id="path1954" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(1.1) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#0000fd;stroke-opacity:1;fill:#0000fd;fill-opacity:1"
+         id="path1088" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker1704"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path1702" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker1694"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#fc0000;stroke-opacity:1;fill:#fc0000;fill-opacity:1"
+         id="path1692" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker1684"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#00bf00;stroke-opacity:1;fill:#00bf00;fill-opacity:1"
+         id="path1682" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker1674"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#00bf00;stroke-opacity:1;fill:#00bf00;fill-opacity:1"
+         id="path1672" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker1664"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path1662" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker1590"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#ff0000;stroke-opacity:1;fill:#ff0000;fill-opacity:1"
+         id="path1588" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker1370"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#f40000;stroke-opacity:1;fill:#f40000;fill-opacity:1"
+         id="path1368" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker1348"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#0000ff;stroke-opacity:1;fill:#0000ff;fill-opacity:1"
+         id="path1346" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#00bf00;stroke-opacity:1;fill:#00bf00;fill-opacity:1"
+         id="path1091" />
+    </marker>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter915"
+       x="-9.1192702e-07"
+       width="1.0000018"
+       y="-1.7541161e-06"
+       height="1.0000035">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.0075346e-05"
+         id="feGaussianBlur917" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="389.49743"
+     inkscape:cy="388.56742"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="0"
+     inkscape:window-y="423"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;-inkscape-font-specification:'sans-serif, Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+       x="106.98286"
+       y="172.32195"
+       id="text857"><tspan
+         sodipodi:role="line"
+         id="tspan859"></tspan></text>
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:0.554;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path853"
+       cx="98.138275"
+       cy="158.08121"
+       rx="17.549028"
+       ry="12.277525" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.554;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter915)"
+       x="84.361603"
+       y="153.71172"
+       id="text901"><tspan
+         sodipodi:role="line"
+         id="tspan919"
+         x="84.361603"
+         y="153.71172">   Система </tspan><tspan
+         sodipodi:role="line"
+         id="tspan921"
+         x="84.361603"
+         y="159.00337">оценивания </tspan><tspan
+         sodipodi:role="line"
+         id="tspan923"
+         x="84.361603"
+         y="164.29504"> положений</tspan></text>
+    <rect
+       style="opacity:0.993;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect925"
+       width="32.502003"
+       height="11.905516"
+       x="86.799957"
+       y="123.71404" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="88.025375"
+       y="131.10576"
+       id="text929"><tspan
+         sodipodi:role="line"
+         id="tspan927"
+         x="88.025375"
+         y="131.10576"
+         style="stroke-width:0.264583">Манипулятор</tspan></text>
+    <ellipse
+       style="opacity:0.993;fill:none;stroke:#0000ff;stroke-width:0.554;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path943"
+       cx="150.22014"
+       cy="110.91213"
+       rx="26.742794"
+       ry="19.023317" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.554;stroke-miterlimit:4;stroke-dasharray:none"
+       x="129.05341"
+       y="99.076668"
+       id="text947"><tspan
+         sodipodi:role="line"
+         x="129.05341"
+         y="99.076668"
+         style="stroke-width:0.554;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan951">      Алгоритмы </tspan><tspan
+         sodipodi:role="line"
+         x="129.05341"
+         y="104.36833"
+         style="stroke-width:0.554;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan955">позиционирования, </tspan><tspan
+         sodipodi:role="line"
+         x="129.05341"
+         y="109.65999"
+         style="stroke-width:0.554;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan949">   регулирования,</tspan><tspan
+         sodipodi:role="line"
+         x="129.05341"
+         y="114.95165"
+         style="stroke-width:0.554;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan957">      фильтрация,</tspan><tspan
+         sodipodi:role="line"
+         x="129.05341"
+         y="120.24332"
+         style="stroke-width:0.554;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan959">      переходные </tspan><tspan
+         sodipodi:role="line"
+         x="129.05341"
+         y="125.53497"
+         style="stroke-width:0.554;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan961">        процессы </tspan></text>
+    <ellipse
+       style="opacity:0.993;fill:none;stroke:#00bf00;stroke-width:0.554;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path973"
+       cx="59.554684"
+       cy="101.58459"
+       rx="33.774223"
+       ry="17.779617" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="30.196945"
+       y="93.223961"
+       id="text977"><tspan
+         sodipodi:role="line"
+         id="tspan975"
+         x="30.196945"
+         y="93.223961"
+         style="stroke-width:0.264583">       Геометрическое </tspan><tspan
+         sodipodi:role="line"
+         x="30.196945"
+         y="98.515625"
+         style="stroke-width:0.264583"
+         id="tspan979">          оценивание.</tspan><tspan
+         sodipodi:role="line"
+         x="30.196945"
+         y="103.80728"
+         style="stroke-width:0.264583"
+         id="tspan981">         Определение </tspan><tspan
+         sodipodi:role="line"
+         x="30.196945"
+         y="109.09895"
+         style="stroke-width:0.264583"
+         id="tspan983">винтов чувствительности</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="133.96962"
+       y="146.23956"
+       id="text1003"><tspan
+         sodipodi:role="line"
+         id="tspan1001"
+         x="133.96962"
+         y="146.23956"
+         style="stroke-width:0.264583" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="121.86166"
+       y="146.81938"
+       id="text1007"><tspan
+         sodipodi:role="line"
+         id="tspan1005"
+         x="121.86166"
+         y="146.81938"
+         style="stroke-width:0.264583"></tspan><tspan
+         sodipodi:role="line"
+         x="121.86166"
+         y="151.2291"
+         style="stroke-width:0.264583"
+         id="tspan1017">1. Системы машинного зрения:</tspan><tspan
+         sodipodi:role="line"
+         x="121.86166"
+         y="155.63881"
+         style="stroke-width:0.264583"
+         id="tspan1019">   - визуальное сервоуправление</tspan><tspan
+         sodipodi:role="line"
+         x="121.86166"
+         y="160.04852"
+         style="stroke-width:0.264583"
+         id="tspan1009">   - обработка изображений</tspan><tspan
+         sodipodi:role="line"
+         x="121.86166"
+         y="164.45824"
+         style="stroke-width:0.264583"
+         id="tspan1011">2. Датчики расстояний </tspan><tspan
+         sodipodi:role="line"
+         x="121.86166"
+         y="168.86795"
+         style="stroke-width:0.264583"
+         id="tspan1013">   - лазерный интерферометр </tspan><tspan
+         sodipodi:role="line"
+         x="121.86166"
+         y="173.27766"
+         style="stroke-width:0.264583"
+         id="tspan1015">   - лазерный радар</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="10.889566"
+       y="125.64719"
+       id="text1023"><tspan
+         sodipodi:role="line"
+         x="10.889566"
+         y="125.64719"
+         style="stroke-width:0.264583"
+         id="tspan1025">1. Геометрическая модель.</tspan><tspan
+         sodipodi:role="line"
+         x="10.889566"
+         y="130.0569"
+         style="stroke-width:0.264583"
+         id="tspan1033">    - метод однородных </tspan><tspan
+         sodipodi:role="line"
+         x="10.889566"
+         y="134.46661"
+         style="stroke-width:0.264583"
+         id="tspan1047">      преобразований </tspan><tspan
+         sodipodi:role="line"
+         x="10.889566"
+         y="138.87633"
+         style="stroke-width:0.264583"
+         id="tspan1031">2. Модель жёсткости.</tspan><tspan
+         sodipodi:role="line"
+         x="10.889566"
+         y="143.28604"
+         style="stroke-width:0.264583"
+         id="tspan1041">    - метод конечных элементов</tspan><tspan
+         sodipodi:role="line"
+         x="10.889566"
+         y="147.69576"
+         style="stroke-width:0.264583"
+         id="tspan1049">    - статическая модель</tspan><tspan
+         sodipodi:role="line"
+         x="10.889566"
+         y="152.10547"
+         style="stroke-width:0.264583"
+         id="tspan1045">    - динамическая модель</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="109.75461"
+       y="80.777069"
+       id="text1058"><tspan
+         sodipodi:role="line"
+         id="tspan1056"
+         x="109.75461"
+         y="80.777069"
+         style="stroke-width:0.264583">1. Собственные возмущения сервоусилителей</tspan><tspan
+         sodipodi:role="line"
+         x="109.75461"
+         y="85.186783"
+         style="stroke-width:0.264583"
+         id="tspan1060">2. Взаимное влияние сервоусилителей.</tspan><tspan
+         sodipodi:role="line"
+         x="109.75461"
+         y="89.596497"
+         style="stroke-width:0.264583"
+         id="tspan1062">3. Переходный процесс выходного звена. </tspan></text>
+    <path
+       style="fill:none;stroke:#f40000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1370)"
+       d="m 100.90771,145.44944 1.70131,-8.54494"
+       id="path1064" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1348)"
+       d="m 129.77895,123.33138 -9.13169,4.46193"
+       id="path1066" />
+    <path
+       style="fill:none;stroke:#00bf00;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 82.414636,114.87365 10.872623,7.78771"
+       id="path1068" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.79499996,0.26499999;marker-end:url(#marker1590);stroke-dashoffset:0"
+       d="M 82.601976,151.4852 70.133643,119.3849"
+       id="path1576" />
+    <path
+       style="fill:none;stroke:#00bf00;stroke-width:0.26458299;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.79374896, 0.26458299000000002;stroke-dashoffset:0;marker-end:url(#marker1684)"
+       d="m 74.610398,117.90836 11.856024,30.06835"
+       id="path1578" />
+    <path
+       style="fill:none;stroke:#fc0000;stroke-width:0.26458299;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.79374896, 0.26458299000000002;stroke-dashoffset:0;marker-end:url(#marker1694)"
+       d="m 111.54073,148.99397 21.10005,-22.99228"
+       id="path1580" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.26458299;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.79374896, 0.26458299000000002;stroke-dashoffset:0;marker-start:url(#marker1956)"
+       d="m 114.39639,151.9841 21.95988,-24.13886"
+       id="path1582" />
+    <path
+       style="fill:none;stroke:#0000fd;stroke-width:0.26458299;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.79374896, 0.26458299000000002;stroke-dashoffset:0;marker-end:url(#marker1630);marker-start:url(#Arrow2Lstart)"
+       d="m 92.067162,109.61444 30.050188,3.23338"
+       id="path1584" />
+    <path
+       style="fill:none;stroke:#00bf00;stroke-width:0.26458299;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.79374896, 0.26458299000000002;stroke-dashoffset:0;marker-end:url(#marker1674)"
+       d="m 94.215348,105.68056 27.893062,2.63121"
+       id="path1586" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="38.532562"
+       y="56.307762"
+       id="text2134"><tspan
+         sodipodi:role="line"
+         id="tspan2132"
+         x="38.532562"
+         y="56.307762"
+         style="stroke-width:0.264583">Карта знаний для решения задачи точного визуального </tspan><tspan
+         sodipodi:role="line"
+         x="38.532562"
+         y="60.717476"
+         style="stroke-width:0.264583"
+         id="tspan2136">сервоуправления нежестким манипулятором.</tspan></text>
+  </g>
+</svg>
