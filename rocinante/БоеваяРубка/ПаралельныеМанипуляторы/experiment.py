@@ -53,18 +53,18 @@ b.rotator.set_coord(0)
 #disp(a)
 #disp(d)
 
-sim = zencad.libs.bullet.simulation(plane=False)
-sim.set_gravity(*(0,0,-0))
+sim = zencad.libs.bullet.simulation(scale_factor=1000, plane=True)
+sim.set_gravity(*(0,0,-1))
 
 sim.add_assemble(aa, fixed_base = True)
 sim.add_assemble(dd, fixed_base = True)
 sim.add_assemble(tbox)
 sim.add_assemble(tbox2)
 
-KP = 1000
-KPI = 100
-KV = 1000000
-KVI = 0#2000000
+KP = 10
+KPI = 1
+KV = 0.0000001
+KVI = 0.000001#2000000
 
 serv0 = zencad.bullet.servo_controller3(kunit=a, simulation=sim)
 serv0.init()
