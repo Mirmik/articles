@@ -9,7 +9,7 @@ import zencad.bullet
 
 class leg(zencad.assemble.unit):
 	h = 800
-	hb = 600
+	hb = 800
 	def __init__(self, en=True):
 		super().__init__()
 		
@@ -81,8 +81,9 @@ sim.add_assemble(dd, fixed_base = True)
 sim.add_assemble(ta)
 sim.add_body(tbox2)
 
-KP = 16
-KPI = 30
+KP = 24#16
+#KPI = 0
+KPI = 15#30
 KV = 0.2
 KVI = 0.01#2000000
 
@@ -133,8 +134,13 @@ tgt1 = disp(cylinder(r=10,h=800,center=True).rotateX(deg(90)), color.red)
 #zencad.bullet.enable_force_torque_sensor(c.output)
 #zencad.bullet.enable_force_torque_sensor(f.output)
 
+i0=screw()
+i1=screw()
 
 def animate(state):
+	global i0
+	global i1
+
 	tim = state.loctime
 
 	sim.step()
@@ -145,31 +151,62 @@ def animate(state):
 	serv2.serve(state.delta)
 	serv3.serve(state.delta)
 
-	target0 = vector3(200,0,450) + vector3(0,0,10) * tim
-	target1 = vector3(-200,0,450) + vector3(0,0,10) * tim
+	si = math.sin((tim-10) / 4)
+	co = math.cos((tim-10) / 4)
+
+	if tim < 10:
+		target0 = vector3(180,0,400) + vector3(0,0,50) * tim
+		target1 = vector3(-180,0,400) + vector3(0,0,50) * tim
+		target = vector3(0,0,400) + vector3(0,0,50) * tim
+		i0=screw()
+		i1=screw()
+	else:
+		target0 = vector3(180,0,750) + vector3(0,0,150) * co + vector3(300,0,0) * si
+		target1 = vector3(-180,0,750) + vector3(0,0,150) * co + vector3(300,0,0) * si
+		target = vector3(0,0,750) + vector3(0,0,150) * co + vector3(300,0,0) * si
 
 	error0 = target0 - c.output2.global_location.translation() 
 	error1 = target1 - f.output2.global_location.translation() 
 
-	sigs0 = chain0.decompose_linear(error0, use_base_frame=True)
-	sigs1 = chain1.decompose_linear(error1, use_base_frame=True)
+	target = translate(target)
+	current = ta.global_location
 
-	serv0.set_speed2(sigs0[0])
-	serv1.set_speed2(sigs0[1])
-	serv2.set_speed2(sigs1[0])
-	serv3.set_speed2(sigs1[1])
+	error = current.inverse() * target
 
-	print(zencad.bullet.get_force_torque_sensor(c.output2))
-	print(zencad.bullet.get_force_torque_sensor(f.output2))
-	#print(zencad.bullet.get_force_torque_sensor(c))
-	#print(zencad.bullet.get_force_torque_sensor(a.output))
-	#print(zencad.bullet.get_force_torque_sensor(b.rotator.output))
-	print()
+	errscr = screw.from_trans(error)
+	i0 += errscr * state.delta
 
-	#print(serv0.pidpos.value(), serv1.pidpos.value(), serv0.pidspd.value(), serv1.pidspd.value())
-	#print(serv0.pidspd.integral, serv1.pidspd.integral, serv2.pidspd.integral, serv3.pidspd.integral)
-	#print(serv0.pidpos.integral, serv1.pidpos.integral, serv2.pidpos.integral, serv3.pidpos.integral)
-	#print(serv0.poserr)
+	arm0 = c.output2.global_location.translation() - current.translation()
+	u0 = (errscr*1+i0*0.1).kinematic_carry(arm0) 
+	arm1 = f.output2.global_location.translation() - current.translation()
+	u1 = (errscr*1+i0*0.1).kinematic_carry(arm1) 
+
+	#i0 += u0*state.delta
+	#i1 += u1*state.delta 
+	aaa = zencad.bullet.get_force_torque_sensor(c.output2).lin
+	bbb = zencad.bullet.get_force_torque_sensor(f.output2).lin
+
+	if tim < 10:
+		sigs0 = chain0.decompose_linear(error0 + aaa*0, use_base_frame=True)
+		sigs1 = chain1.decompose_linear(error1 + bbb*0, use_base_frame=True)
+	else:
+		sigs0 = chain0.decompose_linear(u0.lin*2 - arm0*0.4 + aaa*0, use_base_frame=True)
+		sigs1 = chain1.decompose_linear(u1.lin*2 - arm1*0.4 + bbb*0, use_base_frame=True)
+
+
+	if tim < 10:
+		KOMPKOEFF = 0.2
+	else:
+		KOMPKOEFF = 0.2
+	serv0.set_speed2(sigs0[0] - serv0.force * KOMPKOEFF)
+	serv1.set_speed2(sigs0[1] - serv1.force * KOMPKOEFF)
+	serv2.set_speed2(sigs1[0] - serv2.force * KOMPKOEFF)
+	serv3.set_speed2(sigs1[1] - serv3.force * KOMPKOEFF)
+
+	print("F0:", serv0.force, serv2.force)
+	print("F1:", serv1.force, serv3.force)
+	print("aaa", aaa)
+	print("bbb", bbb)
 
 	tgt0.relocate(move(target0))
 	tgt1.relocate(move(target1))
