@@ -9,16 +9,22 @@ import zencad.bullet
 
 class leg(zencad.assemble.unit):
 	h = 800
+	hb = 600
 	def __init__(self, en=True):
 		super().__init__()
-		self.add(cylinder(r=60, h=self.h) + sphere(r=80).up(self.h))
+		
+		m = cylinder(r=60, h=self.hb)
+		if en:
+			m += sphere(r=80).up(self.h)
+		self.add(m)
 		if en:
 			self.rotator = zencad.assemble.rotator(
 				location=up(self.h), 
 				axis=(0,1,0), 
-				parent=self)
+				parent=self) 
 		else:
-			self.output = zencad.assemble.unit(parts=[sphere(1)], location=up(self.h), parent=self)
+			self.output1 = zencad.assemble.unit(location=up(self.h), parent=self)
+			self.output2 = zencad.assemble.unit(parts=[sphere(80)], parent=self.output1)
 
 #tbox= box(40,40,20, center=True) -box(20,center=True).right(20) - box(20,center=True).left(20)
 #tbox= tbox.up(80)
@@ -34,14 +40,14 @@ ta.up(1000)#.forw(1000)
 
 tbox2 = box(800,800,350,center=True).up(600/2)
 
-aa = zencad.assemble.unit(parts=[box(40,40,40)], location=up(30))
+aa = zencad.assemble.unit(parts=[box(40,40,40,center=True)], location=up(30))
 a = zencad.assemble.rotator(axis=(0,1,0))
 aa.link(a)
 a.add_shape(sphere(80))
 b = leg()
 c = leg(False)
 
-dd = zencad.assemble.unit(parts=[box(40,40,40)], location=up(30))
+dd = zencad.assemble.unit(parts=[box(40,40,40,center=True)], location=up(30))
 d = zencad.assemble.rotator(axis=(0,1,0))
 dd.link(d)
 d.add_shape(sphere(80))
@@ -51,7 +57,7 @@ f = leg(False)
 a.link(b)
 d.link(e)
 
-t= zencad.assemble.unit(parts=[box(40,40)])
+#t= zencad.assemble.unit(parts=[box(40,40)])
 
 b.rotator.link(c)
 e.rotator.link(f)
@@ -112,16 +118,21 @@ serv3.set_regs(
 	filt=1, maxforce=None)
 
 #serv0.set_speed_target(3)
+
 serv0.set_position_target(deg(45))
 serv1.set_position_target(deg(-90))
 serv2.set_position_target(deg(-45))
 serv3.set_position_target(deg(90))
 
-chain0 = zencad.libs.kinematic.kinematic_chain(c.output)
-chain1 = zencad.libs.kinematic.kinematic_chain(f.output)
+chain0 = zencad.libs.kinematic.kinematic_chain(c.output2)
+chain1 = zencad.libs.kinematic.kinematic_chain(f.output2)
 
 tgt0 = disp(cylinder(r=10,h=800,center=True).rotateX(deg(90)), color.red)
 tgt1 = disp(cylinder(r=10,h=800,center=True).rotateX(deg(90)), color.red)
+
+#zencad.bullet.enable_force_torque_sensor(c.output)
+#zencad.bullet.enable_force_torque_sensor(f.output)
+
 
 def animate(state):
 	tim = state.loctime
@@ -134,12 +145,11 @@ def animate(state):
 	serv2.serve(state.delta)
 	serv3.serve(state.delta)
 
-	print(tim)
 	target0 = vector3(200,0,450) + vector3(0,0,10) * tim
 	target1 = vector3(-200,0,450) + vector3(0,0,10) * tim
 
-	error0 = target0 - c.output.global_location.translation() 
-	error1 = target1 - f.output.global_location.translation() 
+	error0 = target0 - c.output2.global_location.translation() 
+	error1 = target1 - f.output2.global_location.translation() 
 
 	sigs0 = chain0.decompose_linear(error0, use_base_frame=True)
 	sigs1 = chain1.decompose_linear(error1, use_base_frame=True)
@@ -149,9 +159,16 @@ def animate(state):
 	serv2.set_speed2(sigs1[0])
 	serv3.set_speed2(sigs1[1])
 
+	print(zencad.bullet.get_force_torque_sensor(c.output2))
+	print(zencad.bullet.get_force_torque_sensor(f.output2))
+	#print(zencad.bullet.get_force_torque_sensor(c))
+	#print(zencad.bullet.get_force_torque_sensor(a.output))
+	#print(zencad.bullet.get_force_torque_sensor(b.rotator.output))
+	print()
+
 	#print(serv0.pidpos.value(), serv1.pidpos.value(), serv0.pidspd.value(), serv1.pidspd.value())
-	print(serv0.pidspd.integral, serv1.pidspd.integral, serv2.pidspd.integral, serv3.pidspd.integral)
-	print(serv0.pidpos.integral, serv1.pidpos.integral, serv2.pidpos.integral, serv3.pidpos.integral)
+	#print(serv0.pidspd.integral, serv1.pidspd.integral, serv2.pidspd.integral, serv3.pidspd.integral)
+	#print(serv0.pidpos.integral, serv1.pidpos.integral, serv2.pidpos.integral, serv3.pidpos.integral)
 	#print(serv0.poserr)
 
 	tgt0.relocate(move(target0))
