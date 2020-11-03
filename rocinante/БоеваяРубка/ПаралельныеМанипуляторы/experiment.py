@@ -24,7 +24,7 @@ class leg(zencad.assemble.unit):
 				parent=self) 
 		else:
 			self.output1 = zencad.assemble.unit(location=up(self.h), parent=self)
-			self.output2 = zencad.assemble.unit(parts=[sphere(80)], parent=self.output1)
+			self.output2 = zencad.assemble.unit(parts=[box(160,center=True)], parent=self.output1)
 
 #tbox= box(40,40,20, center=True) -box(20,center=True).right(20) - box(20,center=True).left(20)
 #tbox= tbox.up(80)
@@ -120,10 +120,15 @@ serv3.set_regs(
 
 #serv0.set_speed_target(3)
 
-serv0.set_position_target(deg(45))
-serv1.set_position_target(deg(-90))
-serv2.set_position_target(deg(-45))
-serv3.set_position_target(deg(90))
+#serv0.set_position_target(deg(45))
+#serv1.set_position_target(deg(-90))
+#serv2.set_position_target(deg(-45))
+#serv3.set_position_target(deg(90))
+
+serv0.set_position_target(deg(0))
+serv1.set_position_target(deg(-45))
+serv2.set_position_target(deg(0))
+serv3.set_position_target(deg(45))
 
 chain0 = zencad.libs.kinematic.kinematic_chain(c.output2)
 chain1 = zencad.libs.kinematic.kinematic_chain(f.output2)
@@ -198,10 +203,10 @@ def animate(state):
 		KOMPKOEFF = 0.2
 	else:
 		KOMPKOEFF = 0.2
-	serv0.set_speed2(sigs0[0] - serv0.force * KOMPKOEFF)
-	serv1.set_speed2(sigs0[1] - serv1.force * KOMPKOEFF)
-	serv2.set_speed2(sigs1[0] - serv2.force * KOMPKOEFF)
-	serv3.set_speed2(sigs1[1] - serv3.force * KOMPKOEFF)
+	#serv0.set_speed2(sigs0[0] - serv0.force * KOMPKOEFF)
+	#serv1.set_speed2(sigs0[1] - serv1.force * KOMPKOEFF)
+	#serv2.set_speed2(sigs1[0] - serv2.force * KOMPKOEFF)
+	#serv3.set_speed2(sigs1[1] - serv3.force * KOMPKOEFF)
 
 	print("F0:", serv0.force, serv2.force)
 	print("F1:", serv1.force, serv3.force)
