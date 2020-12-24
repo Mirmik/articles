@@ -1,0 +1,23 @@
+command_center.o: \
+ /home/mirmik/project/ralgo/ralgo/heimer/command_center.cpp \
+ /home/mirmik/project/ralgo/./ralgo/heimer/command_center.h \
+ /home/mirmik/project/ralgo/./ralgo/heimer/axisctr.h \
+ /home/mirmik/project/ralgo/./ralgo/log.h \
+ /home/mirmik/project/ralgo/./ralgo/trajectory/traj1d.h \
+ /home/mirmik/project/ralgo/./ralgo/trajectory/speed_deformer.h \
+ /home/mirmik/project/ralgo/./ralgo/disctime.h \
+ /home/mirmik/project/ralgo/./ralgo/heimer/axis.h \
+ /home/mirmik/project/ralgo/./ralgo/heimer/control.h \
+ /home/mirmik/project/ralgo/./ralgo/heimer/interrupt_args.h \
+ /home/mirmik/project/ralgo/./ralgo/heimer/protect.h \
+ /home/mirmik/project/ralgo/./ralgo/heimer/linintctr.h \
+ /home/mirmik/project/ralgo/./ralgo/linalg/vecops.h \
+ /home/mirmik/project/ralgo/./ralgo/util/helpers.h \
+ /home/mirmik/project/ralgo/./ralgo/linalg/vecops_base.h \
+ /home/mirmik/project/ralgo/./ralgo/heimer/interpolation_group.h \
+ /home/mirmik/project/ralgo/./ralgo/heimer/coordinate_checker.h \
+ /home/mirmik/project/ralgo/./ralgo/geom/zone_check.h \
+ /home/mirmik/project/ralgo/./ralgo/trajectory/trajNd.h \
+ /home/mirmik/project/ralgo/./ralgo/planning/phase.h \
+ /home/mirmik/project/ralgo/./ralgo/defs.h \
+ /home/mirmik/project/ralgo/./ralgo/planning/speed_deformer.h
